@@ -22,7 +22,7 @@ Já ale pamatoval jsem si větu tu co obsah veškeré vyšší moudrosti. O Ros
 
 Proto věru nepozbyl úcty mé. Dobrý, nesmírně dobrý člověk! –
 
-\* \* \*
+* * *
 
 Bylo to v sluneční den srpnový, tak as ku třetí hodině odpolední. Kdo šel právě Ostruhovou ulicí, zůstal stát; kdo stál právě tak po domácku venku, zavolal honem něco dovnitř domu; z krámů vybíhali lidé. Všichni se dívali za panem Rybářem, kráčejícím dolů.
 
@@ -66,7 +66,7 @@ Za nějaký okamžik byl pan Rybář zas již u rohu Ostruhové ulice. Kráčel
 
 Dnes již z domu nevyšel, ne na hradby a ne za Brusku. A byl tak krásný den!
 
-\* \* \*
+* * *
 
 Bylo již k půlnoci. Nebe se modralo jako za rána, měsíc zářil nej­pyšnějším, nejkouzelnějším leskem svým, hvězdy se třepetaly jako bílé jiskry. Petřín byl pokryt nádhernou stříbrnou mlhou, stříbrná záplava ležela na celé Praze.
 
@@ -98,7 +98,7 @@ Stařec sebou škubnul. Pak zašeptal, dívaje se upřeně k Petřínu: „Nem�
 
 Náhle přistoupil stařec zas až k samému oknu. Ústa se mu zachvěla, v oku cítil nevýslovný tlak. Pohlídl ven. Neviděl nic určitého, vše se třpytilo jakoby rozpuštěný démant, vše se vlnilo – až k samému oknu – až do jeho oka – moře – moře!
 
-\* \* \*
+* * *
 
 Dál už povídat nebudu, dál už neumím.
 

@@ -24,7 +24,7 @@ Jen hostinský v našem domě, pan Herzl, mu nedal nikdy trojníku. Pan Herzl b
 
 Mínil lva na svatovítské věži. Přiznám se, že mně to tvrzení páně Vojtíškovo vrtávalo mozkem. O tom jsem slušným způsobem a co rozumný mladý muž – byl jsem tenkráte již osm let stár – ovšem nemohl pochybovat ani na okamžik, že zmíněný lev může právě tak jako já o pouti jít přes Kamenný most[56](#footnote-27518-56) až na Vyšehrad a zde si také sednout na známou krouživou houpačku. Ale jak že z toho mají vzejít lepší časy, to jsem nechápal. –
 
-\* \* \*
+* * *
 
 Byl překrásný den červnový. Pan Vojtíšek vyšel z kostela sv. Mikuláše, posadil si čepici na hlavu, co ochranu proti sálajícímu slunci, a šel pomalu přes nynější štěpánské náměstí. U sochy sv. Trojice se zastavil a usedl na schod. Kašna za ním zvučně šplounala, slunce hřálo, bylo tak příjemno! Patrně obědval dnes někde, kde stolovali až po dvanácté.
 
@@ -68,7 +68,7 @@ Kráčel pomalu k Ostruhové ulici. Dvě zelené koule svítily za ním, až zm
 
 Pak si Miliónová stáhla plachetku až po bradu a seděla dlouho nepohnutě. Snad usnula.
 
-\* \* \*
+* * *
 
 Divné zvěsti začaly se najednou šourat Malou Stranou. A koho se dotkly, škrabal se za uchem. „Pan Vojtíšek,“ znělo to často v rozpravách a za chvilku zas jsi slyšel: „Pan Vojtíšek!“
 
@@ -108,13 +108,13 @@ Hleděl jsem upřeně oknem tam na plačícího pana Vojtíška. Matka vařila p
 
 Najednou vidí, že pan Vojtíšek pomalu se zdvihá. Rychle ukrojila krajíc chleba, položila jej na hrnek s kávou a spěchala ven. Volala, kývala s prahu, pan Vojtíšek neviděl a neslyšel. Šla až k němu a podávala mu hrnek. Pan Vojtíšek díval se němě na ni. „Zaplať pánbůh,“ zašeptal konečně a pak dodal: „ale teď nemůžu nic polknout.“
 
-\* \* \*
+* * *
 
 Víc pan Vojtíšek po Malé Straně nežebral. Za řekou ovšem také nemohl chodit od domu k domu, neznali ho tam lidé a neznali policajti. Usadil se na Křížovnickém plácku u podloubíčka klementinského, zrovna naproti vojenské strážnici, která stávala u mostu. Vídal jsem ho tam po každé, když jsme v prázdné čtvrteční odpůldne zašli si na Staré Město podívat se na výlohy ryneckých knihkupců. Čepice ležela před ním dnem na zemi, hlava byla vždy svěšena k prsům, v rukou držel růženec, nevšímal si nikoho. Pleš, tváře, ruce neleskly a nečervenaly se více jako před nedávnem, zežloutlá kůže se byla scvrkla do šupinatých vrásek. Mám, nemám to říci? – ale proč bych to neřekl, že jsem se netroufal přímo k němu, že jsem se plížil vždy kolem pilíře, abych mu mohl čtvrteční své jmění, šajnový groš, odzadu hodit do čepice a pak rychle utéci.
 
 Pak jsem ho potkal jednou na mostě; vedl ho policajt na Malou Stranu. A pak jsem ho nespatřil už nikdy.
 
-\* \* \*
+* * *
 
 Bylo mrazivé únorové jitro. Venku ještě šero, okno samý tlustý, květnatý led, v němž se oranžově odrážel svit z protějších kamen. Před domem zaharašil vozík a zaštěkali psi.
 
