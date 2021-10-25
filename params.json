@@ -213,8 +213,7 @@
       "identifier": "urn:uuid:296c0919-9963-415a-a386-6c26c077b931",
       "author": "Jan Neruda",
       "publisher": "Městská knihovna v Praze",
-      "modified": "2021-10-22T10:08:13.764Z",
-      "languageCode": "cs"
+      "modified": "2021-10-25T05:57:49.473Z"
     },
     "chapters": [
       {
@@ -248,79 +247,79 @@
         "xhtml": "povidky_malostranske_005.xhtml"
       },
       {
-        "titleSuggest": "",
+        "titleSuggest": "Týden v tichém domě",
         "subtitleSuggest": "",
         "filename": "povidky_malostranske_006.md",
         "xhtml": "povidky_malostranske_006.xhtml"
       },
       {
-        "titleSuggest": "",
+        "titleSuggest": "Pan Ryšánek a pan Schlegl",
         "subtitleSuggest": "",
         "filename": "povidky_malostranske_007.md",
         "xhtml": "povidky_malostranske_007.xhtml"
       },
       {
-        "titleSuggest": "",
+        "titleSuggest": "Přivedla žebráka na mizinu",
         "subtitleSuggest": "",
         "filename": "povidky_malostranske_008.md",
         "xhtml": "povidky_malostranske_008.xhtml"
       },
       {
-        "titleSuggest": "",
+        "titleSuggest": "O měkkém srdci paní Rusky",
         "subtitleSuggest": "",
         "filename": "povidky_malostranske_009.md",
         "xhtml": "povidky_malostranske_009.xhtml"
       },
       {
-        "titleSuggest": "",
+        "titleSuggest": "Večerní šplechty",
         "subtitleSuggest": "",
         "filename": "povidky_malostranske_010.md",
         "xhtml": "povidky_malostranske_010.xhtml"
       },
       {
-        "titleSuggest": "",
+        "titleSuggest": "Doktor Kazisvět",
         "subtitleSuggest": "",
         "filename": "povidky_malostranske_011.md",
         "xhtml": "povidky_malostranske_011.xhtml"
       },
       {
-        "titleSuggest": "",
+        "titleSuggest": "Hastrman",
         "subtitleSuggest": "",
         "filename": "povidky_malostranske_012.md",
         "xhtml": "povidky_malostranske_012.xhtml"
       },
       {
-        "titleSuggest": "",
+        "titleSuggest": "Jak si nakouřilpan Vorel pěnovku",
         "subtitleSuggest": "",
         "filename": "povidky_malostranske_013.md",
         "xhtml": "povidky_malostranske_013.xhtml"
       },
       {
-        "titleSuggest": "",
+        "titleSuggest": "U Tří lilií",
         "subtitleSuggest": "",
         "filename": "povidky_malostranske_014.md",
         "xhtml": "povidky_malostranske_014.xhtml"
       },
       {
-        "titleSuggest": "",
+        "titleSuggest": "Svatováclavská mše",
         "subtitleSuggest": "",
         "filename": "povidky_malostranske_015.md",
         "xhtml": "povidky_malostranske_015.xhtml"
       },
       {
-        "titleSuggest": "",
+        "titleSuggest": "Jak to přišlo,že dne 20. srpna roku 1849, o půl jedné s poledne,Rakousko nebylo rozbořeno",
         "subtitleSuggest": "",
         "filename": "povidky_malostranske_016.md",
         "xhtml": "povidky_malostranske_016.xhtml"
       },
       {
-        "titleSuggest": "",
+        "titleSuggest": "Psáno o letošních Dušičkách",
         "subtitleSuggest": "",
         "filename": "povidky_malostranske_017.md",
         "xhtml": "povidky_malostranske_017.xhtml"
       },
       {
-        "titleSuggest": "",
+        "titleSuggest": "Figurky",
         "subtitleSuggest": "",
         "filename": "povidky_malostranske_018.md",
         "xhtml": "povidky_malostranske_018.xhtml"
@@ -430,6 +429,6 @@
       "user": "books-are-next",
       "repo": "povidky-malostranske"
     },
-    "generatedAt": 1634897294454
+    "generatedAt": 1635141470551
   }
 }
