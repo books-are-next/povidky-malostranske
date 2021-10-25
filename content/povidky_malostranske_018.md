@@ -18,7 +18,7 @@ Hned do toho – svatý Jiří je přede dveřmi! –
 
 Nemýlím-li se, jsou na Petříně slavíci?
 
-\* \* \*
+* * *
 
 Mám štěstí. Byt, že bych si nemohl lepšího ani přát, v tiché Oujezdské ulici. Tam se schoulím jako dítě do svého tajuplného koutečka, nikdo se o mně nedoví, nikdo!
 
@@ -74,7 +74,7 @@ Kluk natáhl mlčky ruku.
 
 Myslím, že jsem učinil na všechny dojem dobrý.
 
-\* \* \*
+* * *
 
 Byl to perný den! Stěhování a rovnání a přendavání, že šla hlava kolem. Nestěhoval jsem se ještě často a stěhování je mně nemilé; jsou prý lidé, kteří mají docela zálibu v něm – zvláštní choroba, musí to být lidé povahy nestálé. Ale upřít se nedá, že i ve stěhování je poesie. Když starý byt začne se prázdnit a pustnout, zmocní se nás náhle jakás lítostná tesknota, je nám, jako bychom opouštěli ochranný přístav a vydávali se na zvratké vlny. A nový byt se dívá na nás cize, nevypravuje nám ničeho, je chladný. Bylo mně, jako bych co malé dítě v nenavyklé místnosti chytati se měl matčiny sukně a volat: „Bojím!“ Ale zítra ráno vstanu a zajisté už řeknu: „Dobře se to spí.“ – Kolikpak máme už hodin? Půl jedenácté. – A po domě už ticho jako v studni. To je dobrý obraz: jako v studni, mnohem lepší než „jako v kostele“, alespoň ne tak otřelý.
 
@@ -86,7 +86,7 @@ Pořád poslouchám, tluče-li slavík. Neslyším nic, snad je mu příliš je�
 
 Ale slavíkovi trochu zimy přec nevadí? – Naslouchám marně – žádný klokot! – Kroky! Mužské, těžké kroky, a přicházejí po chodbě blíž. Vrzly dveře, to jsou dveře naší kuchyně – ženský hlas, mužský hlas – patrně přibyl konduktér z cesty. Honem zhasím a lehnu si, ona by ho přivedla, aby zkusil, jak se to leží. A konduktér, když přijede z cesty, je tak špinavý.
 
-\* \* \*
+* * *
 
 Zákon občanský. Řád směneční. Zákon obchodní. Řízení soudní. Patent sumární. Patent o řízení v rušení držení. Patent o řízení v rozepřích o nájmu. Zákon horní. Zákon vodní. Zákon trestní. Řád trestní. Zákon o řízení ve věcech nesporných. Zákon obecní. Řád notariátní. Řád živnostenský. Řád knihovní. Řízení směnečné. Zákon o spolcích. Zákon o myslivosti. Zákon o poplatcích.
 
@@ -213,7 +213,7 @@ Pramálo platno, ten chlap metá své ohnivé cvočky skrz pevnostní zeď! –
 
 To bude děsná noc! –
 
-\* \* \*
+* * *
 
 Deset hodin a já teprv vstávám! Hlava jako škopek. Nevím, kdy jsem usnul, myslím, že asi ku třetí. Mezi druhou a třetí jsem zimničně dřímal, slavík štěkal pořád. Na Starém Městě slavíci neštěkají. A nejspíš že mám rýmu. Mezi očima mne to lupe a v nose šimrá. Nebe je černé, vzduch zimavý. Bývá léto, kdy je i červenec jako listopad. Studené pršky, listy opadávají a člověka mrazí.
 
@@ -285,7 +285,7 @@ Slavík neštěká, snad zmrznul. Dej to pánbůh!
 
 To bych přec rád věděl, proč jsem hloupý!
 
-\* \* \*
+* * *
 
 „Tedy napřed už mou gratulaci! Myslím si, že od starého přítele přijmeš přec nějakou radu, an mám za svou bratrskou povinnost, vím-li radu dobrou, sdělit Ti ji. Především ku zkoušce chladnou krev! Vědít budeš dost, o tom jsem přesvědčen, ale chladná krev má, abych tak řekl, dvakrát větší cenu než všechny vědomosti. Páni vrchnozemští radové dávají nejvíce otázky rozumové, a nenapadne-li Ti už pranic jiného a pan rada Ti řekne: ‚Když někdo s takovou věcí k Vám co advokátu přijde, co budete dělat?‘ –, odpověz důvěrně: ‚Budu žádat od něho peněžitou zálohu.‘ Věř, rada to za…“
 
@@ -311,7 +311,7 @@ Slavík štěká, ale někde vzdáleněji. Tam ať si štěká třeba. – Ale 
 
 Zdá se mně, že konduktérka se dnes už tak často neptala, poroučím-li něco. Všechno se časem svým dostane do pravé míry. Také je možno, že se mýlím – když je člověk do studií zabrán!
 
-\* \* \*
+* * *
 
 Rýma a studie. O světě nevím praničeho, tak jsem se zavrtal.
 
@@ -321,7 +321,7 @@ Kočka už ke mně nevchází, ani když jsou dveře dokořán. Jen se postaví 
 
 Vzpomínám si, že jsem konduktéra posud nespatřil. Byl mezitím doma?
 
-\* \* \*
+* * *
 
 Cikorie v kávě! – Já se nemýlím, cikorie – to je děsné! _Musí se něco stát._
 
@@ -329,7 +329,7 @@ Cikorie v kávě! – Já se nemýlím, cikorie – to je děsné! _Musí se 
 
 Letím ku konci občanského zákona se spěchem zvýšeným, jako závodní kůň poblíž cíle.
 
-\* \* \*
+* * *
 
 Opět cikorie, a myslím že víc než včera, a konduktérka se už neptá ani jednou. Mám alespoň pokoj. – Včera mně přivedla zase jinou ševcovou, vdovu, matku. Že prý jsem tak nadmíru dobrý člověk. Opět zlatka.
 
@@ -349,7 +349,7 @@ Byl u mne malíř, jen tak na skok. Zdali prý bych mu nechtěl sedět tedy mod
 
 Jsem s občanským zákonem _hotov!_ – Zítra se dám do řádu směnečného. – To se to bude dnes spát!
 
-\* \* \*
+* * *
 
 Takhle bylo snad Puškinovu teleti, když zvolalo: „ó á osel!“ – Děsný okamžik!
 
@@ -367,7 +367,7 @@ Nesouviselo to s onehdejším tvrzením, že jsem hloupý? – Ne, to už nen�
 
 Dvě ševcové, vdovy – jedna z nich ale vlastně krejčová. Zdá se, že mně chce konduktérka přivést všechny vdovy, mnoho-li jich pláče po levém břehu vltavském!
 
-\* \* \*
+* * *
 
 _Obrat!_ Naprostý, radikální obrat, jakého bych byl nikdy ani neočekával. Obrat v přírodě i v společnosti.
 
@@ -429,7 +429,7 @@ Já se teď poroučím a jdu.
 
 Bavil jsem se vcelku dobře. Člověk musí mít zdravý smysl pro ty malé lidi.
 
-\* \* \*
+* * *
 
 Nevstal jsem časně. Jak jdu večer do hostince, spím ráno pak dlouho – já ráno spím vlastně vždycky dlouho, ale jsou prý lidé, kteří s největší chutí vstávají. Neškodí: dobře se prospat, dobře pak studovat!
 
@@ -549,7 +549,7 @@ Pojedl jsem a malíř mne baví. Vypravuje, že prý nikdy nebyl náležitě uz
 
 Sedím zas doma a hlava mně jde kolem.
 
-\* \* \*
+* * *
 
 Nenechám nikdy okno víc v noci otevřené, ani při největším parnu! Po druhé hodině v noci byl u malířů rámus. Hlas paní Augustky měl sólo – hlas, že by jím pařez rozřízl. Vyrozuměl jsem, o co se jedná. Malíř přišel v nepříčetném stavu právě domů. Cítil to sám, bál se, že něco v pokoji porazí; když tedy vešel do pokoje, položil se na dveře a čekal – až si rozsvítí. To se rozumí, že stoje usnul a hřmotně padl.
 
@@ -603,7 +603,7 @@ Přec něco nového. Karlíček najednou vyzval Löflera: „Dělejme čuňata!�
 
 Dnes jsem, myslím, studoval až příliš málo.
 
-\* \* \*
+* * *
 
 Strašná bouře v noci, teď ráno balzámový vzduch. Seběhnu s knihou do zahrádky, nikdo tam. –
 
@@ -670,7 +670,7 @@ Rozpráví se dále o smrti. Také kupci na náměstí prý někdo umřel. Kdo?
 
 Handlíř. – Ten chlap musil učinit slib!
 
-\* \* \*
+* * *
 
 Takhle by to věru nešlo! To je studování? Pokračuju jako hlemýžď, myšlenky jsou pořád jinde nežli v knize. Nejsem vzrušen, lhal bych, ale jsem roztržit. Po mozku mně lezou figurky, moji sousedé; cítím, jak se tam hemží všechny najednou, a hned vynikne ta, hned ona, učiní před mým zrakem kotrmelec a vypravuje pak a šklebí se dle svého způsobu. Nic platno, změna se musí stát! Pro tyhlety lidi jsem se nestěhoval na Malou Stranu.
 
@@ -744,7 +744,7 @@ Klikeš navečer mluvil nápadně pilně do Sempra a bylo patrno, že Sempr nas
 
 Nadporučík se dnes po mně nápadně ohlížel. Alespoň dvacetkrát se ohlídl. – Copak chce?
 
-\* \* \*
+* * *
 
 Studuju, ale divně. Raděj bych seděl hned teď ráno dole v zahradě, sám nebo s ostatními, to by mně bylo jedno. Myšlenky se rozbíhají jako… (už zase nevím jako co).
 
@@ -814,7 +814,7 @@ Otylie pohlíží smutně na otce a sotva že dovede udusit hlasité vzdechy. S
 
 Odešli. Sedím v zahrádce sám. Dnes do hostince nemohu, nehodím se mezi lidi, je mně naprosto nezvykle. Tesknota, a přec jakás slast zároveň.
 
-\* \* \*
+* * *
 
 Včera a dnes budím se dosti časně, snad horkem. Takhle by se věc hodila pro studování. Jenže – budím se arci, ale nevstávám. Je mně tak nějak volně na loži, myšlenky volně poletují, a když se v zlatém polosnu zatřepetá zvláště příjemná, držím ji a snuju dál.
 
@@ -852,7 +852,7 @@ O Jensenovi mluvilo se ještě dlouho, když odešel, až příliš dlouho. Oty
 
 Klikeš mluví napořád do Sempra. Hostinský přistrkuje co možná blízko hlavu. Pořád si odkašlává a na Klikeše hledí, jako by ho chtěl spolknout.
 
-\* \* \*
+* * *
 
 Devět hodin a Jensen je zde. Vykukuje do zahrádky, na chodbu, a mezitím se zahledí vždy alespoň třikrát do zrcadla, a to na hezky dlouho. Zdali prý nikdo nechodí časně do zahrádky? Odpovídám jednoslabičně: „Ne!“ Konečně zdali prý mně nepřekáží? Pravím, že skutečně je nejvyšší čas, abych pilně studoval. Jensen jde, nějak mrzut. Aťsi!
 
@@ -1028,7 +1028,7 @@ Nevěřím snad posud, že souboj bude?
 
 Ale zítra!
 
-\* \* \*
+* * *
 
 Vida, dnes jsem vstal! Probudil jsem se už před třetí a neválel jsem se a vstal jsem hned. Je mně ukrutně opravdově.
 
@@ -1098,7 +1098,7 @@ Ještě budíček narovnat!
 
 Malíř leží v okně – lež si, mazale!
 
-\* \* \*
+* * *
 
 Sotva jsem dvě hodiny spal, a přec jsem vyspalý. Je šero – v červenci je už o třetí hodině den – a ranní chlad mne mrazí. – Ukrutně zívám! – Trochu se chvěju, je pravda, ale netřesu se vlastně.
 
@@ -1172,7 +1172,7 @@ Byl jsem navečer v bývalém svém hostinci na Starém Městě. Výborná záb
 
 Dnes, doufám, bude se to dobře spát!
 
-\* \* \*
+* * *
 
 Vzbudil jsem se velmi časně – reminiscence po včerejšku! Ale bylo mně volno, tak volno jako novorozeněti ve vlažné lázni, a protáhl jsem tělíčko a natáhl ručičky a hajal blaženě dál až do devíti.
 
@@ -1212,7 +1212,7 @@ Zaplať pánbůh, že jsem se jí nevyznal z „lásky“.
 
 Byl jsem v staroměstském svém hostinci. Mezi těmi lidmi člověk zrovna osvěží a je pak zase schopnější duševní práce. Jen zas do práce, do práce! – po advokátní zkoušce jsem všech zkoušek prost už pro celý život!
 
-\* \* \*
+* * *
 
 Jsem v plném stěhování.
 

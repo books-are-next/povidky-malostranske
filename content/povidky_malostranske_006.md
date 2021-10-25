@@ -767,7 +767,7 @@ Jen pan rada sobě přeje odpočinku a čte noviny. Teď je odložil – –
 
 Ten se na mne podíval, když jsem ho prosil, aby mně také noviny ku přečtení půjčil! Nepromluvil ani slova, ale já jen hořel a studem se mně až oči zalily, když jsem zase k svému stolku zasedal. Neviděl jsem ničeho, ale cítil jsem, že jsou ústa všech přítomných ustrnutím otevřena nad tou smělostí praktikantovou!
 
-\* \* \*
+* * *
 
 Kéž jsem zase v koleji s tou nadějnou vyhlídkou na všechno ve světě a na nic! Tady se mně vyhlídka ouží, nevím – nevím, jak vysoko to přivedu!
 
@@ -775,7 +775,7 @@ Co stylistickou zkoušku dali mně první den úkol, abych popsal city při pohl
 
 Ještě jsem s nikým nemluvil a už jsem zaslech, že mně říkají ‚Svornostr‘[31](#footnote-27518-31). Na všechen způsob půjde to ztuha! Kéž jsem zase v koleji! – Nejde to ale!
 
-\* \* \*
+* * *
 
 To je vzduch! Prométheova hlína voněla prý lidským masem, tady ti lidé zavánějí hlínou, ale ne mastnou.
 
@@ -785,23 +785,23 @@ Včera jsem jim řek, že pařížské dámy nosí péra z braziliánských opi
 
 Mají mne za nesmírně učeného a baví se rádi se mnou. Ale neodvažují se vůbec bavit před panem radou, leda když pan rada udělá vtip, kdežto pak nastane všeobecný tělocvik v smíchu. Když ale pan rada vyjde na chvilku ven, začne hned všeobecné „hejbejte se, škatule“, a každá tvář se rozšíří a každý ponížený hrb narovná. Patří to k dennímu pořádku a tajně vytahují hodinky, nevyjde-li již ve všem pravidelný pan rada.
 
-\* \* \*
+* * *
 
 Pověst o mé učenosti šíří se dál a dál. Dovedl jsem přečíst kyrilikou psaný přípis srbský, to je ohromilo. Pan rada pátého oddělení mimojda mně zaklepal na ramena a povídal: „Všechno se může někdy potřebovat, držte se ale praktického!“ Ten pan rada těší se pověsti, že umí psát. Vydal prý také nějakou knihu, myslím že onucologii, totiž návod, jak nejpraktičtěji onuce na noze skládat.
 
-\* \* \*
+* * *
 
 Takového něco jaktěživ více nespatřím!
 
 Pan president přišel do našeho oddělení pro nějaký akt. Vy­stoupil jednou nohou sám na žebřík, a když ji zas sundal, vstoupl na nohu pana Hlaváčka. Starý ten osel nechtěl ze samé úcty říci panu presidentovi, že mu stojí na noze. Připadal mně jako druhý Laokoon; v jeho tváři byla nesmírná bolest, a přec nezmizel s ní povinný, akademický úsměv nízkého úředníka. Konečně zpozoroval pan president, že někdo těsně za ním stojí; chtěl se na neslušného obořit, tu ale viděl, že nemá pod sebou cíp aktového balíku, nýbrž jen poníženou cizí nohu. „Ah pardon!“ řekl s milostivým úsměvem. Pan Hlaváček se ale belhal ku svému stolku, usmívaje se v bolestech svých velkých, pravý vzor ušlechtile dojemné plastiky. Ostatní mu jistě záviděli; kdo ví, kdy mu to prospěje!
 
-\* \* \*
+* * *
 
 Pan president se mne ráčil zeptat, nemám-li žádné sestry. Poro­zuměl jsem tomu starému mládenci – ale počkej, ta otázka ti bude drahá! Vždyť já vím, pane presidente, kde ráčíte holdovat lásce; nejkrásnější ze všech akcesistů mně to řekl! Je prý opravdu hezká ta vaše milenka; snad bude o to pro mne hezčí, oč já jsem mladší vás. Až ji uvidíme! Nebude-li pro nás, snad bude pro pana akcesistu, který se má za samého Narcisa. Něco se stane!
 
   
 
-\* \* \*
+* * *
 
 Pan president ráčil nás všechny svolat k sobě do presidiálního svého pokoje. Bylo nás mnoho co do kusů a před námi stáli páni radové v polokruhu. Páni radové špitali mezi sebou, my ostatní, učinivše každý zádům páně presidentovým slušnou poklonu, stáli jsme bez pohnutí.
 
@@ -817,7 +817,7 @@ Rozmluvy české přestaly. Ledaže dva zcela důvěrní, z nichž jeden ví, �
 
 Já mluvím po česku dál a hlasitě, všichni se mne štítí.
 
-\* \* \*
+* * *
 
 Je konec prvního aktu dnešní úřední činohry. Pan rada vyšel, jako Molièrův „Le Malade imaginaire“ na konci prvního aktu vychází. Zábava v meziaktí.
 
@@ -861,7 +861,7 @@ Pan rada vkročil s rozepjatou vestou.
 
 Tělocvik v smíchu.
 
-\* \* \*
+* * *
 
 Kde je taková duševní chudoba, musí být také chudoba hmotná. A je! Podivil jsem se, jaký ti lidé žijou život povrchně klamný, uvnitř bídný.
 
@@ -869,7 +869,7 @@ Snad dvě třetiny z nich mají gážovní archy u Žida, jenž jim prvního d
 
 Člověk porozumí pak ledačemu!
 
-\* \* \*
+* * *
 
 Dnes jsem dostal presidiální přípis, abych sobě dal ostříhat trochu dlouhé své vlasy. To bych byl blázen!
 
@@ -877,7 +877,7 @@ Mám teď spojence. Nejkrásnější ze všech akcesistů začal se mým návode
 
 Však já vím, co panu presidentovi u spojení s nejkrásnějším nevoní. Je to ten chodník pod jistými okny!
 
-\* \* \*
+* * *
 
 V důvěře, že mne pan Eber neprozradí, vylhal jsem si dovolenou. Řekl jsem, že mně babička, po níž dědit mám, k smrti stůně.
 

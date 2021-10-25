@@ -156,7 +156,7 @@ Paní Nocarová si vzdychla a pravila pak: „Tedy máš rozhodnuto! – Teď 
 
 Cibulka dlouho neodkládal. Čtyři měsíce nato byl také on na košířském hřbitově. Zchvátil ho zánět plicní. Teď je tomu už přes šestnácte let, co tam oba leží.
 
-\* \* \*
+* * *
 
 Za žádnou cenu na světě by slečna Máry o Dušičkách nerozhodla sama, ku kterému z obou hrobů má přikročit dřív. Pětileté nevinné děvčátko musí rozhodnout, a kam to dítě se zabatolí, klade slečna věnec první.
 

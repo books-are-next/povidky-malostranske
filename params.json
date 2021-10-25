@@ -14,7 +14,7 @@
       "h2": "MLP-uroven3-nadpis",
       "h3": "",
       "h4": "",
-      "hr": "",
+      "hr": "MLP-hvezdicky",
       "hrBefore": "",
       "hrAfter": "",
       "br": "",
@@ -36,45 +36,45 @@
             "filename": "povidky_malostranske_001.md",
             "xhtml": "povidky_malostranske_001.xhtml",
             "id": 0,
-            "role": "chapter",
+            "role": "break",
             "numberedChildren": false,
-            "inToc": true,
+            "inToc": false,
             "children": []
           },
           {
             "filename": "povidky_malostranske_002.md",
             "xhtml": "povidky_malostranske_002.xhtml",
             "id": 1,
-            "role": "chapter",
+            "role": "break",
             "numberedChildren": false,
-            "inToc": true,
+            "inToc": false,
             "children": []
           },
           {
             "filename": "povidky_malostranske_003.md",
             "xhtml": "povidky_malostranske_003.xhtml",
             "id": 2,
-            "role": "chapter",
+            "role": "colophon",
             "numberedChildren": false,
-            "inToc": true,
+            "inToc": false,
             "children": []
           },
           {
             "filename": "povidky_malostranske_004.md",
             "xhtml": "povidky_malostranske_004.xhtml",
             "id": 3,
-            "role": "chapter",
+            "role": "colophon",
             "numberedChildren": false,
-            "inToc": true,
+            "inToc": false,
             "children": []
           },
           {
             "filename": "povidky_malostranske_005.md",
             "xhtml": "povidky_malostranske_005.xhtml",
             "id": 4,
-            "role": "chapter",
+            "role": "colophon",
             "numberedChildren": false,
-            "inToc": true,
+            "inToc": false,
             "children": []
           },
           {
@@ -84,7 +84,8 @@
             "role": "chapter",
             "numberedChildren": false,
             "inToc": true,
-            "children": []
+            "children": [],
+            "title": "Týden v tichém domě"
           },
           {
             "filename": "povidky_malostranske_007.md",
@@ -93,7 +94,8 @@
             "role": "chapter",
             "numberedChildren": false,
             "inToc": true,
-            "children": []
+            "children": [],
+            "title": "Pan Ryšánek a pan Schlegl"
           },
           {
             "filename": "povidky_malostranske_008.md",
@@ -102,7 +104,8 @@
             "role": "chapter",
             "numberedChildren": false,
             "inToc": true,
-            "children": []
+            "children": [],
+            "title": "Přivedla žebráka na mizinu"
           },
           {
             "filename": "povidky_malostranske_009.md",
@@ -111,7 +114,8 @@
             "role": "chapter",
             "numberedChildren": false,
             "inToc": true,
-            "children": []
+            "children": [],
+            "title": "O měkkém srdci paní Rusky"
           },
           {
             "filename": "povidky_malostranske_010.md",
@@ -120,7 +124,8 @@
             "role": "chapter",
             "numberedChildren": false,
             "inToc": true,
-            "children": []
+            "children": [],
+            "title": "Večerní šplechty"
           },
           {
             "filename": "povidky_malostranske_011.md",
@@ -129,7 +134,8 @@
             "role": "chapter",
             "numberedChildren": false,
             "inToc": true,
-            "children": []
+            "children": [],
+            "title": "Doktor Kazisvět"
           },
           {
             "filename": "povidky_malostranske_012.md",
@@ -138,7 +144,8 @@
             "role": "chapter",
             "numberedChildren": false,
             "inToc": true,
-            "children": []
+            "children": [],
+            "title": "Hastrman"
           },
           {
             "filename": "povidky_malostranske_013.md",
@@ -147,7 +154,8 @@
             "role": "chapter",
             "numberedChildren": false,
             "inToc": true,
-            "children": []
+            "children": [],
+            "title": "Jak si nakouřil pan Vorel pěnovku"
           },
           {
             "filename": "povidky_malostranske_014.md",
@@ -156,7 +164,8 @@
             "role": "chapter",
             "numberedChildren": false,
             "inToc": true,
-            "children": []
+            "children": [],
+            "title": "U Tří lilií"
           },
           {
             "filename": "povidky_malostranske_015.md",
@@ -165,7 +174,8 @@
             "role": "chapter",
             "numberedChildren": false,
             "inToc": true,
-            "children": []
+            "children": [],
+            "title": "Svatováclavská mše"
           },
           {
             "filename": "povidky_malostranske_016.md",
@@ -174,7 +184,8 @@
             "role": "chapter",
             "numberedChildren": false,
             "inToc": true,
-            "children": []
+            "children": [],
+            "title": "Jak to přišlo,že dne 20. srpna roku 1849, o půl jedné s poledne,Rakousko nebylo rozbořeno"
           },
           {
             "filename": "povidky_malostranske_017.md",
@@ -183,7 +194,8 @@
             "role": "chapter",
             "numberedChildren": false,
             "inToc": true,
-            "children": []
+            "children": [],
+            "title": "Psáno o letošních Dušičkách"
           },
           {
             "filename": "povidky_malostranske_018.md",
@@ -192,15 +204,16 @@
             "role": "chapter",
             "numberedChildren": false,
             "inToc": true,
-            "children": []
+            "children": [],
+            "title": "Figurky"
           },
           {
             "filename": "povidky_malostranske_019.md",
             "xhtml": "povidky_malostranske_019.xhtml",
             "id": 18,
-            "role": "chapter",
+            "role": "colophon",
             "numberedChildren": false,
-            "inToc": true,
+            "inToc": false,
             "children": []
           }
         ]
@@ -213,7 +226,7 @@
       "identifier": "urn:uuid:296c0919-9963-415a-a386-6c26c077b931",
       "author": "Jan Neruda",
       "publisher": "Městská knihovna v Praze",
-      "modified": "2021-10-25T05:57:49.473Z"
+      "modified": "2021-10-25T09:28:16.949Z"
     },
     "chapters": [
       {
@@ -429,6 +442,6 @@
       "user": "books-are-next",
       "repo": "povidky-malostranske"
     },
-    "generatedAt": 1635141470551
+    "generatedAt": 1635154097908
   }
 }

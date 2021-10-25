@@ -26,7 +26,7 @@ V prvních dnech srpna, když se jednalo již o nejsubtilnější podrobnosti 
 
 To bylo velmi důležito, že Pohorákův pes kouše.
 
-\* \* \*
+* * *
 
 Nastalo jitro památného dne. Neomylná kronika nebes zaznamenala si je co jitro pondělní.
 
@@ -178,7 +178,7 @@ Pádil jsem úvozem dolů, až se hlava třásla. Mžikem jsem byl u Valdštýn
 
 Právě policajt zaváděl vedle na strážnici Pohoráka, vozík a psa. Viděl jsem dobře, že Pohorák je mocně dojat. V jeho tváři byl bol nevýslovný.
 
-\* \* \*
+* * *
 
 Dějepis lidstva měl by nemilou mezeru, kdybychom nevyprávěli, co se stalo s Pohorákem.
 
@@ -292,7 +292,7 @@ Pohorák pomalu vstává. „Jsem nějak celý zmalátnělý – už jsem stár
 
 „No, jak poroučejí.“ A Pohorák se chytil za voj a šel, kam ho vedl policajt, s hlubokým žalem v srdci.
 
-\* \* \*
+* * *
 
 Na půdě u Rumpálů rozechvělá schůze. Vzájemné se zapřisáhnutí, že k zradě nedojde nikdy a nikdy. Referát Jana Žižky z Trocnova: „Viděl jsem ho, jak tady stojím – škubalo to mnou, ale nemoh jsem mu pomoci!“ – Jen Mikuláš z Husi scházel při schůzi, byl už na cestě k rakovnickým lesům.
 
