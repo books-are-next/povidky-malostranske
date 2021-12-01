@@ -1,4 +1,5 @@
 {
+  "extractionComplete": false,
   "params": {
     "metadata": {
       "title": "Povídky malostranské",
@@ -6,7 +7,9 @@
       "author": "Jan Neruda",
       "publisher": "Městská knihovna v Praze",
       "modified": "2021-10-22T10:08:13.764Z",
-      "languageCode": "cs"
+      "languageCode": "cs",
+      "publisherShort": "mkp",
+      "edition": "beletrie"
     },
     "elements": {
       "title": "MLP-uroven2-kapitola",
@@ -36,7 +39,7 @@
             "filename": "povidky_malostranske_001.md",
             "xhtml": "povidky_malostranske_001.xhtml",
             "id": 0,
-            "role": "break",
+            "role": "cover",
             "numberedChildren": false,
             "inToc": false,
             "children": []
@@ -445,3 +448,4 @@
     "generatedAt": 1635141470551
   }
 }
+
