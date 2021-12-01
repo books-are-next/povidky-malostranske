@@ -9,8 +9,9 @@ meta:
   publisher: Městská knihovna v Praze
   modified: '2021-10-22T10:08:13.764Z'
   languageCode: cs
+  publisherShort: mkp
+  edition: beletrie
 readingOrder:
-  - povidky_malostranske_001.html
   - povidky_malostranske_002.html
   - povidky_malostranske_006.html
   - povidky_malostranske_007.html

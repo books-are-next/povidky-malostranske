@@ -2,7 +2,7 @@
 
 /* global self, caches, fetch */
 
-const CACHE = 'cache-0bb92d9';
+const CACHE = 'cache-62092cf';
 
 self.addEventListener('install', e => {
   e.waitUntil(precache()).then(() => self.skipWaiting());
@@ -40,7 +40,7 @@ self.addEventListener('activate', event => {
 });
 
 function precache() {
-  return caches.open(CACHE).then(cache => cache.addAll(["./","./colophon.html","./favicon.png","./index.html","./manifest.json","./povidky_malostranske_001.html","./povidky_malostranske_002.html","./povidky_malostranske_006.html","./povidky_malostranske_007.html","./povidky_malostranske_008.html","./povidky_malostranske_009.html","./povidky_malostranske_010.html","./povidky_malostranske_011.html","./povidky_malostranske_012.html","./povidky_malostranske_013.html","./povidky_malostranske_014.html","./povidky_malostranske_015.html","./povidky_malostranske_016.html","./povidky_malostranske_017.html","./povidky_malostranske_018.html","./fonts/Literata-Italic-var.woff2","./fonts/Literata-var.woff2","./fonts/LiterataTT-TextItalic.woff2","./fonts/LiterataTT-TextRegular.woff2","./fonts/LiterataTT-TextSemibold.woff2","./fonts/LiterataTT_LICENSE.txt","./fonts/SpaceGroteskVF.woff2","./fonts/SpaceGroteskVF_LICENSE.txt","./resources/image001_fmt.jpeg","./resources/image003_fmt.jpeg","./resources/image004_fmt.jpeg","./resources/obalka_povidky_malostr_fmt.jpeg","./resources/upoutavka_eknihy_fmt.jpeg","./scripts/bundle.js","./style/style.min.css","./template-images/circles.png"]));
+  return caches.open(CACHE).then(cache => cache.addAll(["./","./colophon.html","./favicon.png","./index.html","./manifest.json","./povidky_malostranske_002.html","./povidky_malostranske_006.html","./povidky_malostranske_007.html","./povidky_malostranske_008.html","./povidky_malostranske_009.html","./povidky_malostranske_010.html","./povidky_malostranske_011.html","./povidky_malostranske_012.html","./povidky_malostranske_013.html","./povidky_malostranske_014.html","./povidky_malostranske_015.html","./povidky_malostranske_016.html","./povidky_malostranske_017.html","./povidky_malostranske_018.html","./fonts/Literata-Italic-var.woff2","./fonts/Literata-var.woff2","./fonts/LiterataTT-TextItalic.woff2","./fonts/LiterataTT-TextRegular.woff2","./fonts/LiterataTT-TextSemibold.woff2","./fonts/LiterataTT_LICENSE.txt","./fonts/SpaceGroteskVF.woff2","./fonts/SpaceGroteskVF_LICENSE.txt","./resources/image001_fmt.jpeg","./resources/image003_fmt.jpeg","./resources/image004_fmt.jpeg","./resources/obalka_povidky_malostr_fmt.jpeg","./resources/upoutavka_eknihy_fmt.jpeg","./scripts/bundle.js","./style/style.min.css","./template-images/circles.png"]));
 }
 
 self.addEventListener('fetch', e => {

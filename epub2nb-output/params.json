@@ -6,7 +6,9 @@
       "author": "Jan Neruda",
       "publisher": "Městská knihovna v Praze",
       "modified": "2021-10-22T10:08:13.764Z",
-      "languageCode": "cs"
+      "languageCode": "cs",
+      "publisherShort": "mkp",
+      "edition": "beletrie"
     },
     "elements": {
       "title": "MLP-uroven2-kapitola",
@@ -36,7 +38,7 @@
             "filename": "povidky_malostranske_001.md",
             "xhtml": "povidky_malostranske_001.xhtml",
             "id": 0,
-            "role": "break",
+            "role": "cover",
             "numberedChildren": false,
             "inToc": false,
             "children": []
@@ -226,7 +228,7 @@
       "identifier": "urn:uuid:296c0919-9963-415a-a386-6c26c077b931",
       "author": "Jan Neruda",
       "publisher": "Městská knihovna v Praze",
-      "modified": "2021-12-01T21:17:00.977Z"
+      "modified": "2021-12-01T22:01:56.234Z"
     },
     "chapters": [
       {
@@ -442,6 +444,6 @@
       "user": "books-are-next",
       "repo": "povidky-malostranske"
     },
-    "generatedAt": 1638393422019
+    "generatedAt": 1638396117206
   }
 }
