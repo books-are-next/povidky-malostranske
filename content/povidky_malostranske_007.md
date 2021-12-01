@@ -30,7 +30,7 @@ V třetím tom okně od vchodu vpravo seděli všeobecně vážení občané pa
 
 Po Malé Straně byla známa krutá zášť, v jaké měl jeden druhého. Nepřátelství mezi nimi bylo staré a nesmiřitelné. Také byla známa příčina. Prapůvod všeho zlého, ženská. Milovali tutéž. Napřed se byla klonila k panu Ryšánkovi, jenž byl již déle obchodníkem samostatným, pak spočívala netušeným obratem náhle v objetí pana Schlegla. Snad proto, že byl pan Schlegl skoro o deset let mladší. Stala se paní Schleglovou.
 
-Byla-li paní Schleglová takovou kráskou zvláštní, že to omlouvalo páně Ryšánkův trvalý bol a napotomní věčné mládenectví jeho, nevím. Už byla dávno na pravdě boží, zemřela hned v prvním šestinedělí, zůstavujíc po sobě dcerku. Snad že byla ta obrazem jejím. V době, o které mluvím, byla slečna Schleglová as dvěmecítma[53](#footnote-27518-53) let stará. Znal jsem ji, přicházela často návštěvou do patra nad námi k setníkovic Poldýnce, k té, co na ulici při každém dvacátém kroku klopýtla. Říkali, že slečna Schleglová je kráskou. Možno, ale takhle pro architekta. Všechno na pravém svém místě, všude na ní nejpravější rozměr a při všem věděl člověk proč. Ale pro jiného než architekta – k zoufání. Její obličej se pohnul právě tak málo jako fasáda na paláci. Její oko bylo bez významu lesklé jako právě umyté okno. Její ústa, ostatně pěkná jako drobná arabeska, otvírala se pomalu jako vrata, pak buď zůstala dokořán, nebo se zavírala rovněž pomalu. K tomu ta pleť jakoby právě teprv čerstvě obílená. Možno, že teď, žije-li, už není tak krásna, ale že je hezčí: podobné budovy jsou hezčí zvětralé.
+Byla-li paní Schleglová takovou kráskou zvláštní, že to omlouvalo páně Ryšánkův trvalý bol a napotomní věčné mládenectví jeho, nevím. Už byla dávno na pravdě boží, zemřela hned v prvním šestinedělí, zůstavujíc po sobě dcerku. Snad že byla ta obrazem jejím. V době, o které mluvím, byla slečna Schleglová as dvěmecítma[^53] let stará. Znal jsem ji, přicházela často návštěvou do patra nad námi k setníkovic Poldýnce, k té, co na ulici při každém dvacátém kroku klopýtla. Říkali, že slečna Schleglová je kráskou. Možno, ale takhle pro architekta. Všechno na pravém svém místě, všude na ní nejpravější rozměr a při všem věděl člověk proč. Ale pro jiného než architekta – k zoufání. Její obličej se pohnul právě tak málo jako fasáda na paláci. Její oko bylo bez významu lesklé jako právě umyté okno. Její ústa, ostatně pěkná jako drobná arabeska, otvírala se pomalu jako vrata, pak buď zůstala dokořán, nebo se zavírala rovněž pomalu. K tomu ta pleť jakoby právě teprv čerstvě obílená. Možno, že teď, žije-li, už není tak krásna, ale že je hezčí: podobné budovy jsou hezčí zvětralé.
 
 Lituju čtenáře, že mu nedovedu vyprávět, jak se as dostali pan Ryšánek a pan Schlegl dohromady k tomu stolku ve třetím oknu. Nějaká tím byla vinna kletá náhoda, která chtěla starcům ztrpčit den co den. Když je ta neznámá náhoda tam sesadila, udržela je po prvé na místě as mužná jich pýcha. Po druhé se sesedli as ze vzdoru. Pak seděli na důkaz své neoblomnosti a aby se neřeklo. A teď už dávno nahlížel u Štajniců každý, že pro ně oba je to již otázkou mužné cti a popustit že nemůže žádný.
 
@@ -52,7 +52,7 @@ Měl jsem rozhodnou úctu k těm dvěma herojům, ano obdivoval jsem se jim. Ja
 
 Stalo se něco.
 
-Bylo ve středu před nedělí Jubilate[54](#footnote-27518-54), když přišel a usedl pan Schlegl. Usedl, nacpal si a odfoukl oblak dýmu, valící se jako z výhně. Teď vstoupil hostinský a přímo k němu. Zaklepal na pikslu a podával šňupec. Když pak zase pikslu zavřel a jí zatřásl, podotknul hledě přitom ke dveřím: „Dnes pana Ryšánka tedy neuvidíme.“
+Bylo ve středu před nedělí Jubilate[^54], když přišel a usedl pan Schlegl. Usedl, nacpal si a odfoukl oblak dýmu, valící se jako z výhně. Teď vstoupil hostinský a přímo k němu. Zaklepal na pikslu a podával šňupec. Když pak zase pikslu zavřel a jí zatřásl, podotknul hledě přitom ke dveřím: „Dnes pana Ryšánka tedy neuvidíme.“
 
 Pan Schlegl neodpověděl, s kamennou lhostejností hleděl přímo před sebe.
 
@@ -124,6 +124,6 @@ Teď teprv obrátil pan Ryšánek pomalu hlavu k němu. Oči obou mužů se pot
 
 A od té doby mluvili pan Ryšánek a pan Schlegl u třetího stolku spolu.
 
-[53](#footnote-27518-53-backlink) Dvacet dva. Pozn. red.
+[^53]: Dvacet dva. Pozn. red.
 
-[54](#footnote-27518-54-backlink) Třetí neděle po Velikonocích. Pozn. red.
+[^54]: Třetí neděle po Velikonocích. Pozn. red.

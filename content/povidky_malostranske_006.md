@@ -20,7 +20,7 @@ Několikrát sirka škrtne, několikrát zasvitne fosforový dým, zase škrtnut
 
 Postava stojí u stolku, přiléhajícího k jakés tmavě natřené dřevěné stěně, jež celou místnost dělí na dvě části. Až za stěnu síla lampičky nestačí, vidíme jen jednu část místnosti – čich náš ale nemýlil se, jsme v skladišti hokynářském. Patrno, že tu jediné místnosti užito za byt i krám. Krám ten jest po hokynářsku zásoben dosti bohatě, pytlů rozestaveno hojně se zbožím prostým, nad pytli pnou se plné košíky a ošatky, se stěn visí pletence a chumáče.
 
-Žena se zachvěla nočním chladem, vzala lampičku se stolu a postavila ji na pudl[1](#footnote-27518-1), na němž plno krajáčů s čerstvým i přepouštěným máslem a nad nímž houpají se váhy a pletence česneku i cibule. Usedla za pudl, schoulila nohy až k bradě a vyndala ze šuplete škatuli naplněnou nitěmi, nůžkami i jiným haraburdím. Vyndala nitě i ostatky a dostala se konečně na dno škatule, kde byly papíry a knihy. Papírů ciframi vesměs pokrytých sobě nevšímala, vzala jednu z knih a rozevřela. Byl to snář, tak zvaný „velký“. Zabrala se upřímně v obracení listů, pak čtla, pozivovala si a zase čtla.
+Žena se zachvěla nočním chladem, vzala lampičku se stolu a postavila ji na pudl[^1], na němž plno krajáčů s čerstvým i přepouštěným máslem a nad nímž houpají se váhy a pletence česneku i cibule. Usedla za pudl, schoulila nohy až k bradě a vyndala ze šuplete škatuli naplněnou nitěmi, nůžkami i jiným haraburdím. Vyndala nitě i ostatky a dostala se konečně na dno škatule, kde byly papíry a knihy. Papírů ciframi vesměs pokrytých sobě nevšímala, vzala jednu z knih a rozevřela. Byl to snář, tak zvaný „velký“. Zabrala se upřímně v obracení listů, pak čtla, pozivovala si a zase čtla.
 
 Za stěnou slyšet již jen jedno odměřené dýchání spáčovo; druhý spáč, probuzen buď šramotem, neb kmitem světla, pohybnul se na svém loži.
 
@@ -42,7 +42,7 @@ Za stěnou slyšet již jen jedno odměřené dýchání spáčovo; druhý spá�
 
 Dýchání třetího spáče stávalo se nepravidelné, hlasitý hovor spáče budil.
 
-„Tak tedy dělej, ať se vyspíme! Ty nemyslíš než na lutrii[2](#footnote-27518-2)!“
+„Tak tedy dělej, ať se vyspíme! Ty nemyslíš než na lutrii[^2]!“
 
 „To je pravda, tady člověk nemá ani chvilku pokoje. Spi si a nech mne.“
 
@@ -102,7 +102,7 @@ Syn umlknul.
 
 „Kdopak to ví, on má vždycky něco, ten bohaprázdný!“
 
-„Sval tam na něho tu armaru[3](#footnote-27518-3), nebo ho vyžeňme, hned ho vy­žeňme!“
+„Sval tam na něho tu armaru[^3], nebo ho vyžeňme, hned ho vy­žeňme!“
 
 „Prosím tě, dej ty už taky pokoj! Mám já peklo!“
 
@@ -126,7 +126,7 @@ Starý mládenec položil se do okna, sněhobílým, pěkně vyšívaným polšt
 
 Dveře v druhém, protějším patře na pavlač vedoucí zavrzly a vyšlo z nich pěkné, as osmnáctileté děvče. Vtělené ráno! Vzrůst dívky té byl půvabný, štíhlý. Tmavý, kadeřavý a přehustý vlas vlnil se jí s čela až k šíji, poután prostou aksamitovou stužkou. Obličej její byl oblý, oko jasně modré, upřímné, tvář růžová a pleti hebounké, rtíky malé, až tmavorudé, celá ta tvářnost činila dojem nanejvýš příjemný, aniž by vylučovala tajné vědomí, že není vesměs rysů akademicky pravidelných. Jenže kde hned tu malou nepravidelnost při tom příjemném celistvém dojmu najít! V tom maličkém, rozkošném oušku jistě nevězela, vždyť právě to ouško bylo k líbání vzdor tomu, že v něm vězely jen zcela chudé a malé náušnice stříbrné. A mimo ty náušnice žádné ozdoby víc. Kolem bělostného krku vinula se arci tenká černá šňůrka, ale skvost, jejž snad nesla, skrýval se dnes v pučících ňadrech. Šat měla dívka až ke krku upjatý, světlý a jen tence pruhovaný. I ta jednoduchost barvy a střihu byla vábná.
 
-Děvče neslo v ruce hnědý, plechovou pokryčkou[4](#footnote-27518-4) opatřený hrneček.
+Děvče neslo v ruce hnědý, plechovou pokryčkou[^4] opatřený hrneček.
 
 „Dobré jitro, Josefinko!“ zaznělo zvučným hlasem tenorovým.
 
@@ -164,7 +164,7 @@ Mladík ale stál již u okna a bubnoval na ně prstem. Uvnitř se ozval proni
 
 „Eh co!“ mínil mladík a bouchal znovu; pak přiložil ucho k rámci a naslouchal. Slyšel jen kňučivé vytí psa.
 
-Způsobený hřmot vyrušil již celý dům. Vedle doktorova okna vyhlížel již zase vysoký muž s tou rudou trudovitou tváří a s ním dvě hlavy ženské, jedna starší, druhá mladší. Na pavlač v protějším druhém patře vyšla Josefinčina matka, žena to vysoké postavy, a za ní připlížila se nemocná a nahrblá malá postavička starší sestry Josefinčiny. Na pavlač prvního patra vyšli tři lidé, muž napolo oblečený, s hlavou olysalou, ženská taktéž starší a jen napolo oblečená, konečně as dvacítiletá mladice v pouhé spodničce, s nedbale přehozeným šátkem a hlavou plnou papilotů[5](#footnote-27518-5). Se schůdků od průjezdu sestupovaly pak ještě dvě ženské, zcela oblečené v šat jen prostý. Menší z nich, postava živá a pohyblivá, volala sestupujíc do průjezdu zpět: „Márinko, zůstaň v šenkovně[6](#footnote-27518-6), ať nám tam nikdo nevejde!“ Ve větší, druhé, poznáváme noční vykládačku snů z předešlé své kapitoly. Snad že bílý a čistý čepeček její dobře jí sluší, snad že ve světle slunečním všichni lidé jsou i jeví se co mírnější, její celá tvářnost zkrátka zdá se nám nyní býti příjemná.
+Způsobený hřmot vyrušil již celý dům. Vedle doktorova okna vyhlížel již zase vysoký muž s tou rudou trudovitou tváří a s ním dvě hlavy ženské, jedna starší, druhá mladší. Na pavlač v protějším druhém patře vyšla Josefinčina matka, žena to vysoké postavy, a za ní připlížila se nemocná a nahrblá malá postavička starší sestry Josefinčiny. Na pavlač prvního patra vyšli tři lidé, muž napolo oblečený, s hlavou olysalou, ženská taktéž starší a jen napolo oblečená, konečně as dvacítiletá mladice v pouhé spodničce, s nedbale přehozeným šátkem a hlavou plnou papilotů[^5]. Se schůdků od průjezdu sestupovaly pak ještě dvě ženské, zcela oblečené v šat jen prostý. Menší z nich, postava živá a pohyblivá, volala sestupujíc do průjezdu zpět: „Márinko, zůstaň v šenkovně[^6], ať nám tam nikdo nevejde!“ Ve větší, druhé, poznáváme noční vykládačku snů z předešlé své kapitoly. Snad že bílý a čistý čepeček její dobře jí sluší, snad že ve světle slunečním všichni lidé jsou i jeví se co mírnější, její celá tvářnost zkrátka zdá se nám nyní býti příjemná.
 
 „Co je to tu, Václave!“ oslovuje mladíka.
 
@@ -198,13 +198,13 @@ Tato, na smrt ubledlá, náhle se celá zapálila, pak zase zbledla; obrátila s
 
 „Dejte mně, maminko, klíče od našeho dřevníka, vstrčím ho tam zatím do bedny,“ a odcházel s vyjícím psem.
 
-„Tedy prý je nebohá hundsfrajle[7](#footnote-27518-7) mrtva?“ zaznělo harašivým hlasem ve dveřích. V promluvivším poznáváme lysohlavého muže, jehož jsme byli na pavlači prvního patra spatřili. Lysé témě je pokryto až do opalisování ušumělým a vyrudlým cylindrem, jehož forma svědčí o celou řadu let co do módního času zpět. Slabé světlé vlasy na skráních jsou vodorovně přičísnuty k oku. Tváře jeho jsou opatřeny koží v mocné řízy se skládající, jako bývá u lidí seschlých z dřívější mocné tloušťky; každá tvář jako by byla vyprázdněným po cestě vakem. Postávaje hranatá, s vpadlými prsy, s rukama jaksi bezvládně se klátícíma.
+„Tedy prý je nebohá hundsfrajle[^7] mrtva?“ zaznělo harašivým hlasem ve dveřích. V promluvivším poznáváme lysohlavého muže, jehož jsme byli na pavlači prvního patra spatřili. Lysé témě je pokryto až do opalisování ušumělým a vyrudlým cylindrem, jehož forma svědčí o celou řadu let co do módního času zpět. Slabé světlé vlasy na skráních jsou vodorovně přičísnuty k oku. Tváře jeho jsou opatřeny koží v mocné řízy se skládající, jako bývá u lidí seschlých z dřívější mocné tloušťky; každá tvář jako by byla vyprázdněným po cestě vakem. Postávaje hranatá, s vpadlými prsy, s rukama jaksi bezvládně se klátícíma.
 
 „Ano mrtva!“
 
 „Tedy jen honem s ní do kaple, ať nemáme mrtvolu v domě, nebo ať nám nepojdou výdaje!“
 
-„Toho se nebojte, pane domácí,“ odmlouval pan doktor, který se byl zatím probíral v škatuli na stole vedle lože stojící a papíry naplněné, „nebožka sobě zaplatí všechno sama. Patrno, že si připravila všechno na smrt a že se včera ještě v papírech svých probírala. Zde pod tou chundelatou spečenou vlásenkou[8](#footnote-27518-8) našel jsem tento lístek znějící Žanýnce co členu svatohaštalského spolku dekretářského a zde knihu strahovského ‚spolku lásky‘. Dostane peníze na pohřeb, i má již také rekviem zaplaceno.“
+„Toho se nebojte, pane domácí,“ odmlouval pan doktor, který se byl zatím probíral v škatuli na stole vedle lože stojící a papíry naplněné, „nebožka sobě zaplatí všechno sama. Patrno, že si připravila všechno na smrt a že se včera ještě v papírech svých probírala. Zde pod tou chundelatou spečenou vlásenkou[^8] našel jsem tento lístek znějící Žanýnce co členu svatohaštalského spolku dekretářského a zde knihu strahovského ‚spolku lásky‘. Dostane peníze na pohřeb, i má již také rekviem zaplaceno.“
 
 „Chudák hundsfrajle, a měla přec jen pensičku as osmdesáti zlatých ročně; můj syn jí psával čtvrtletní kvitance!“ obdivovala se paní Bavorová. Patrno, že lidičkám těm platila „hundsfrajle“ as již dávno co název pouze historický, nikoliv co nadávka.
 
@@ -218,11 +218,11 @@ Tato, na smrt ubledlá, náhle se celá zapálila, pak zase zbledla; obrátila s
 
 „Jen ať žádný z těch listů neztratíte, dejte je zas všechny hezky sem!“
 
-„Ale kdo upraví všechno?“ tázal se pan domácí. „Měl byste se toho ujmout vy, pane doktore! Denn diese Leute kennen’s nicht![9](#footnote-27518-9)“
+„Ale kdo upraví všechno?“ tázal se pan domácí. „Měl byste se toho ujmout vy, pane doktore! Denn diese Leute kennen’s nicht![^9]“
 
 „Jen kdyby můj syn nebyl s tebou v úřadě, já bych ti řekla ‚kennens-nicht‘!“ bručela Bavorová pro sebe.
 
-„Nezbude as jiného!“ mínil pan doktor dobrosrdečně. „Dojdu sám do konskripce[10](#footnote-27518-10), do záduší[11](#footnote-27518-11) a na faru – ale, pane Bavore, vy musíte hned pro fysika[12](#footnote-27518-12); až zde podepíše cedulku, přineste ji za mnou do kanceláře!“
+„Nezbude as jiného!“ mínil pan doktor dobrosrdečně. „Dojdu sám do konskripce[^10], do záduší[^11] a na faru – ale, pane Bavore, vy musíte hned pro fysika[^12]; až zde podepíše cedulku, přineste ji za mnou do kanceláře!“
 
 Václav ochotně odkvapil.
 
@@ -244,7 +244,7 @@ Páni odešli.
 
 „Jakpak se jmenoval pantáta?“
 
-„Šestnáctka – byl Nepomucký.[13](#footnote-27518-13) Tak tedy najednou stojí jako přede mnou – u nás v krámě. Chci říct: ‚Kdepak jste se tu vzal, pantáto?‘, on mně ale – byl celý bílý – podává plnou náruč tlustých buchet – dvacet tři, znamená to štěstí – a povídá: ‚Naverbovali mne na vojnu, musím jít!‘ Vojenské verbování má osmičku a znamená veselost. Obrátil se a šel –“
+„Šestnáctka – byl Nepomucký.[^13] Tak tedy najednou stojí jako přede mnou – u nás v krámě. Chci říct: ‚Kdepak jste se tu vzal, pantáto?‘, on mně ale – byl celý bílý – podává plnou náruč tlustých buchet – dvacet tři, znamená to štěstí – a povídá: ‚Naverbovali mne na vojnu, musím jít!‘ Vojenské verbování má osmičku a znamená veselost. Obrátil se a šel –“
 
 „To bude šedesát jedna, když se obrátil!“
 
@@ -258,9 +258,9 @@ Páni odešli.
 
 ## III. V rodině pana domácího
 
-Již je čas, abych určitěji naznačoval dějiště a osoby. Při těchto visím na náhodě, jak která v průběhu začínajícího právě téhodne[14](#footnote-27518-14) pošine se sama v popředí; o dějišti ale mohu hned říci, že to jeden z nejtišších domů tiché Malé Strany. A dům to stavby divné, jakých arci ještě více na nejpříkřejším svahu Ostruhové ulice. Dům má poměrně značnou hloubku, prostým průčelím svým dívá se v ulici Ostruhovou, kdežto zadní část budovy hledí do hluboké a mrtvé uličky Svatojanské. Tím svahem se stává, že zadní část vzdor svým dvěma patrům je přec nižší než jednopatrová část přední. Obě ty části nejsou budovami spojeny, zdi sousedních domů trčí mezi nimi do výše, ale slepě, bez oken.
+Již je čas, abych určitěji naznačoval dějiště a osoby. Při těchto visím na náhodě, jak která v průběhu začínajícího právě téhodne[^14] pošine se sama v popředí; o dějišti ale mohu hned říci, že to jeden z nejtišších domů tiché Malé Strany. A dům to stavby divné, jakých arci ještě více na nejpříkřejším svahu Ostruhové ulice. Dům má poměrně značnou hloubku, prostým průčelím svým dívá se v ulici Ostruhovou, kdežto zadní část budovy hledí do hluboké a mrtvé uličky Svatojanské. Tím svahem se stává, že zadní část vzdor svým dvěma patrům je přec nižší než jednopatrová část přední. Obě ty části nejsou budovami spojeny, zdi sousedních domů trčí mezi nimi do výše, ale slepě, bez oken.
 
-V přední části lze z ulice vidět vlevo krám hokynářský, vpravo hospůdku. Do prvního patra nechodí se schody z průjezdu temného, nýbrž musí se vyjít na schůdky do dvora vedoucí, odtud vpravo po krátké pavláčce k točitým schodům, těmi nahoru zas na krátkou pavláčku, z ní do malé chodby. Patro to tvoří do ulice i do dvora jediný byt, obydlený hospodářským úředníkem, žijícím na odpočinku zde se ženou a dcerou. Pan doktor, vlastně pan Josef Loukota, praktický amanuensis[15](#footnote-27518-15) bez doktorátu, má u nich pokojík v podnájmu a musí skrz kuchyň do obydlí svého.
+V přední části lze z ulice vidět vlevo krám hokynářský, vpravo hospůdku. Do prvního patra nechodí se schody z průjezdu temného, nýbrž musí se vyjít na schůdky do dvora vedoucí, odtud vpravo po krátké pavláčce k točitým schodům, těmi nahoru zas na krátkou pavláčku, z ní do malé chodby. Patro to tvoří do ulice i do dvora jediný byt, obydlený hospodářským úředníkem, žijícím na odpočinku zde se ženou a dcerou. Pan doktor, vlastně pan Josef Loukota, praktický amanuensis[^15] bez doktorátu, má u nich pokojík v podnájmu a musí skrz kuchyň do obydlí svého.
 
 Točité schody jdou ještě o něco výš, až k půdě.
 
@@ -268,11 +268,11 @@ Vpravo i vlevo od schůdků dole jsou dřevníky. Dvorek je značně svislý. V
 
 V prvním patře bydlí pan domácí se svou rodinou, již jsme byli už zběžně na pavlači spatřili. Učiňme zde slušným způsobem přední návštěvu.
 
-Kuchyní, v níž spatřujeme nyní starou Bavorovou opět, a sice u pracích necek co posluhovačku paní domácí, vkročíme do prvního pokoje. Nářadí je tu dosti jednoduché a nemoderní. Vlevo ustlané lože, pokryté pletenou přikrývkou, vpravo prádelník a vysoký šatník, zde onde několik sedadel, uprostřed kulatý, potrhaným trochu a vybledlým kobercem pokrytý stůl, v oknech po šicím stolku a sedadle i podnožce, na stěně mezi okny velké zrcadlo, na stěnách ostatních, zeleně malovaných, prázdno. Na prádelníku a zrcadelním rámci nasadil se prach; avšak to neškodí, teprv druhý pokoj je pokojem parádním, proto také říká Bavorová pokoji prvnímu jen „parádní vorzimmer[16](#footnote-27518-16)“. V druhém, parádním tedy pokoji je na stěnách několik iluminovaných litografií a nářadí skládá se z piana, kanape, stolu před ním, as šesti, bílými pokrývkami opatřených, v kruhu kolem stolu nastavených sedadel a opět lože. Lože to je odestláno a povaluje se na něm holčice, druhá dcerka to domácí. Třetí pokoj je ložnicí rodičů.
+Kuchyní, v níž spatřujeme nyní starou Bavorovou opět, a sice u pracích necek co posluhovačku paní domácí, vkročíme do prvního pokoje. Nářadí je tu dosti jednoduché a nemoderní. Vlevo ustlané lože, pokryté pletenou přikrývkou, vpravo prádelník a vysoký šatník, zde onde několik sedadel, uprostřed kulatý, potrhaným trochu a vybledlým kobercem pokrytý stůl, v oknech po šicím stolku a sedadle i podnožce, na stěně mezi okny velké zrcadlo, na stěnách ostatních, zeleně malovaných, prázdno. Na prádelníku a zrcadelním rámci nasadil se prach; avšak to neškodí, teprv druhý pokoj je pokojem parádním, proto také říká Bavorová pokoji prvnímu jen „parádní vorzimmer[^16]“. V druhém, parádním tedy pokoji je na stěnách několik iluminovaných litografií a nářadí skládá se z piana, kanape, stolu před ním, as šesti, bílými pokrývkami opatřených, v kruhu kolem stolu nastavených sedadel a opět lože. Lože to je odestláno a povaluje se na něm holčice, druhá dcerka to domácí. Třetí pokoj je ložnicí rodičů.
 
 U jednoho okna prvního pokoje sedí paní domácí, u druhého sedí slečinka. Matka je posud jen napolo oblečena, dcera posud jen ve spodničce, ač jde již na jedenáctou.
 
-Paní domácí je dáma velmi ostrých tahů, obličeje až stlačeného a v špičatou bradu vybíhajícího. Má nasazeny brejle a šije velmi pilně na hrubém jakéms plátně. Černé, na plátnu vytištěné marky[17](#footnote-27518-17) ukazují, že to prádlo vojenské. Slečna je, abychom vyjádřili se krátce, blondýnkou nejfádnějšího druhu. Její obličej činí ji matce podobnou, jenže ostrost tahů je trochu zmírněna a špičatá brada že má pro sebe alespoň jakýs ten půvab mladosti. Oči její jsou světle modry, vlasy nezdají se být husty, jsou ale posud v papiloty svinuty. Vidíme nyní, že je přec již značně přes dvacet let.
+Paní domácí je dáma velmi ostrých tahů, obličeje až stlačeného a v špičatou bradu vybíhajícího. Má nasazeny brejle a šije velmi pilně na hrubém jakéms plátně. Černé, na plátnu vytištěné marky[^17] ukazují, že to prádlo vojenské. Slečna je, abychom vyjádřili se krátce, blondýnkou nejfádnějšího druhu. Její obličej činí ji matce podobnou, jenže ostrost tahů je trochu zmírněna a špičatá brada že má pro sebe alespoň jakýs ten půvab mladosti. Oči její jsou světle modry, vlasy nezdají se být husty, jsou ale posud v papiloty svinuty. Vidíme nyní, že je přec již značně přes dvacet let.
 
 Košík se šicím náčiním stojí na okně a bílé, tenké jakés prádlo leží na sedadle vedle slečny. Červené, na prádle ležící klubíčko dokazuje, že slečna buď prádlo znamenat začala, neb alespoň začít chtěla. Na uprázdněném stolečku, při každém pohnutí se kývajícím, stojí miska s kalamářem, vedle něho je otevřené album s rozloženými a popsanými pamětními lístky, před slečnou na podložených starých novinách jeden lístek bílý, a na okně je po ruce rozložený sešit, popsaný samými německými verši. Slečna chce zajisté kus poesie na ten bílý lístek vkouzlit, ale je patrno, že nemá péro ještě dost připravené; zkouší je na pokraji novin, i pomáhala mu již všelijak, jak její inkoustem počerněné rty svědčí.
 
@@ -308,12 +308,12 @@ _Roszen verwelken Mirthe bricht
 Aber wahrer Freundschaft nicht;  
 Wahrer Freundschaft soli nicht brechen  
 Bis man einst von mir zvird sprechen.  
-     „Sie ist nicht mer.“[18](#footnote-27518-18)_
+     „Sie ist nicht mer.“[^18]_
 
   
   
 
-Čtveroverší bylo napsáno švabachem[19](#footnote-27518-19), emfatický konec latinkou. Slečna Matylda dívala se na poetické dílo své velmi spokojeně, přečtla sobě verše ty dvakrát nahlas a po druhé pronesla krásný konec hlasem tuze dojemným. Pak začala podepisovat jméno. Napsala celé „M“ a polovic „a“, vtom péro z nedostatku potravy selhalo. Slečna namočila znovu, přiložila ruku zas k podpisu a v tomtéž okamžiku byla vedle začatého „a“ velká kulatá kaňka. Energicky zdvihla slečna lístek a slízla kaňku jedním rázem.
+Čtveroverší bylo napsáno švabachem[^19], emfatický konec latinkou. Slečna Matylda dívala se na poetické dílo své velmi spokojeně, přečtla sobě verše ty dvakrát nahlas a po druhé pronesla krásný konec hlasem tuze dojemným. Pak začala podepisovat jméno. Napsala celé „M“ a polovic „a“, vtom péro z nedostatku potravy selhalo. Slečna namočila znovu, přiložila ruku zas k podpisu a v tomtéž okamžiku byla vedle začatého „a“ velká kulatá kaňka. Energicky zdvihla slečna lístek a slízla kaňku jedním rázem.
 
 Patrno, že jí ta kaňka nespletla a že kvůli ní nezačne psát znovu; drželať lístek proti světlu a čekala, až mokrý pruh nebude více mokrý. Vtom však vkročila matka z kuchyně spěšně do pokoje.
 
@@ -363,7 +363,7 @@ Slečna Matylda se ani nezačervenala, naproti přítelkyni toho také není tř
 
 „Tedy se jen tak dělá, čtverák! Těm mužským není v ničem co věřit!“
 
-„O ten je prohnaný! Včera jsem se mu nasmála! Škádlila jsem ho, že tak mnoho kouří, a ptala se, proč. On mně odpověděl, že chce mít pysky už navykly práci, až začne jednou doopravdy hubičkovat. Der ist witzig![20](#footnote-27518-20)“
+„O ten je prohnaný! Včera jsem se mu nasmála! Škádlila jsem ho, že tak mnoho kouří, a ptala se, proč. On mně odpověděl, že chce mít pysky už navykly práci, až začne jednou doopravdy hubičkovat. Der ist witzig![^20]“
 
 Slečna Marie prozrazovala nevinným zachechtnutím, že sdílí náhled o vtipu páně Kořínkově. „Ale proč šel tedy z řadového pluku k oděvní komisi, když je ještě dost statečný?“
 
@@ -382,7 +382,7 @@ Na lístku stálo:
 _Dein treues Herz und Tugend Pracht  
 Hat mich in dich verlibt gemacht,  
 Mein Herz ist dir von mir gegeben  
-Vergissmeinnicht in Todt und Leben.[21](#footnote-27518-21)_
+Vergissmeinnicht in Todt und Leben.[^21]_
 
   
 
@@ -395,7 +395,7 @@ Oberlieutenant._
 
 „No – on se jmenuje Václav, ale nelíbí se mu to. Říká, že se chtěl dát o každé kostelní parádě překřtít!“
 
-„A zdehle máš celý cahier[22](#footnote-27518-22) veršů!“
+„A zdehle máš celý cahier[^22] veršů!“
 
 „Půjčil mně Kořínek.“
 
@@ -461,9 +461,9 @@ Trvalo tak hezky dlouho do noci. Konečně cvakla klika, dveře ospale vrzly a 
 
 Do stojanu u dveří se nalézajícího vstrčil hůlku, na stojan zavěsil slaměný klobouk a pak zamnul sobě pan doktor ruce. „I vida, vida,“ bručel hlasem přidušeným, „máme tu návštěvu! Pěkně vítám, pane měsíčku, přišli jsme už na letnice? Zdrávo všechno doma? A což – proklaté koleno!“ zabručel hlasitěji, sehnul se a mnul sobě koleno. Obličej jeho, do měsíční záře nahnutý, jevil napolo rozmrzelost, napolo úsměv.
 
-Vzpřímil se zas a počal svlékat se z kabátu. Když otvíral šatník, aby tam kabát zavěsil, zabručel znovu, avšak prozpěvuje sobě: „Doktor Bartolo[23](#footnote-27518-23) – doktor Bartolo – doktor Bartolololo – lolo – lo – Bylo to E, nebo F – ano, F to bylo – Bartololo – lolo – lolo –“ Sňal mezitím se stojanu šedivý župan svůj, oblékl se do něho, opásal červenou hedvábnou šňůrou a kráčel volně a stále ještě „lolo-“kaje k otevřenému oknu.
+Vzpřímil se zas a počal svlékat se z kabátu. Když otvíral šatník, aby tam kabát zavěsil, zabručel znovu, avšak prozpěvuje sobě: „Doktor Bartolo[^23] – doktor Bartolo – doktor Bartolololo – lolo – lo – Bylo to E, nebo F – ano, F to bylo – Bartololo – lolo – lolo –“ Sňal mezitím se stojanu šedivý župan svůj, oblékl se do něho, opásal červenou hedvábnou šňůrou a kráčel volně a stále ještě „lolo-“kaje k otevřenému oknu.
 
-„Ach Josefinka asi už spí – pa, koťátko, nechala si něco pěkného zdát! Je to roztomilé kotě – a tak dobrosrdečna!“ náhle se sehnul, mnul koleno zas, ale nezaklel tentokrát. Položil se do okna. „Byt mají dosti velký, ani ho teď nepotřebují. Zůstanem tam – jen trochu nového nářadí! – – No, matku a tu nemocnou Katušku budem mít rádi, jsou hodny. Takto nemá nikoho – ten bavorský bratranec bude družbou, ovšem, Josefinka musí mít na svatbě družbu, to se rozumí – kotě! Odbudem to ve vší tichosti – Bartolololo – Copak mně dnes sevillský doktor nejde ani z mysle, co je to! Bartolo – Bartolo – – nejsem tak stár a jsem zachovalý, zachovalý dost, o je! U mne není ještě ‚periculum in Morea‘[24](#footnote-27518-24). Nepotřebuju se bát, že ‚hezčí, než jsem nyní, v celém svém živobytí více nebudu‘. Bude to pro mne nové živobytí, budu spokojen, a když je člověk spokojen, omládne.“ Zadíval se do kulatého měsíce. „Zdalipak se teď kotěti něco zdá! Jakpak by, takové dítě spí, jako by je do vody hodil. – Já bych jí pošeptal, co by se jí zdát mělo!“
+„Ach Josefinka asi už spí – pa, koťátko, nechala si něco pěkného zdát! Je to roztomilé kotě – a tak dobrosrdečna!“ náhle se sehnul, mnul koleno zas, ale nezaklel tentokrát. Položil se do okna. „Byt mají dosti velký, ani ho teď nepotřebují. Zůstanem tam – jen trochu nového nářadí! – – No, matku a tu nemocnou Katušku budem mít rádi, jsou hodny. Takto nemá nikoho – ten bavorský bratranec bude družbou, ovšem, Josefinka musí mít na svatbě družbu, to se rozumí – kotě! Odbudem to ve vší tichosti – Bartolololo – Copak mně dnes sevillský doktor nejde ani z mysle, co je to! Bartolo – Bartolo – – nejsem tak stár a jsem zachovalý, zachovalý dost, o je! U mne není ještě ‚periculum in Morea‘[^24]. Nepotřebuju se bát, že ‚hezčí, než jsem nyní, v celém svém živobytí více nebudu‘. Bude to pro mne nové živobytí, budu spokojen, a když je člověk spokojen, omládne.“ Zadíval se do kulatého měsíce. „Zdalipak se teď kotěti něco zdá! Jakpak by, takové dítě spí, jako by je do vody hodil. – Já bych jí pošeptal, co by se jí zdát mělo!“
 
 Obrátil se zpět a sňal se stěny nad květinovým stolkem kytaru. Postavil se s ní zas do okna a zkusil několik akordů. Dole ve dvoře zaznělo duté zavytí psa.
 
@@ -473,9 +473,9 @@ Přikročil k psacímu stolku a rozžehl svíčku. Pak usedl do křesla. Když
 
 „Jsem přece už dost stár, abych nebyl už dost hlup. V mém věku musí se taková věc odbýt rychle, ale ne příliš rychle, ne beze vší poesie. Můj plán je dobrý – proklaté koleno, musil jsem se přec jen notně drcnout!“ Rozhrnul župan a prohlížel světlé spodky. Na pravém kolenu byly spodky rozraženy.
 
-„Nové spodky!“ bědoval rozmrzele. „To má člověk z útlocitu! Stáli vlevo v průjezdě – jistě že to byl Václav s Márinkou, kdopak jiný – vyhnul jsem se vpravo a drcnul do manglu[25](#footnote-27518-25)! Kletý Václav! – Tu známost mu ale musím zradit, je teprv praktikant, kampak by to vedlo! – Škoda je ho, má talent, musí se mu to nechat, a nejlíp by bylo, kdyby mohl dostudovat. Když ale není prostředků! Musím mu také zradit to jeho básnění, nevede také k ničemu, ať se drží úřadu, když už je v tom! Až si přijde pro můj úsudek, řeknu mu, aby to všechno zahodil, že to nic není.“
+„Nové spodky!“ bědoval rozmrzele. „To má člověk z útlocitu! Stáli vlevo v průjezdě – jistě že to byl Václav s Márinkou, kdopak jiný – vyhnul jsem se vpravo a drcnul do manglu[^25]! Kletý Václav! – Tu známost mu ale musím zradit, je teprv praktikant, kampak by to vedlo! – Škoda je ho, má talent, musí se mu to nechat, a nejlíp by bylo, kdyby mohl dostudovat. Když ale není prostředků! Musím mu také zradit to jeho básnění, nevede také k ničemu, ať se drží úřadu, když už je v tom! Až si přijde pro můj úsudek, řeknu mu, aby to všechno zahodil, že to nic není.“
 
-Vzal z psacího stolku silný sešit papíru i začal se v něm probírat. Měl v něm čítací známky[26](#footnote-27518-26) a rozložil sešit u první z nich.
+Vzal z psacího stolku silný sešit papíru i začal se v něm probírat. Měl v něm čítací známky[^26] a rozložil sešit u první z nich.
 
 „Můj plán je hotov,“ pokračoval v samomluvě, „potřebuju básní, sám jich nedovedu a tyto mně náhodou poslouží. Kdybych jich nevzal odtud, vzal bych odjinud, co na tom. Josefinka se toho nedoví, on také ne, na mou radu je zahodí. Tedy zítra pošlem první, prozatím anonymní, však ona uhodne! – Tahle bude první!“
 
@@ -575,7 +575,7 @@ Paní Lakmusová, ač také již přes čtyřicítku, byla ještě plna života.
 
 Pana Lakmusa sousedé málokdy spatřili jinde než v okně. Měl zlou nemocnou nohu, kteráž žádala pilného domácího ošetřování. Sotva že za několik měsíců jednou vybelhal se z domu; čas celý trávil doma, vyhlížeje buď z okna na ulici, buď se ošetřuje na pohovce, obalen ve flanely a mokré šaty. Pravili o něm, že popíjí mnoho vína; trudovitá tvář jeho tomu neodpírala.
 
-Čas byl se již pošinul druhého dne našeho vypravování daleko k poledni, když pan Lakmus pracně se vyzdvihnul z křesla při oknu jizby, jež do ulice šla; byl v něm dopolední hodiny trávil a pomalu se ubíral nyní k pohovce. Zde usedl zase, natáhnul nohu na pohovku a s netrpělivým jaksi povzdechem podíval se na velké, hlasně cvakající zásklenní hodiny, které byly jako vše ostatní nářadí sice nenovy, avšak taktéž o jistém nákladu svědčící. Rafije[27](#footnote-27518-27) ukazovala několik minut před dvanáctou.
+Čas byl se již pošinul druhého dne našeho vypravování daleko k poledni, když pan Lakmus pracně se vyzdvihnul z křesla při oknu jizby, jež do ulice šla; byl v něm dopolední hodiny trávil a pomalu se ubíral nyní k pohovce. Zde usedl zase, natáhnul nohu na pohovku a s netrpělivým jaksi povzdechem podíval se na velké, hlasně cvakající zásklenní hodiny, které byly jako vše ostatní nářadí sice nenovy, avšak taktéž o jistém nákladu svědčící. Rafije[^27] ukazovala několik minut před dvanáctou.
 
 S hodin sklouzl zrak jeho na Klárku, která u druhého okna pilně šitím se zanášela. „Dnes mně ani nedáváte polívku!“ prál s mrzutým úsměvem, jako by jen připomenouti chtěl, nikoli pohněvati.
 
@@ -615,7 +615,7 @@ Podívala se do malého nástěnného zrcátka, přitáhla si čepec, shrnula ru
 
 Pana doktora to dnes v kanceláři dlouho netrpělo. Byl roztržit, skoro mrzut, prochvíval ho jakýs nepokoj, polopříjemný, polotrapný. Chvěl se jakýms pocitem poetickým, a kdo měl kdys v životě pocit ten, ví, že nelze v něm pracovat dle pravítka obyčejného života. Nejasná jakás myšlenka leze nám v mozku jako housenka sem a tam, lechtá i škrabe, rozčilí jednu čivu, druhou, třetí, až je celá čivní soustava v rozčilení. Není nic platno, musíme se vzdát práce, musíme veškeru pozornost soustředit na myšlenku tu, až se tato konečně někde pevně usadí a znenáhla v pevný kokon zapřede. Je-li slunko fantasie dosti teplé, pukne pak kokon a do světa vyletí motýl – báseň.
 
-Motýl, skvějící se v barvách „horské krajiny“, byl panu doktorovi vyletěl hned ráno; pan doktor ho připevnil perem na růžový papír, vstrčil do papírového pouzdra, zalepil voňavou oblatou[28](#footnote-27518-28) a svěřil městské poště. Ono rozčilení ale dostavilo se mu teprv později, vzmáhalo se však po příkladu pozdní lásky, až ho vyhnalo z kanceláře.
+Motýl, skvějící se v barvách „horské krajiny“, byl panu doktorovi vyletěl hned ráno; pan doktor ho připevnil perem na růžový papír, vstrčil do papírového pouzdra, zalepil voňavou oblatou[^28] a svěřil městské poště. Ono rozčilení ale dostavilo se mu teprv později, vzmáhalo se však po příkladu pozdní lásky, až ho vyhnalo z kanceláře.
 
 Loudal se pomalu domů. Když přišel průjezdem až ke dvor­ku, opominul se podívat dle dávného obyčeje svého nahoru k Josefinčiným oknům. Bylo mu, jako by byl vyvázl z nějakého nebezpečí, když podivně nejistým krokem vešel konečně do kuchyně Lakmusových. Oddechl sobě, krev se mu počala proudit volněji a na Klárku promluvil s tak příjemně znějícím záchvěvem, jak předtím nikdy dříve. Nezdržel se ale dlouho, vešel hned do svého pokoje.
 
@@ -713,7 +713,7 @@ Doktor stál uprostřed pokoje dlouho jako přimražen.
 
 Konečně sobě zhluboka oddechl a hodil hlavou. „Nu tohle by bylo pěkné!“ zabručel zlostně. „Ano, zřídím si spisy, nenadálá paní tchýně, ale ne pro vaši dceru, paní tchýně už zase na odpočinku! – – Nezbývá pomoci než u velkém spěchu! Zejtra druhou báseň, pozejtří třetí a popozejtří – ne, to je pátek, kdo ví, co by se stalo – tedy hned pozejtří odpůldne námluvy! Pak honem jiný byt, nebo, ty můj bože, to bude pěkná cesta domů a z domova – a pak“ –
 
-Nedomluvil. Dveře se otevřely a sprovázena služkou vkročila zas paní Lakmusová, nesouc stolní přístroj[29](#footnote-27518-29).
+Nedomluvil. Dveře se otevřely a sprovázena služkou vkročila zas paní Lakmusová, nesouc stolní přístroj[^29].
 
 „Vyndala jsem pro vás přístroj stříbrný, pane doktore,“ pravila kladouc to na stolek, „nač bychom své stříbro pořád schovávali!“ Přistoupila k doktorovi, položila mu ruku na rameno a šeptala polohlasně: „Já to Klárce už přece řekla!“
 
@@ -761,7 +761,7 @@ Jsem s prací hotov, co mám dělat! Odevzdat ji ještě nesmím, až zítra, v
 
 Budu si psát fejetonky z úřadu, obrazy každodenního žití, fotografie a biografie těch pánů a pánů kolegů a představených, blesky byrokratického života a praktikantské písničky. Anglický satirik psal cestopis o cestě vykonané po vlastním psacím stolku; já se rozjedu šíř, zabočím na všechny stolky sousední, rozjedu se po celé říši našeho pana presidenta, popíšu zemi i lid. Jen zdali ten lid dá příležitost k pikantní satiře! Proč by nedal! K satiře se nehodí jen zcela rozumný nebo zcela hloupý člověk; satira na tohoto by rozplakala, na onoho by sobě musela zajít se stanoviska sférického a zkysala by v dokazování, že naproti věčnosti a všemumíru je vše směšno, co děláme.
 
-Tamhle na toho ulízaného pana akcesistu[30](#footnote-27518-30) nebudu musit přijít s filosofií sférickou, jen tak s pramalým zrcátkem, do něhož se tak pilně dívá. Je ke mně přívětiv, ptalť jsem se první den po něm, kdo je ten „krásný“ pán, a on mne zaslech. Ale ti ostatní – jak pilně píšou, jak pracují! To jsou tváře, to jsou hlavy, to jsou oči! Ani by se to k jinému člověku nehodilo než k úředníkovi, všechno dle předpisu! Je na těch obličejích vidět, že je „duševní“ jich práce nenamáhá a že ani jedinou jich myšlenku nenapadne, aby se povznesla nad úřední normále. Je jim to patrně jedno, vyšlapují-li akta, aneb užije-li se jich jako v Banátě tahounů, aby vyšlapávali obilí! Krok za krokem a vždy dle míry! Nu snad jsou mezi těmi duševními tahouny přece nějací trojanští koňové: zevnitř dřevo a uvnitř Řekové. Otevřeme si je!
+Tamhle na toho ulízaného pana akcesistu[^30] nebudu musit přijít s filosofií sférickou, jen tak s pramalým zrcátkem, do něhož se tak pilně dívá. Je ke mně přívětiv, ptalť jsem se první den po něm, kdo je ten „krásný“ pán, a on mne zaslech. Ale ti ostatní – jak pilně píšou, jak pracují! To jsou tváře, to jsou hlavy, to jsou oči! Ani by se to k jinému člověku nehodilo než k úředníkovi, všechno dle předpisu! Je na těch obličejích vidět, že je „duševní“ jich práce nenamáhá a že ani jedinou jich myšlenku nenapadne, aby se povznesla nad úřední normále. Je jim to patrně jedno, vyšlapují-li akta, aneb užije-li se jich jako v Banátě tahounů, aby vyšlapávali obilí! Krok za krokem a vždy dle míry! Nu snad jsou mezi těmi duševními tahouny přece nějací trojanští koňové: zevnitř dřevo a uvnitř Řekové. Otevřeme si je!
 
 Jen pan rada sobě přeje odpočinku a čte noviny. Teď je odložil – –
 
@@ -773,13 +773,13 @@ Kéž jsem zase v koleji s tou nadějnou vyhlídkou na všechno ve světě a 
 
 Co stylistickou zkoušku dali mně první den úkol, abych popsal city při pohledu na lokomotivu. Zapřáh jsem před lokomotivu Pegasa a vyjel jsem sobě směle do říše lidských pokroků. Pan president prý vrtěl tuze hlavou a řek, že jsem divný člověk.
 
-Ještě jsem s nikým nemluvil a už jsem zaslech, že mně říkají ‚Svornostr‘[31](#footnote-27518-31). Na všechen způsob půjde to ztuha! Kéž jsem zase v koleji! – Nejde to ale!
+Ještě jsem s nikým nemluvil a už jsem zaslech, že mně říkají ‚Svornostr‘[^31]. Na všechen způsob půjde to ztuha! Kéž jsem zase v koleji! – Nejde to ale!
 
 * * *
 
 To je vzduch! Prométheova hlína voněla prý lidským masem, tady ti lidé zavánějí hlínou, ale ne mastnou.
 
-Strašní lidé! Jsou asi tam, kde jsem byl co malý hošík, když jsem ještě špačka tlouk a německé myši[32](#footnote-27518-32) za nožičky tahal. Tenkrát jsem četl německy psaného Robinsona; „Insel“, myslel jsem, že je totéž co „Inslicht“[33](#footnote-27518-33), a přece se mně to líbilo. Ti lidé zde mají podobně světlý názor o celém světě a svět se jim přece líbí. Myšlenky považují za státní monopol jako sůl a tabák. To jsem si dal s trojanským koněm; zevnitř dřevo, uvnitř dřevo, tluč do toho, jak chceš, nic než dřevo!
+Strašní lidé! Jsou asi tam, kde jsem byl co malý hošík, když jsem ještě špačka tlouk a německé myši[^32] za nožičky tahal. Tenkrát jsem četl německy psaného Robinsona; „Insel“, myslel jsem, že je totéž co „Inslicht“[^33], a přece se mně to líbilo. Ti lidé zde mají podobně světlý názor o celém světě a svět se jim přece líbí. Myšlenky považují za státní monopol jako sůl a tabák. To jsem si dal s trojanským koněm; zevnitř dřevo, uvnitř dřevo, tluč do toho, jak chceš, nic než dřevo!
 
 Včera jsem jim řek, že pařížské dámy nosí péra z braziliánských opic, předevčírem jsem jim řek, že arcibiskupský slavnostní kočár je stavěn podle ekypáže svatého Eliáše, zítra ustřihnu Azorovi kus chlupů z ocasu a řeknu jim, že jsou to ty vlasy, které sobě trhala Isis, když umřel Osiris.
 
@@ -811,7 +811,7 @@ Vstal, postavil se a mluvil:
 
 „Dal jsem si vás zavolat, abych vám řekl, že děláte slohem svým hanbu našemu úřadu u všech vyšších instancí. Jeden rodí samé slony a druhý samá půlčata, prostředně, a tedy slušně dlouhou a vypracovanou periodu jsem od vás nečetl již mnoho let, vlastně nikdy. To pochází z toho, že píšete pořád dál, aniž byste myslili, nebo zas, že vás každá myšlénka ihned omrzí, žádná vážnost, žádná opravdovost. Pak ale je také vidět, že ani neumíte německy, a já vám řeknu, proč neumíte: protože žvatláte pořád a pořád česky! A proto zde mocí svého úřadu zapovídám, aby nikdo neodvážil se v úřadě slůvka po česku promluvit, i radím každému co přítel a představený, aby rovněž se choval i mimo úřad a aby hleděl pilným čtením sobě sloh svůj zlepšit. Jděte zas ku své práci, pánové, a pamatujte sobě, že nikdo nepostoupí výš, kdo nebude mít sloh!“
 
-Nastalo kruté polování[34](#footnote-27518-34) po celém úřadě i obcházel pilně každý od muže k muži, aby sobě opatřil potravy z kuchyně německé. Kdo měl doma nějaký starý ročník Bohemie[35](#footnote-27518-35), byl považován za něco.
+Nastalo kruté polování[^34] po celém úřadě i obcházel pilně každý od muže k muži, aby sobě opatřil potravy z kuchyně německé. Kdo měl doma nějaký starý ročník Bohemie[^35], byl považován za něco.
 
 Rozmluvy české přestaly. Ledaže dva zcela důvěrní, z nichž jeden ví, že druhý není udavačem, slůvko po česku sobě řeknou na chodbě nebo v mrtvém archivu. Připadají mně jako tajní šnupáci.
 
@@ -829,7 +829,7 @@ Rozprava u stolku vpravo ode mne:
 
 „I ano, půl libry pro všechny jako vždy. Co bychom vařili! My světíme jen největší posty a pak si popřejem ten kousek ryby. Aspoň jednou za čas kousek ryby slouží ku zdraví!“
 
-„Takhle kousek černé s knedlíkem a kousek smažené! Pro děti – vy arci nemáte dětí – musí být něco z mouky. Vloni poslala nám švakrová kopu hlemýžďů, žena je udělala šlampet[36](#footnote-27518-36).“
+„Takhle kousek černé s knedlíkem a kousek smažené! Pro děti – vy arci nemáte dětí – musí být něco z mouky. Vloni poslala nám švakrová kopu hlemýžďů, žena je udělala šlampet[^36].“
 
 „Že se o postu jedí divoké kachny, tomu rozumím, žijou ve vodě; ale hlemýžď leze přec po zahradách!“
 
@@ -895,7 +895,7 @@ Vyjímaje pana Lakmusa, jenž se dívá z okna hořejšího, a Jose­finčinu 
 
 Právě byl přišel kněz s kostelníkem a ministranty a modlitby začaly. Skoro až u dveří Žanýnčina bytu stály podle sebe Bavorová a paní hospodská. Hned první slova monotónního recitativu pohřebního pohnula Bavorovou tak, že se jí oči zalily a zčervenalá náhle brada se chvěla v upřímném pohnutí. Paní hospodská dívala se chladně; bez ohledu na slzy své sousedky náhle se k této sehnula a začala rozkládat.
 
-„Ti se přihnali jako Židé na licitaci[37](#footnote-27518-37)! – Nikdy se o ni živou nestarali, teď honem přiběhli pro dědictví! Pán bůh jim je požehnej, však my bychom jim nebyly ničeho ukradly, a nemusili zavřít všecko a máry postavit na dvůr. Dali vám něco z pozůstalosti za vaše služby? Že nedali?“
+„Ti se přihnali jako Židé na licitaci[^37]! – Nikdy se o ni živou nestarali, teď honem přiběhli pro dědictví! Pán bůh jim je požehnej, však my bychom jim nebyly ničeho ukradly, a nemusili zavřít všecko a máry postavit na dvůr. Dali vám něco z pozůstalosti za vaše služby? Že nedali?“
 
 „Ani nitku!“ šeptala Bavorová chvějícím se hlasem.
 
@@ -927,13 +927,13 @@ Pohřební vůz se pohnul. Za ním šel jen Václav s matkou. Václav kráčel 
 
 ## IX. Další doklad pořekadla
 
-Večerní hodina letních „táček“[38](#footnote-27518-38) blížila se. Denní světlo bylo sice ještě bílé, ale již se zdála to být bělost znenáhla a opatrně se blížícího spánku. Lidé se takřka nehýbali, byl právě tak okamžik, kdy práce již ustála, chuť k večerní rozpravě a zábavě ještě se nedostavila.
+Večerní hodina letních „táček“[^38] blížila se. Denní světlo bylo sice ještě bílé, ale již se zdála to být bělost znenáhla a opatrně se blížícího spánku. Lidé se takřka nehýbali, byl právě tak okamžik, kdy práce již ustála, chuť k večerní rozpravě a zábavě ještě se nedostavila.
 
 Pan doktor seděl u psacího svého stolku. Na jeho tváři jevila se opravdová zamyšlenost. Přemýšlel o něčem vážném a chtěl patrně něco vážného vykonat; pošupovalť kalamář hned sem a tam, překládal péra s pěknými kostěnými držátky, prohlížel opět a opět pružné jich nožičky. Teď otevřel šuple a vyndal z něho půl knihy tenkého papíru. Sňal jeden arch, držel jej chvilku před sebou ve vzduchu, konečně se pootevřená ústa jeho otevřela dokořán, hlasité „ano“ vyplynulo z plných prsou a pan doktor složil arch úředně podél ve dví.
 
 Patrno, že to byl vážný čin a že stál namáhání, neboť pan doktor hned nato vstal a začal se jaksi v odpočinek procházet pokojem. Chodil jím divně, jako by se motal, někdy dva kroky kupředu a jeden nazad, při čemž hlava hned skleslá na prsou, hned zase s vynucenou smělostí se vztyčila.
 
-„Ano,“ vydechl přitom zase ze sebe. „Když to má být – a být to už musí, ať jde všechno co nejčerstvěji! – Jsem v takových klepetech, že třeba rozhodného spěchu. O, ta stará Lakmusová by mne nepustila – a Klárka taky ne – hodná holka – rozhodl jsem se ale! Tady už nemohu zůstat, vše musí být vyřízeno v několika dnech. – Zítra donesu třetí báseň osobně k Josefince. Zapředu hovor, dám jí báseň ku čtení, budu pozorovat každé zachvění se svého koťátka, pak to hned doděláme. – Úřadní zadání napíšu si ale dnes – hned – jsem v tom humóru[39](#footnote-27518-39) –“
+„Ano,“ vydechl přitom zase ze sebe. „Když to má být – a být to už musí, ať jde všechno co nejčerstvěji! – Jsem v takových klepetech, že třeba rozhodného spěchu. O, ta stará Lakmusová by mne nepustila – a Klárka taky ne – hodná holka – rozhodl jsem se ale! Tady už nemohu zůstat, vše musí být vyřízeno v několika dnech. – Zítra donesu třetí báseň osobně k Josefince. Zapředu hovor, dám jí báseň ku čtení, budu pozorovat každé zachvění se svého koťátka, pak to hned doděláme. – Úřadní zadání napíšu si ale dnes – hned – jsem v tom humóru[^39] –“
 
 Pan doktor zahalil se v župan a otočil šňůrou, jako by se před zimou chrániti chtěl. Usedl rozhodně k stolu, namočil péro, zavířil jím několikrát na svršku archu, pak je spustil a na papíru začernalo se obrovské, krásně točité S.
 
@@ -953,7 +953,7 @@ Do dveří vkročil Václav.
 
 „I ne – jen dál –“ mručel pan doktor v rozpačitém ochraptění náhlém, „chtěl jsem sice právě něco začít – ale jen si sedněte! – Copak mi nesete?“ Otázku tuto položil tak ze zvyku a bez vztahu k papírovému závitku, jejž Václav v ruce držel; nebylť sobě vůbec pro rozpačitou mlhu před očima Václava důkladněji posud všimnul.
 
-Václav usednul. „Nesu vám, pane doktore, něco pro chvíle rozechvělé, ač budete-li tím chtít nervy svoje ukojit. Je to novelistická šumivka[40](#footnote-27518-40), totiž nešumí snad duchem, ale může ukonejšit jako šumivka. Jednoduchá myšlénka, snad až chudá, ale původní provedení – mně se hnusí užívat posud běžných novelistických forem i předmětů. Uvidíme, co tomu prvnímu novelistickému pokusu řeknete –“ a položil závitek na stolek páně doktorův. Každý pohyb Václavův byl mladě svěží.
+Václav usednul. „Nesu vám, pane doktore, něco pro chvíle rozechvělé, ač budete-li tím chtít nervy svoje ukojit. Je to novelistická šumivka[^40], totiž nešumí snad duchem, ale může ukonejšit jako šumivka. Jednoduchá myšlénka, snad až chudá, ale původní provedení – mně se hnusí užívat posud běžných novelistických forem i předmětů. Uvidíme, co tomu prvnímu novelistickému pokusu řeknete –“ a položil závitek na stolek páně doktorův. Každý pohyb Václavův byl mladě svěží.
 
 „Vy si pořád hrajete – nu, jste mlád!“ usmál se pan doktor. „A jak se máte, pane Václave?“
 
@@ -1017,7 +1017,7 @@ Paní Lakmusová přiběhla s hořící svítilnou, za ní vstoupila slečna Kl
 
 Pan doktor byl ale již zase otevřel oči. Zaslechl slova Václavova. „Ne – ne – žádnou vodu!“ jal se s přemáháním mluvit. „Mně už je dobře! – To bylo jen tak od dnešního parna – v létě se mně to někdy stává!“
 
-„Jen běž!“ velela paní Lakmusová, „přines honem šumivku[41](#footnote-27518-41) a trochu malinové šťávy – máme to všechno doma – běž, Klárinko!“
+„Jen běž!“ velela paní Lakmusová, „přines honem šumivku[^41] a trochu malinové šťávy – máme to všechno doma – běž, Klárinko!“
 
 Slečna Klára odkvapila.
 
@@ -1127,7 +1127,7 @@ Josefu Písčíkovi, koncipistovi tamtéž_
 
 Drahý příteli a vážený příznivče můj!
 
-Zajisté že mně ráčíte odpustit, obracím-li se k Vašnosti s prosbou. Slíbiti jste mně ráčil, že mne budete při ouřadnické kariéře mé podporovat vplyvem svým i vzácnými svými zkušenostmi. Odpusťte ale, že nepřicházím se svou záležitostí oustně k Vám; vždyť víte, že páni radní tuze neradi to vidí, když praktikant zabíhá do jiného bureau[42](#footnote-27518-42) a nezůstává u svého stolku sedět!
+Zajisté že mně ráčíte odpustit, obracím-li se k Vašnosti s prosbou. Slíbiti jste mně ráčil, že mne budete při ouřadnické kariéře mé podporovat vplyvem svým i vzácnými svými zkušenostmi. Odpusťte ale, že nepřicházím se svou záležitostí oustně k Vám; vždyť víte, že páni radní tuze neradi to vidí, když praktikant zabíhá do jiného bureau[^42] a nezůstává u svého stolku sedět!
 
 Nyní ale, abych zbytečně nezdržoval, již ku záležitosti a žádosti mé! Pan sekretář uložil mně, abych všechny včerejším dnem došlé spisy roztřídil dle referátu, do kterého náležejí. Považuje to, myslím, za jakous zkoušku a já jsem při své nezkušenosti pro to s jedním číslem v opravdových rozpacích. Račtež dovolit, abych Vašnost seznámil s obsahem spisu záhadného.
 
@@ -1153,7 +1153,7 @@ provdané Alojsii Trousilové, profesorce v Chrudimi_
 
 Milá sestro!
 
-Pozdravuju a líbám Tě tisíckrát a taky Toníček Ti posílá moc hubiček a abys mu něco poslala. Zeptej se svého muže, pamatujete-li se ještě na Kalhotkovic Jeníka, toho nejmenšího, ten už je teď velký a studovaný a chce být taky profesorem. Snad se bude na něho pamatovat, protože chodil domů na vagace[43](#footnote-27518-43), já už jsem ho neměla v paměti a Ty bys ho taky nepoznala, jak výrost a sesílil. Chodil ke mně přes dva měsíce na stravu a pak jsme se teprv smluvili, když neměl peníze, to víš, jak to bývá u studentů, zvlášť u těch, co za něco stojí, on ale není darebákem a je už se studováním hotov a nechává Tebe a muže pozdravovat. Kalhotka je tuze veselý a moc se mu nasměju, protože je upřímný. Udělal na mne tištěné básně, to víš, takové bláznovství, však Ty tomu co profesorka taky rozumíš, napsal tam, že jsem jako hvězdnatá noc a takové hlouposti, že jsem myslila, že se z toho perplezíru[44](#footnote-27518-44) až rozstůňu smíchy, bylo to ale tuze pěkně vytištěno v časopise a nad tím stálo tlustýma písmenama JÍ a to jsem byla já.
+Pozdravuju a líbám Tě tisíckrát a taky Toníček Ti posílá moc hubiček a abys mu něco poslala. Zeptej se svého muže, pamatujete-li se ještě na Kalhotkovic Jeníka, toho nejmenšího, ten už je teď velký a studovaný a chce být taky profesorem. Snad se bude na něho pamatovat, protože chodil domů na vagace[^43], já už jsem ho neměla v paměti a Ty bys ho taky nepoznala, jak výrost a sesílil. Chodil ke mně přes dva měsíce na stravu a pak jsme se teprv smluvili, když neměl peníze, to víš, jak to bývá u studentů, zvlášť u těch, co za něco stojí, on ale není darebákem a je už se studováním hotov a nechává Tebe a muže pozdravovat. Kalhotka je tuze veselý a moc se mu nasměju, protože je upřímný. Udělal na mne tištěné básně, to víš, takové bláznovství, však Ty tomu co profesorka taky rozumíš, napsal tam, že jsem jako hvězdnatá noc a takové hlouposti, že jsem myslila, že se z toho perplezíru[^44] až rozstůňu smíchy, bylo to ale tuze pěkně vytištěno v časopise a nad tím stálo tlustýma písmenama JÍ a to jsem byla já.
 
 Svému muži řekni, že mu není pranic do toho, vdám-li se zase, a aby mne neškádlil. To se rozumí, že jsem tuze mlada na stav svobodný a moje dítě potřebuje taky otce a ženichů je taky dost. Náš domácí Dílec taky by mne chtěl, ale je nešika a taky rád by hodně peněz a ty nemám, protože jsem jen tak živa. Dílec není tuze chytrý a žárlí na Kalhotku, a proto mne žaloval u magistrátu, že prý chovám moc slepic a kohoutů a ti prý nájemníkům překážejí zvláště zrána kokrháním. Byli páni u mne a dost jsem se nasmála, když pořád chtěli vidět ty hejna kohoutů a já je neměla, protože mám jen tak drůbeže pro domácí potřebu a pro své hosty. Domácí pán bude mít vztek, ale ať má, proč je takový, já o něj nestojím. Taky už není zrovna boubelatý mládeneček.
 
@@ -1168,7 +1168,7 @@ v senátním posedění dne 15. srpna 1858_
 
 … přijat denní pořádek na návrh pana radního Veřeje, protože před senát patří jen předměty důležité. Nato přikročeno k číslu sedmému. Pan radní Veřej referuje o žalobě pana Ondřeje Dílce, majitele domu č. pop. 1213-I., proti paní Helence Velebové, hospodské tamtéž. Pan Ondřej Dílec stěžuje sobě, že hospodská paní Velebová chová mnoho drůbeže, která je ranním svým kokrháním na obtíž ostatním nájemníkům. Předčítá zprávu komise, která sestávala z pánů Edvarda Jungmanna, doktora lékařství, a pana Josefa Písčíka, ouřadníka konceptního. Ze zprávy vysvítá, že komise zmíněná důkladně věc na dotyčném místě vyšetřila a nalezla, že obžalovaná hospodská měla na dvoře jen dvé slepic, jednoho kohouta a jednoho kapouna, a to jen pro své hosty, kdyby se zachtělo někomu drůbeže.
 
-Předsedající pan měšťanosta[45](#footnote-27518-45) míní, že tu nelze ničeho činit, zvláště vzhledem k tomu, že je obžalované drůbeže tak málo a že se hospodské nemůže přikázat, aby měla všechno v mrtvém stavu.
+Předsedající pan měšťanosta[^45] míní, že tu nelze ničeho činit, zvláště vzhledem k tomu, že je obžalované drůbeže tak málo a že se hospodské nemůže přikázat, aby měla všechno v mrtvém stavu.
 
 Referující pan radní Veřej podotýká, že žalobník pan Dílec také trochu nedoslýchá, že tedy to s tím kokrháním není asi tak zlé. Činí návrh, aby žalobník byl odmrštěn.
 
@@ -1190,14 +1190,14 @@ a znějící panu Veřejovi, magistrátnímu raddovi_
 
 Vážený pane raddo!
 
-Poněvadž dnes se již s Vámi nesetkám, bych oustně o záležitosti jisté s Vámi pojednati mohl, zejtra pak na své ville zůstanu, píšu Vám list tento. Jedná se o žalobu hospodské paní Heleny Velebové proti Ondřeji Dílci, majiteli domu č. p. 1213-I., jehož žaluje pro zákonitě zakázaný chov vepřového dobytka. Ad manus inclitissimi praesidii[46](#footnote-27518-46) došla žaloba ta nyní znovu, napsaná panem advokátem Zajíčkem, jenž, jak Vám známo, náleží k protivníkům nynější městské správy. Jednou již jednalo se tedy o věci té, jakž nyní zpraven jsem, avšak nedůkladně. Vyšetřeno prý panem čtvrtním[47](#footnote-27518-47) a panem okresním lékařem, že pan Dílec chová jen dvé podsvinčat, jež připravuje k vlastní potřebě; dále neučiněno ničeho. Nebylo dobré, pane raddo, že jste věc tak důležitou vyříditi ráčil brevi manu[48](#footnote-27518-48), o své újmě a bez senátu. Je nade všechnu pochybnost povzneseno, že podsvinčata také jsou vepřovým dobytkem, a chov takového dobytka je ovšem v Praze přísně zakázán. Nyní pak, kdy na podzim obyčejně vždy cholera morbus se vyskytuje, mohli bychom těžké míti z té věci sodpovídání, an advokát Zajíček při svou zajisté provede. Pro pilnost a nebezpečnost věci račtež tedy, pane raddo, ihned naříditi nové té věci ohledání a vyšetření, račtež o tom pak ihned nechat jednat v senátě u přítomnosti mé a sřídit návrh svůj tak, aby ex senatu concluso[49](#footnote-27518-49) nařízeno bylo odstranění závadného dobytka v osmi dnech.
+Poněvadž dnes se již s Vámi nesetkám, bych oustně o záležitosti jisté s Vámi pojednati mohl, zejtra pak na své ville zůstanu, píšu Vám list tento. Jedná se o žalobu hospodské paní Heleny Velebové proti Ondřeji Dílci, majiteli domu č. p. 1213-I., jehož žaluje pro zákonitě zakázaný chov vepřového dobytka. Ad manus inclitissimi praesidii[^46] došla žaloba ta nyní znovu, napsaná panem advokátem Zajíčkem, jenž, jak Vám známo, náleží k protivníkům nynější městské správy. Jednou již jednalo se tedy o věci té, jakž nyní zpraven jsem, avšak nedůkladně. Vyšetřeno prý panem čtvrtním[^47] a panem okresním lékařem, že pan Dílec chová jen dvé podsvinčat, jež připravuje k vlastní potřebě; dále neučiněno ničeho. Nebylo dobré, pane raddo, že jste věc tak důležitou vyříditi ráčil brevi manu[^48], o své újmě a bez senátu. Je nade všechnu pochybnost povzneseno, že podsvinčata také jsou vepřovým dobytkem, a chov takového dobytka je ovšem v Praze přísně zakázán. Nyní pak, kdy na podzim obyčejně vždy cholera morbus se vyskytuje, mohli bychom těžké míti z té věci sodpovídání, an advokát Zajíček při svou zajisté provede. Pro pilnost a nebezpečnost věci račtež tedy, pane raddo, ihned naříditi nové té věci ohledání a vyšetření, račtež o tom pak ihned nechat jednat v senátě u přítomnosti mé a sřídit návrh svůj tak, aby ex senatu concluso[^49] nařízeno bylo odstranění závadného dobytka v osmi dnech.
 
 V Praze dne 17. září 1858.
 
 _Soukromý list Jana Kalhotky, kandidáta profesury,  
 příteli Emilovi Blažíčkovi, suplujícímu učiteli v Písku_
 
-In nomine domini[50](#footnote-27518-50) zvěstuji Ti přeradostnou zvěst, že určen jsem co suplent pro Hradec Králové, pevnost, město a místo gymnasijní. Ej tedy půjdu a budu vochlovat[51](#footnote-27518-51) českou budoucnost a pracovat jako Ty „na národa roli dědičné“, kterýž citát jsi snad už někde četl. Těším se srdečně na vznešené své povolání, na novou dráhu svou, zvlášť proto, že prý jsou v Králové Hradci hezké holky, jichž jsem vůbec velký milovník. Moje štěstí je u ženských báječné, myslím, že bych nemusil ani nic jiného dělat než milovat a ostatní že by z toho samo pošlo a že bych se měl dobře. Neměl jsem v poslední době ani groše, což se mně už tak někdy stává, a přece jsem žil jako baron, nebo spíš jako spokojený hospodský. Víš, mladá hospodská (vdova), k tomu krajanka, já chlapík jako květ – no žil jsem zkrátka velmi lacině, velmi. Ale nevede se mé krajance tuze dobře, její domácí si ji chtěl vzít, ona nechtěla proto, že měla ráda mne, teď jí dal výpověď a ona neví kudy kam. Mám srdce v těle, a poněvadž jsem si pomohl k trochu penězům, nechodím už k ní, abych nestál jejímu štěstí v cestě. Ženské jsou obratny, zvlášť vdovy, však ona si pomůže. Konečně bych nemohl tvrdit, že by se k tomu domácímu dobře nehodila; bude to slušný párek a vidím je už v mysli, jak budou v neděli svorně pojídat ledvinu se salátem. Ty poznáváš, že jsem nehrál s ní komedii a že mně nebyla lhostejná, sic bych tak mnoho o ní nepsal. Ale – co s ní – to je to!
+In nomine domini[^50] zvěstuji Ti přeradostnou zvěst, že určen jsem co suplent pro Hradec Králové, pevnost, město a místo gymnasijní. Ej tedy půjdu a budu vochlovat[^51] českou budoucnost a pracovat jako Ty „na národa roli dědičné“, kterýž citát jsi snad už někde četl. Těším se srdečně na vznešené své povolání, na novou dráhu svou, zvlášť proto, že prý jsou v Králové Hradci hezké holky, jichž jsem vůbec velký milovník. Moje štěstí je u ženských báječné, myslím, že bych nemusil ani nic jiného dělat než milovat a ostatní že by z toho samo pošlo a že bych se měl dobře. Neměl jsem v poslední době ani groše, což se mně už tak někdy stává, a přece jsem žil jako baron, nebo spíš jako spokojený hospodský. Víš, mladá hospodská (vdova), k tomu krajanka, já chlapík jako květ – no žil jsem zkrátka velmi lacině, velmi. Ale nevede se mé krajance tuze dobře, její domácí si ji chtěl vzít, ona nechtěla proto, že měla ráda mne, teď jí dal výpověď a ona neví kudy kam. Mám srdce v těle, a poněvadž jsem si pomohl k trochu penězům, nechodím už k ní, abych nestál jejímu štěstí v cestě. Ženské jsou obratny, zvlášť vdovy, však ona si pomůže. Konečně bych nemohl tvrdit, že by se k tomu domácímu dobře nehodila; bude to slušný párek a vidím je už v mysli, jak budou v neděli svorně pojídat ledvinu se salátem. Ty poznáváš, že jsem nehrál s ní komedii a že mně nebyla lhostejná, sic bych tak mnoho o ní nepsal. Ale – co s ní – to je to!
 
 Končím svůj list se srdečným přáním, aby se Ti také dobře vedlo.
 
@@ -1353,7 +1353,7 @@ Mystické to zajisté jméno, mystické při pouhé své tradicionálnosti jako 
 
 Správný výklad snů je základem lutrie a výkladu tomu slouží „kumbrlík“. Avšak každý sen se nehodí k výkladu. Jsou zajisté měsícové, kteříž mají jen málo dnů rozhodně šťastných; tyto jsou každé zkušené pěstitelce dobře známy, neboť jsou to „důměnlivosti od starých hvězdářů vyznamenané, avšak od řiditele nejvyššího všech planet potvrzené“. Šťastný den nerodí ale také hned perlu svou, neboť jen nezkušenec neví, že je osm rozdílných „plemen“ snů a z těch že je jen páté plémě to pravé. Nejdřív sluší vyloučiti z luterního výkladu všechny sny, které pocházejí od zlého ducha (plémě osmé), jakož také ty, které se lidem bohumilým udělují co přímá zjevení (plémě sedmé). Snové, kteří pocházejí „od kmene nějaké nemoce“, z horkosti krve a myšlení, z vody v játrech neb plících, nemají taktéž váhy. Plémě páté ale rodí se těm, „kteří na noc málo neb docela žádných pokrmů nepožívají a přitom také zdravé a uspokojené mysli jsou“. Lutristka spravedlivá musí sobě tedy zřídit zvláštní způsob života kvůli plemenění snů a Bavorová sobě jej zřídila.
 
-K povedenému takto snu dává potřebné numerové výklady tedy „kumbrlík“ (jsou sice ještě mnohé jiné druhy snářů, mezi nimi i obrázkové, avšak, ač každý má cenu svou, vyniká „kumbrlík“ přece nad snáře jako Sněžka nad hory). Vybraná takto numera nejsou sice nade všechnu pochybnost vznesena, ale vsadí se jednou přec pro tah nejbližší, jaksi aby se pec prohodila. Vyjdou-li hned, dobrá, nevyjdou-li, neškodí; reškonda[52](#footnote-27518-52) se nezahodí, nýbrž dobře schová. Majíť totiž lutristky dobu snů rozdělenou na čtyry časové díly, každou po třech hodinách; sedmá hodina večerní je jim hodinou první, což má arciť ráz poněkud starobylý. Dle toho ale, ve kterém časovém dílu sen se zrodil, ví se zas najisto, kdy lze ve vyplnění doufati, zda do osmi dnů, neb do třetího tahu, do tří měsíců, do tří let, ano až i do dvanácti let. Je tedy velmi důležito, aby lutristka měla svou pečlivě pořádanou sbírku reškond vyprubovaných.
+K povedenému takto snu dává potřebné numerové výklady tedy „kumbrlík“ (jsou sice ještě mnohé jiné druhy snářů, mezi nimi i obrázkové, avšak, ač každý má cenu svou, vyniká „kumbrlík“ přece nad snáře jako Sněžka nad hory). Vybraná takto numera nejsou sice nade všechnu pochybnost vznesena, ale vsadí se jednou přec pro tah nejbližší, jaksi aby se pec prohodila. Vyjdou-li hned, dobrá, nevyjdou-li, neškodí; reškonda[^52] se nezahodí, nýbrž dobře schová. Majíť totiž lutristky dobu snů rozdělenou na čtyry časové díly, každou po třech hodinách; sedmá hodina večerní je jim hodinou první, což má arciť ráz poněkud starobylý. Dle toho ale, ve kterém časovém dílu sen se zrodil, ví se zas najisto, kdy lze ve vyplnění doufati, zda do osmi dnů, neb do třetího tahu, do tří měsíců, do tří let, ano až i do dvanácti let. Je tedy velmi důležito, aby lutristka měla svou pečlivě pořádanou sbírku reškond vyprubovaných.
 
 Tím arciť není řada pomůcek lutristčiných ještě v konci. Bavo­rová sice nedbala podobných hloupostí, jaká je např. ta, když si dá někdo devadesát nastříhaných čísel do sklenice a k nim velkého křížového pavouka, aby je pavučinami svými vytáh – na to byla příliš rozumná; měla ale dlouhý plátěný sáček a v něm devadesát kuliček a z těch tahala sama každého dne pravou rukou tři a levou rukou tři. Vytažená takto čísla psala se zaznamenáním dne pečlivě na zvláštní archy a připsala k nim „já“, protože dávala také denně tahat muži a synovi, jakož i jiným jí sympatickým lidem, vše vytažené zapisovala a ku každé řádce jméno toho kterého připojovala. Čísla v tazích veřejných vyšlá zapisovala zase na jiný arch, neboť seznam takový má svou důležitost; nelze sice s určitostí vyslovit zákon, dle kterého se tažená čísla opakují, avšak když v určitých dobách seznamy přehlížíš, trhne to tebou najednou u jisté řádky, a to je to vnuknutí.
 
@@ -1515,106 +1515,106 @@ Průjezdem ozvaly se ženské hlasy; na konci jeho byly se sešly Lakmusovy s d
 
 Panu doktorovi zakmitly oči v rozpacích. Otevřel ústa jakoby k odpovědi, a nehlesnuv zase je zavřel. Odkašlal si lehce a pravil pak: „Tiše, už přicházejí!“ – –
 
-[1](#footnote-27518-1-backlink) Pult. Pozn. red.
+[^1]: Pult. Pozn. red.
 
-[2](#footnote-27518-2-backlink) Loterii. Pozn. red.
+[^2]: Loterii. Pozn. red.
 
-[3](#footnote-27518-3-backlink) Almara, skříň. Pozn. red.
+[^3]: Almara, skříň. Pozn. red.
 
-[4](#footnote-27518-4-backlink) Poklička. Pozn. red.
+[^4]: Poklička. Pozn. red.
 
-[5](#footnote-27518-5-backlink) Papírové natáčky na vlasy. Pozn. red.
+[^5]: Papírové natáčky na vlasy. Pozn. red.
 
-[6](#footnote-27518-6-backlink) Výčep v hospodě. Pozn. red.
+[^6]: Výčep v hospodě. Pozn. red.
 
-[7](#footnote-27518-7-backlink) „Psí slečna“. Pozn. red.
+[^7]: „Psí slečna“. Pozn. red.
 
-[8](#footnote-27518-8-backlink) Paruka. Pozn. red.
+[^8]: Paruka. Pozn. red.
 
-[9](#footnote-27518-9-backlink) Neboť tito lidé to neznají. _Pozn. red._
+[^9]: Neboť tito lidé to neznají. _Pozn. red._
 
-[10](#footnote-27518-10-backlink) Zápis do seznamu, soupis. Pozn. red.
+[^10]: Zápis do seznamu, soupis. Pozn. red.
 
-[11](#footnote-27518-11-backlink) Věnování, odkázání majetku církvi nebo na dobročinné účely. Pozn. red.
+[^11]: Věnování, odkázání majetku církvi nebo na dobročinné účely. Pozn. red.
 
-[12](#footnote-27518-12-backlink) Lékař. Pozn. red.
+[^12]: Lékař. Pozn. red.
 
-[13](#footnote-27518-13-backlink) Jana Nepomuckého je 16. května. Pozn. red.
+[^13]: Jana Nepomuckého je 16. května. Pozn. red.
 
-[14](#footnote-27518-14-backlink) Týhoden, zast. podoba slova „týden“. _Pozn. red._
+[^14]: Týhoden, zast. podoba slova „týden“. _Pozn. red._
 
-[15](#footnote-27518-15-backlink) Advokátův příručí, pomocník. Pozn. red.
+[^15]: Advokátův příručí, pomocník. Pozn. red.
 
-[16](#footnote-27518-16-backlink) Předsíň, předpokoj. Pozn. red.
+[^16]: Předsíň, předpokoj. Pozn. red.
 
-[17](#footnote-27518-17-backlink) Značky. Pozn. red.
+[^17]: Značky. Pozn. red.
 
-[18](#footnote-27518-18-backlink) Verše úmyslně chybnou němčinou. V češtině: Růže vadnou, myrta se láme / ale pravé přátelství ne / pravé přátelství se nezlomí / ani když se o mně jednou řekne: / Už jí není. _Pozn. red._
+[^18]: Verše úmyslně chybnou němčinou. V češtině: Růže vadnou, myrta se láme / ale pravé přátelství ne / pravé přátelství se nezlomí / ani když se o mně jednou řekne: / Už jí není. _Pozn. red._
 
-[19](#footnote-27518-19-backlink) Německé pozdně gotické písmo. Pozn. red.
+[^19]: Německé pozdně gotické písmo. Pozn. red.
 
-[20](#footnote-27518-20-backlink) Ten je vtipný! _Pozn. red._
+[^20]: Ten je vtipný! _Pozn. red._
 
-[21](#footnote-27518-21-backlink) V němčině jen mírně lepší než dříve, česky: Tvé věrné srdce a zářná cnost způsobily / že jsem se do tebe zamiloval, / mé srdce je mnou tvému dáno, / nezapomeň na mne v smrti ani v životě. _Pozn. red._
+[^21]: V němčině jen mírně lepší než dříve, česky: Tvé věrné srdce a zářná cnost způsobily / že jsem se do tebe zamiloval, / mé srdce je mnou tvému dáno, / nezapomeň na mne v smrti ani v životě. _Pozn. red._
 
-[22](#footnote-27518-22-backlink) Sešit. _Pozn. red._
+[^22]: Sešit. _Pozn. red._
 
-[23](#footnote-27518-23-backlink) Komická postava z Rossiniho opery Lazebník sevillský. _Pozn. red._
+[^23]: Komická postava z Rossiniho opery Lazebník sevillský. _Pozn. red._
 
-[24](#footnote-27518-24-backlink) Správně má být „periculum in mora“, nebezpečí v prodlení (Morea, polo­ostrov v jižní části Řecka). _Pozn. red._
+[^24]: Správně má být „periculum in mora“, nebezpečí v prodlení (Morea, polo­ostrov v jižní části Řecka). _Pozn. red._
 
-[25](#footnote-27518-25-backlink) Mandl. Pozn. red.
+[^25]: Mandl. Pozn. red.
 
-[26](#footnote-27518-26-backlink) Záložky. Pozn. red.
+[^26]: Záložky. Pozn. red.
 
-[27](#footnote-27518-27-backlink) Ručičky. Pozn. red.
+[^27]: Ručičky. Pozn. red.
 
-[28](#footnote-27518-28-backlink) Okrouhlý plátek z bílého těsta sloužící k různým účelům. Pozn. red.
+[^28]: Okrouhlý plátek z bílého těsta sloužící k různým účelům. Pozn. red.
 
-[29](#footnote-27518-29-backlink) Příbor. Pozn. red.
+[^29]: Příbor. Pozn. red.
 
-[30](#footnote-27518-30-backlink) Nižší kancelářský úředník. Pozn. red.
+[^30]: Nižší kancelářský úředník. Pozn. red.
 
-[31](#footnote-27518-31-backlink) Člen revolučního spolku Svornost z roku 1848. Pozn. red.
+[^31]: Člen revolučního spolku Svornost z roku 1848. Pozn. red.
 
-[32](#footnote-27518-32-backlink) Potkany. Pozn. red.
+[^32]: Potkany. Pozn. red.
 
-[33](#footnote-27518-33-backlink) Insel = ostrov; Inslicht = lůj (z něm.). Pozn. red.
+[^33]: Insel = ostrov; Inslicht = lůj (z něm.). Pozn. red.
 
-[34](#footnote-27518-34-backlink) Lovení. Pozn. red.
+[^34]: Lovení. Pozn. red.
 
-[35](#footnote-27518-35-backlink) Starý pražský německý časopis. Pozn. red.
+[^35]: Starý pražský německý časopis. Pozn. red.
 
-[36](#footnote-27518-36-backlink) Sekaná. Pozn. red.
+[^36]: Sekaná. Pozn. red.
 
-[37](#footnote-27518-37-backlink) Dražby. _Pozn. red._
+[^37]: Dražby. _Pozn. red._
 
-[38](#footnote-27518-38-backlink) Sousedské povídání. Pozn. red.
+[^38]: Sousedské povídání. Pozn. red.
 
-[39](#footnote-27518-39-backlink) V dobrém rozmaru, rozpoložení. Pozn. red.
+[^39]: V dobrém rozmaru, rozpoložení. Pozn. red.
 
-[40](#footnote-27518-40-backlink) Umělecky nenáročný, povrchně sentimentální výtvor. Pozn. red.
+[^40]: Umělecky nenáročný, povrchně sentimentální výtvor. Pozn. red.
 
-[41](#footnote-27518-41-backlink) Sodovka. Pozn. red.
+[^41]: Sodovka. Pozn. red.
 
-[42](#footnote-27518-42-backlink) Kancelář. Pozn. red.
+[^42]: Kancelář. Pozn. red.
 
-[43](#footnote-27518-43-backlink) Prázdniny. Pozn. red.
+[^43]: Prázdniny. Pozn. red.
 
-[44](#footnote-27518-44-backlink) Žert, legrace. Pozn. red.
+[^44]: Žert, legrace. Pozn. red.
 
-[45](#footnote-27518-45-backlink) Starosta města. Pozn. red.
+[^45]: Starosta města. Pozn. red.
 
-[46](#footnote-27518-46-backlink) Do rukou veleslavného prezidia. _Pozn. red._
+[^46]: Do rukou veleslavného prezidia. _Pozn. red._
 
-[47](#footnote-27518-47-backlink) Dozorčí úředník starající se o menší část města. Pozn. red.
+[^47]: Dozorčí úředník starající se o menší část města. Pozn. red.
 
-[48](#footnote-27518-48-backlink) Krátkou cestou, rychle. Pozn. red.
+[^48]: Krátkou cestou, rychle. Pozn. red.
 
-[49](#footnote-27518-49-backlink) Podle usnesení senátu. Pozn. red.
+[^49]: Podle usnesení senátu. Pozn. red.
 
-[50](#footnote-27518-50-backlink) Ve jménu Páně. Pozn. red.
+[^50]: Ve jménu Páně. Pozn. red.
 
-[51](#footnote-27518-51-backlink) Rvát se (za něco). Pozn. red.
+[^51]: Rvát se (za něco). Pozn. red.
 
-[52](#footnote-27518-52-backlink) Loterijní stvrzenka. Pozn. red.
+[^52]: Loterijní stvrzenka. Pozn. red.

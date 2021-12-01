@@ -4,7 +4,7 @@ title: Jak si nakouřilpan Vorel pěnovku
 
 1876
 
-Dne 16. února roku tisíc osm set čtyřicet a ještě několik otevřel pan Vorel svůj krupařský krám U Zeleného anděla. – „Du Poldi, hörst,“[88](#footnote-27518-88) pravila paní setníková v patře nad námi ku své slečně dceři, která šla právě do trhu a byla již venku na chodbě, „krupici kup tady u toho nového, můžem to zkusit.“
+Dne 16. února roku tisíc osm set čtyřicet a ještě několik otevřel pan Vorel svůj krupařský krám U Zeleného anděla. – „Du Poldi, hörst,“[^88] pravila paní setníková v patře nad námi ku své slečně dceři, která šla právě do trhu a byla již venku na chodbě, „krupici kup tady u toho nového, můžem to zkusit.“
 
 Mnohý lehkovážný sobě snad pomyslí, že otevření nového krupařského krámu nebylo ani tak zvláštní událostí. Ale takovému bych řekl jen: „Ty nebohý!“ nebo bych docela jen pokrčil rameny a neřekl ničeho. Tenkrát, když venkovan snad po dvacet let nebyl v Praze a pak Strahovskou branou přišel až do Ostruhové ulice, byl zde kupec na témž rohu jako před dvaceti lety, pekař pod týmž štítem a hokynář v tomtéž domě. Tenkrát mělo vše svoje místo určené, zařídit najednou krupařství tam, kde bylo např. dřív kupectví, patřilo mezi věci tak hloupé, že na to nikdo ani nepomyslil. Krám se dědil z otce na syna, a přešel-li někdy přece na nějakého přistěhovalce z Prahy neb z venkova, nedívali se domorodci na tohoto příliš cize, neboť se byl jaksi podrobil navyklému pořádku jejich a nepletl je novotami. Ale on pan Vorel byl nejen člověk naprosto cizí, nýbrž zřídil si krupařský krám v domě U Zeleného anděla, kde předtím přece jaktěživ nebyl krám žádný, a dal kvůli tomu také prolomit zeď přízemního bytu ven do ulice! Tam bývalo vždy jen obloukové okno a u toho sedala od rána do večera paní Staňková před modlitební knihou se zeleným stínidlem na očích, a každý, kdo šel kolem, mohl ji vidět. Stařičkou vdovu odvezli před čtvrt rokem do Košíř a teď – nač jen ten krám! Krupař v Ostruhové ulici byl již jeden, arci až zcela dole, ale nač druhého? Tenkráte měli lidé ještě peníze a kupovali si většinou zásoby přímo z mlýna. Snad si myslil pan Vorel: „Však ono to půjde!“ Snad si také myslil samolibě, že je mladý, pěkný chlapík, kulatých tváří, snivě modrých očí, štíhlý jako panna, k tomu svobodný, kuchařičky že tedy přijdou. Ale to jsou samé divné věci.
 
@@ -40,13 +40,13 @@ Ale u Hlubokého sklepa stála setníkovic slečna Poldýnka a právě vypravo
 
 Do večera si vyprávěli již veškeří sousedé, že v krámě páně Vorlově zapáchá všechno tabákovým čmoudem, mouka že je jakoby pražena a kroupy uzeny. A již neříkali panu Vorlovi jinak než „uzený krupař“ – osud jeho byl rozhodnut.
 
-Pan Vorel netušil ničeho. První den byl chudičký, dobře. Druhý, třetí den – no však to ještě půjde! Na konci téhodne neměl strženy ani dva zlaté šajnu[89](#footnote-27518-89) – to je přec jen –!
+Pan Vorel netušil ničeho. První den byl chudičký, dobře. Druhý, třetí den – no však to ještě půjde! Na konci téhodne neměl strženy ani dva zlaté šajnu[^89] – to je přec jen –!
 
 A šlo to pořád stejně. Ze sousedů nepřišel nikdo a také málokdy zabloudil do krámu nějaký venkovan. Pravidelně přicházel pouze pan Vojtíšek. Jedinou těšitelkou páně Vorlovou byla jeho pěnovka. Čím byl mrzutější, tím mohutnější kotouče dýmu vinuly se mu z úst. Tváře páně Vorlovy bledly, čelo se svrašťovalo, ale pěnovka byla den co den červenější a leskla se zdarem. Policajti Ostruhové ulice dívali se jedovatě dovnitř krámu na toho neúnavného kuřáka – kdyby byl, s dýmkou v ústech, jen alespoň jednou vystoupil přes práh do ulice! Zvláště jeden z nich, malý pan Novák, byl by dal nevím co za to, kdyby mu byl mohl hořící dýmku vyrazit z huby. Instinktivně sdíleli nechuť sousedů k cizákovi. Ale pan Vorel seděl mrzutě za pudlem a ani se nehnul.
 
 Krám pustnul a chudnul. As po pěti měsících začly pana Vorla navštěvovat podezřelé postavy, Židé. Po každé pak přivřel pan Vorel skleněné dveře krámské. Sousedé si povídali zcela určitě, že Malá Strana uvidí bankrot. „Kdo se jednou se Židy spustí!“
 
-K svatému Havlu[90](#footnote-27518-90) již se vyprávělo, že pan Vorel bude vystěhován a domácí pán že z krámu udělá zase byt. Konečně, den před stěhováním, zůstal krám zavřen již nadobro.
+K svatému Havlu[^90] již se vyprávělo, že pan Vorel bude vystěhován a domácí pán že z krámu udělá zase byt. Konečně, den před stěhováním, zůstal krám zavřen již nadobro.
 
 Následujícího dne bylo ale před zavřeným krámem páně Vor­lovým od devíti hodin zrána až do večera pořád plno lidí. Vypravovalo se, že pan domácí dal, když nemohl nikde pana Vorla nalézt, krám násilně otevřít, do ulice že vypadla dole dřevěná stolice a nahoře že se vyhoup nešťastný krupař, oběšený zcela ve výši na skobě.
 
@@ -54,8 +54,8 @@ O desáté hodině přišla soudní komise a vešla do krámu domem. Sňali sa
 
 Sáhnul do kalmuku nebožtíkova a vyndal z něho dýmku. Držel ji k světlu a pravil: „Tak krásně nakouřenou pěnovku jsem ještě neviděl – podívejte se!“
 
-[88](#footnote-27518-88-backlink) Poldi, poslouchej. Pozn. red.
+[^88]: Poldi, poslouchej. Pozn. red.
 
-[89](#footnote-27518-89-backlink) Papírové peníze vydané roku 1811 při rakouském státním bankrotu. Pozn. red.
+[^89]: Papírové peníze vydané roku 1811 při rakouském státním bankrotu. Pozn. red.
 
-[90](#footnote-27518-90-backlink) K 16. říjnu, k stěhovacímu termínu. _Pozn. red._
+[^90]: K 16. říjnu, k stěhovacímu termínu. _Pozn. red._

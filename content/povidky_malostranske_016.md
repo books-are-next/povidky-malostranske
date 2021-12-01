@@ -6,7 +6,7 @@ title: "Jak to přišlo,že dne 20.\_srpna roku 1849, o\_půl jedné s\_poledne,
 
 Dne 20. srpna roku 1849, o půl jedné s poledne, mělo být Rakousko rozbořeno, takž bylo usneseno v „spolku pistolovém“. Nevím už ani, čím se tenkráte Rakousko provinilo, ale nepochybuju ani dost málo, že rozhodnuto tak po úvaze hluboké. Nebylo více pomoci, věc usnesena, odpřisáhnuta a provedení svěřeno osvědčeným rukám Jana Žižky z Trocnova, Prokopa Holého, Prokůpka a Mikuláše z Husi, totiž mně, pak Rumpálovic Josefovi, synu to uzenářovu, Frantíku Mastnému, synu ševcovu, a Antonínu Hochmannovi, tomu, jenž byl odněkud od Rakovníka a studoval za peníze svého bratra sedláka. Uvedená příjmena historická nebyla udělena snad hříčkou náhody, nýbrž zcela po zásluze. Já byl Žižkou, neboť jsem byl ze všech nejčernější, mluvil jsem nejrázněji a hned do první schůze našeho spolku (odbývala se na půdě u Rumpálů) byl jsem se dostavil s černou páskou přes levé oko, což vzbudilo všeobecnou sensaci. Tu černou pásku musil jsem pak ve všech schůzích mít; nebylo to příliš příjemno, ale nedalo se ovšem nic dělat. Ostatní měli na svá příjmena nároky rovněž rozhodné.
 
-Věc byla připravena s obezřetností přímo úžasnou. Po celý rok užívali jsme každé vycházky ku společnému cvičení se v házení prakem. Výtečný materiál na praky dodával Mastný-Prokůpek, a na sto kroků trefili jsme každou stromovou peň, když byla jen s muže silná. Tím jsme se ovšem neobmezili. Po celý rok skládali jsme každý krejcar, ať už poctivě, či nepoctivě nabytý, do společné „kasy pistolové“, odkudž také jméno spolku. Výtěžek obnášel nakonec celých jedenácte zlatých. Za pět zlatých koupili jsme před týdnem na Příkopech bambitku „lutišské práce“, jak byl prodavač řekl. Dívali jsme se po celé schůze, jež se nyní za nastalých prázdnin odbývaly denně, na svou bambitku, šla z ruky do ruky, a každý z nás potvrzoval, že je to pravá lutišská práce. Nevystřelili jsme z ní posud arci ani jednou, za prvé proto, že jsme neměli prachu, a za druhé, že posud trval prohlášený stav výminečný, a my se musili tedy mít na pozoru. My vůbec jsme byli velmi bedliví, abychom se neprozradili, proto také nepřibrali jsme pranikoho více do svého spolku, byli jsme v něm jen my čtyři „principisté“[106](#footnote-27518-106), ale to jsme věděli, že je nás dost. Také jsme za zbývajících šest zlatých mohli koupit bambitku ještě jednu a tím svou armaturu zrovna zdvojnásobit, ale my sumu tu určili na prach, o kterémž jsme neměli zcela jasný pojem, mnoho-li stojí. Na plán, jejž jsme měli, stačila jedna bambitka úplně. Měli jsme ovšem ještě něco spolkového, porculánovou dýmku, z níž kouříval při tajných schůzích Prokůpek ve jménu nás všech; byla to pěkná a významná dýmka s namalovaným kalichem, cepem a sudlicí, ale pro dnešek nekladli jsme na ni žádné zvláštní váhy. Také jsme měli svůj zvláštní elektrický stroj. Zhotovil nám jej bratr Prokopa Holého, zámečnický tovaryš, ze starého dvougrošáku, ale stroj se neosvědčil. Nechali jsme jej doma.
+Věc byla připravena s obezřetností přímo úžasnou. Po celý rok užívali jsme každé vycházky ku společnému cvičení se v házení prakem. Výtečný materiál na praky dodával Mastný-Prokůpek, a na sto kroků trefili jsme každou stromovou peň, když byla jen s muže silná. Tím jsme se ovšem neobmezili. Po celý rok skládali jsme každý krejcar, ať už poctivě, či nepoctivě nabytý, do společné „kasy pistolové“, odkudž také jméno spolku. Výtěžek obnášel nakonec celých jedenácte zlatých. Za pět zlatých koupili jsme před týdnem na Příkopech bambitku „lutišské práce“, jak byl prodavač řekl. Dívali jsme se po celé schůze, jež se nyní za nastalých prázdnin odbývaly denně, na svou bambitku, šla z ruky do ruky, a každý z nás potvrzoval, že je to pravá lutišská práce. Nevystřelili jsme z ní posud arci ani jednou, za prvé proto, že jsme neměli prachu, a za druhé, že posud trval prohlášený stav výminečný, a my se musili tedy mít na pozoru. My vůbec jsme byli velmi bedliví, abychom se neprozradili, proto také nepřibrali jsme pranikoho více do svého spolku, byli jsme v něm jen my čtyři „principisté“[^106], ale to jsme věděli, že je nás dost. Také jsme za zbývajících šest zlatých mohli koupit bambitku ještě jednu a tím svou armaturu zrovna zdvojnásobit, ale my sumu tu určili na prach, o kterémž jsme neměli zcela jasný pojem, mnoho-li stojí. Na plán, jejž jsme měli, stačila jedna bambitka úplně. Měli jsme ovšem ještě něco spolkového, porculánovou dýmku, z níž kouříval při tajných schůzích Prokůpek ve jménu nás všech; byla to pěkná a významná dýmka s namalovaným kalichem, cepem a sudlicí, ale pro dnešek nekladli jsme na ni žádné zvláštní váhy. Také jsme měli svůj zvláštní elektrický stroj. Zhotovil nám jej bratr Prokopa Holého, zámečnický tovaryš, ze starého dvougrošáku, ale stroj se neosvědčil. Nechali jsme jej doma.
 
 Předkládám zde náš plán, aby se mu mohl každý obdivovat. Hlavní účel: rozbořit Rakousko. Přední nutnost: zmocnit se Prahy. Nutný prostředek: dobýt citadely belvedérské, na výběžku Mariánských hradeb, odkud jsme pány Prahy a kde nemůžeme dle našeho náhledu být odnikud bombardováni. Vypočtené podrobnosti: citadela bude přepadena zrovna v čas polední. Povážíme-li, že při přepadení rozličných tvrzí panuje od nepamětných časů usus vykonat to vždy o půlnoci, že ale právě proto o půlnoci jsou stráže nejspíš vždy nejbdělejší, musíme přiznat, že úmysl náš byl zrozen zrovna z chytrosti ďábelské. Citadela byla v té době střežena jen nečetně, šesti až osmi vojáky. Jeden z nich stál na stráži hned u železných, do nádvoří vedoucích vrat; vrata byla vždy pootevřena a viděli jsme, jak voják tam pohodlně přechází. Druhý procházel se na straně pražské, kde stálo několik děl. Jakoby nic přiblížíme se ku vratům, my čtyři a ještě někdo – hned se uvidí kdo –, vrhneme se na stráž, skolíme ji, vezmeme jí pušku, dvakrát bouchneme praky do oken strážnice, vrazíme dovnitř na povalující se strážníky, skolíme je a vezmeme jim pušky. Zbývá druhá stráž. Ta se nejspíš vzdá, svážeme ji a vezmeme jí pušku. Nechce-li se vzdát, je to její věc, my ji skolíme. Nato hned zavezeme jedno dělo ke vratům, zapálíme smolný věnec, který tam na bidle trčí, a budeme s hradeb křičet na Pražany, že je revoluce. Teď přijde vojsko, to se rozumí. Ale nemůže přes zeď na nás, a my každý okamžik náhle otevřeme vrata, vystřelíme mezi ně z děla a honem zase vrata zavřeme. Skolíme první došlé vojáky, ostatní posádka se asi vzdá, protože už bude revolucí odevšad ohrožena, a nevzdá-li se, je to její věc. My vyrazíme ven, spojíme se s Pražany a první, co uděláme, bude, že osvobodíme všecky na Hradčanech ještě úpící politické vězně. Ostatek už je tak přirozený, jako když žito roste. První velkou vítěznou bitvu svedeme u Německého Brodu, zalákáme armádu tam. Druhou svedeme na Moravském poli – zrovna na Moravském poli, duch Přemysla Otakara volal za pomstu. Pak dobudeme Vídně a rozboříme Rakousko. Při tom nám budou pomáhat už Maďaři. A pak skolíme Maďary. Obdivuhodné!
 
@@ -58,7 +58,7 @@ Stal se kouzelný obrat, než jsem dostihl Jeleních příkopů, přistihl jsem 
 
 Rozpomínal jsem se, je-li vše v pořádku. Bylo ve vzorném. Dva praky kryly se v mé kapse. V druhé kapse se kryla černá páska na oko. Pod ramenem nesl jsem školskou knihu, kvůli válečné lsti. Kráčel jsem po Mariánských hradbách kolem cvičících se vojenských oddílů a nezachvěl jsem se ani. Věděl jsem, ty že do té doby budou dávno ve svých kasárnách zpět.
 
-Bylo času dost, obešel jsem tedy celou válečnou posici. Prošel jsem Chotkovy sady, kde – stále poblíž silnice vedoucí již dolů – zaujmouti měl místo Mikuláš z Husi. Pohlédl jsem dolů do Brusky, kde měl stát Prokůpek, vyčkávající Pohoráka, aby pak, nadběhnuv mu strmým úvozem, dal nám rychle zprávu. Vystoupil jsem až k citadelce a přešel odtud valy k Bruské bráně. Když jsem byl u citadely, tlouklo mi srdce, když jsem se od ní vzdálil, zase přestalo. Valy od citadely k Bruské bráně tvoří dvě vybíhající bastiony. První z nich je cele vyvýšena a má nahoře v okruhu svém drobnou planinku; v té byl uprostřed tenkráte malý rybníček se zděnou obrubou, hustým rákosím a křovinami kolem – rejdiště mnohých našich radovánek. Pod jedním tím keřem měli jsme schovánu pěknou hromadu liberních[107](#footnote-27518-107) oblázků pro praky. Okruh druhé bastiony tvoří údolí hlubší. Dnes v tom zářezu stojí kavárna Panorama, tenkrát bylo místo pokryto hustým křovím. O několik kroků dál je Bruská brána – stanoviště moje co vrchního vojevůdce.
+Bylo času dost, obešel jsem tedy celou válečnou posici. Prošel jsem Chotkovy sady, kde – stále poblíž silnice vedoucí již dolů – zaujmouti měl místo Mikuláš z Husi. Pohlédl jsem dolů do Brusky, kde měl stát Prokůpek, vyčkávající Pohoráka, aby pak, nadběhnuv mu strmým úvozem, dal nám rychle zprávu. Vystoupil jsem až k citadelce a přešel odtud valy k Bruské bráně. Když jsem byl u citadely, tlouklo mi srdce, když jsem se od ní vzdálil, zase přestalo. Valy od citadely k Bruské bráně tvoří dvě vybíhající bastiony. První z nich je cele vyvýšena a má nahoře v okruhu svém drobnou planinku; v té byl uprostřed tenkráte malý rybníček se zděnou obrubou, hustým rákosím a křovinami kolem – rejdiště mnohých našich radovánek. Pod jedním tím keřem měli jsme schovánu pěknou hromadu liberních[^107] oblázků pro praky. Okruh druhé bastiony tvoří údolí hlubší. Dnes v tom zářezu stojí kavárna Panorama, tenkrát bylo místo pokryto hustým křovím. O několik kroků dál je Bruská brána – stanoviště moje co vrchního vojevůdce.
 
 Usedl jsem na lávku nad branou a otevřel knihu. Lehýnké chvění probíhalo mi tělem, někdy šournul po zádech mrazík, ale myslím, že to nebyl strach. Bylo mně vcelku dosti dobře. Mnoho k tomu přispělo, že jsem nebyl spatřil ani jediného spolubojovníka. Měl jsem je v příjemném podezření, že dostali strach a nepřijdou. Pořád mne srdce nutkalo, abych se vůči tomu hrdě vypnul, abych se cítil – ale mysl zas pověrčivě zrazovala, že bych je tím snad přivolal, a nevypnul jsem se.
 
@@ -84,7 +84,7 @@ Mrknul jsem po křoví, pod nímž ležely naše oblázky. Prokop Holý mrknul t
 
 „Nemáme, my –“ ale nedopověděl jsem, vždyť jsem přec nemohl říci, že mimo Prokůpka z nás ještě žádný nekouří!
 
-„Ale dva krejcary jistě mají, dají mi je na báček[108](#footnote-27518-108)! Já jsem tu už od loňské reberie[109](#footnote-27518-109)“ – nové, silnější hrknutí, pravá elektrická rána – „a každý den mně tu dávají pánové na báček.“
+„Ale dva krejcary jistě mají, dají mi je na báček[^108]! Já jsem tu už od loňské reberie[^109]“ – nové, silnější hrknutí, pravá elektrická rána – „a každý den mně tu dávají pánové na báček.“
 
 Vyndal jsem dva krejcary a podal mu je třesoucí rukou. Voják si hvízdnul, sebral konev a odcházel ani se nepoděkovav.
 
@@ -96,7 +96,7 @@ Kývnul jsem rukou a sestupoval k silnici. Vešel jsem do Chot­kových sadů 
 
 „Je tam Prokůpek?“
 
-„Je – a bafčí.“ Dole seděl Prokůpek na zábradlí, klátil nohama a kouřil doutník. Zajisté trojníkový[110](#footnote-27518-110).
+„Je – a bafčí.“ Dole seděl Prokůpek na zábradlí, klátil nohama a kouřil doutník. Zajisté trojníkový[^110].
 
 „Zítra začnu taky kouřit.“
 
@@ -104,7 +104,7 @@ Kývnul jsem rukou a sestupoval k silnici. Vešel jsem do Chot­kových sadů 
 
 Kývnutí rukou a rozchod co možná pádnými kroky.
 
-Seděl jsem zas nad branou. Vojáci se vraceli v oddílech ze zábranského svého cvičiště – výborně! Ale kupodivu, dnes jsem hleděl na ně s jakous trapnou nechutí. Jindy mne pohled na ně dráždil, pouhý rachot bubnu stačil na rozpoutání nejblysknavější fantasie; i když nebyla, hravě přimyslil jsem si vířivé, unášející zvuky turecké hudby, sebe jsem viděl v čele na frkající brůně[111](#footnote-27518-111), vracejícího se zrovna z vítězných bitev, za mnou vojáci s veselým hrdinným zpěvem, kolem mne jásající národ, já s nehybnou tváří, kloně jen někdy hlavu, zcela málo. Dnes fantasie jako od včerejška pivo, fádně vyvětralé, z něhož sobě matka vařívala protivnou mně polívku. Hlavě se nechtělo do vítězné výše, jazyk jako by měl lehkou pokrývku hlíny. Když některý z vojáků náhodou pohlídl vzhůru na mne, cuknul můj zrak stranou.
+Seděl jsem zas nad branou. Vojáci se vraceli v oddílech ze zábranského svého cvičiště – výborně! Ale kupodivu, dnes jsem hleděl na ně s jakous trapnou nechutí. Jindy mne pohled na ně dráždil, pouhý rachot bubnu stačil na rozpoutání nejblysknavější fantasie; i když nebyla, hravě přimyslil jsem si vířivé, unášející zvuky turecké hudby, sebe jsem viděl v čele na frkající brůně[^111], vracejícího se zrovna z vítězných bitev, za mnou vojáci s veselým hrdinným zpěvem, kolem mne jásající národ, já s nehybnou tváří, kloně jen někdy hlavu, zcela málo. Dnes fantasie jako od včerejška pivo, fádně vyvětralé, z něhož sobě matka vařívala protivnou mně polívku. Hlavě se nechtělo do vítězné výše, jazyk jako by měl lehkou pokrývku hlíny. Když některý z vojáků náhodou pohlídl vzhůru na mne, cuknul můj zrak stranou.
 
 Zahleděl jsem se do kraje. Tiché veselí, jako by na pahorky a do údolí neslyšně padal déšť drobounkého zlata. Přec měl kraj zvláštní elegický tón – zachvěl jsem se vzdor teplému vzduchu.
 
@@ -142,7 +142,7 @@ Prokůpek seděl pořád ještě na zábradlí, ale už nekouřil doutníček, m
 
 „Nemám hlad. Zač jsou?“
 
-„Za osm fuků[112](#footnote-27518-112). Vem si.“
+„Za osm fuků[^112]. Vem si.“
 
 „Vemu čtyry pro Pepíka. – Pozor! Každý okamžik už může přijít.“
 
@@ -184,7 +184,7 @@ Dějepis lidstva měl by nemilou mezeru, kdybychom nevyprávěli, co se stalo s�
 
 Vjížděl téhož dne trochu později než jindy Strahovskou branou do Prahy, ba může se říci, že na hokynářský zvyk a pražský obyčej již velmi pozdě: bylo sedm hodin. Šlo to hopkem vrškovými ulicemi dolů, podsední tahoun, bílý hafan, nemusil táhnout a běžel vesele, náruční tahoun, pan Pohorák, zdržoval vozík a levicí jeho, na voji položenou, škubalo to do výše v pravidelných skoro časových odstavcích.
 
-„Copak dnes tak pozdě, Pohoráku?“ ptal se pecnář[113](#footnote-27518-113) v Hluboké cestě, kouřící pohodlně a vysvléknut z kabátu, venku na chodníku.
+„Copak dnes tak pozdě, Pohoráku?“ ptal se pecnář[^113] v Hluboké cestě, kouřící pohodlně a vysvléknut z kabátu, venku na chodníku.
 
 „I – byly štace,“ pousmál se Pohorák a zarazil s dlouhým „prrr“ vozík. Sáhl do pravé kapsy, vyndal slámou opletenou lahvičku s kmínovkou a podával ji pecnářovi. „Nezavdáme si?“
 
@@ -194,7 +194,7 @@ Vjížděl téhož dne trochu později než jindy Strahovskou branou do Prahy, b
 
 Na Selském trhu už bylo plno. Policajt vodí Pohoráka s vozíkem sem a tam, Pohorák se s „panem kaprálem“ neúnavně hádá, konečně nalezeno místo. Někdy míval Pohorák na trh také zajíce, máslo, vejce mimo drůbež, dnes měl jen zabité slepice a holuby. Drůbežnictví bylo jeho hlavním obchodem. Pohorák byl tím zvláštním, ne valně příjemným zápachem, jaký domácí drůbež má, celý prosáklý, atmosféra kolem něho měla na několik kroků zcela určitý ráz svůj.
 
-Pohorák byl již silně přes padesát. Učinil-li sobě čtenář dle něčeho dříve proneseného ponětí, že Pohorák vynikal jakous postavou mohutnou, lituju, že musím obrazotvornosti jeho dát zcela určité meze. Pohorák nevypadal tak, jako by se v jízdárně chtěl s herkuly rvát o cenu. Byl postavy málo nadprostřední, k týlu poněkud nahrblé, a víc suše kostnaté než složité. Jeho suché tváře byly neštovicovými důlky tak zďobány, že by dobrosrdečnější člověk byl snadno mohl připadnouti na myšlenku poradit mu, aby si tváře dal trochu vydláždit. Na těle měl Pohorák drobně kostkovaný, modravý kabát, jenž ale na některých místech, hlavně na zádech pod límcem a na levém rameně vypadal už jako nekostkované vyschlé bláto, pak umouněné hnědé pantalony[114](#footnote-27518-114), dole vždy hezky vyhrnuté, třeba by nebylo pršelo už od osmi neděl. Hlavu kryla v zimě v létě soukenná, temná čepice, z jejíhož lemu vyčuhovala zastrčená akcízová poleta[115](#footnote-27518-115).
+Pohorák byl již silně přes padesát. Učinil-li sobě čtenář dle něčeho dříve proneseného ponětí, že Pohorák vynikal jakous postavou mohutnou, lituju, že musím obrazotvornosti jeho dát zcela určité meze. Pohorák nevypadal tak, jako by se v jízdárně chtěl s herkuly rvát o cenu. Byl postavy málo nadprostřední, k týlu poněkud nahrblé, a víc suše kostnaté než složité. Jeho suché tváře byly neštovicovými důlky tak zďobány, že by dobrosrdečnější člověk byl snadno mohl připadnouti na myšlenku poradit mu, aby si tváře dal trochu vydláždit. Na těle měl Pohorák drobně kostkovaný, modravý kabát, jenž ale na některých místech, hlavně na zádech pod límcem a na levém rameně vypadal už jako nekostkované vyschlé bláto, pak umouněné hnědé pantalony[^114], dole vždy hezky vyhrnuté, třeba by nebylo pršelo už od osmi neděl. Hlavu kryla v zimě v létě soukenná, temná čepice, z jejíhož lemu vyčuhovala zastrčená akcízová poleta[^115].
 
 Pohorák ustlal slámy pod vozík do stínu a pes se na ni stočil. Pak vyndal a rozložil po vozíku své zboží. A pak se trochu narovnal a rozhlídl.
 
@@ -272,7 +272,7 @@ V okolí smích. Ale Pohorák zasmušile sedá, několikrát pro sebe zaběduje
 
 Slunce praží nemilosrdně. Pohorákovi je nevolno. Pohlédl na psa, kterak v stínu pod vozem spí – pomalu se sebere, přikryje kuřata a holuby plachetkou – vleze pod vozík  – –
 
-Už i „paní kejvavá“, poslední to codenní[116](#footnote-27518-116) kupec, odnesla svůj nákup. Nůše a víka mizí, hokyně odnášejí své bedny s vejci. Policajt obchází a pobízí: „Sklízet!“
+Už i „paní kejvavá“, poslední to codenní[^116] kupec, odnesla svůj nákup. Nůše a víka mizí, hokyně odnášejí své bedny s vejci. Policajt obchází a pobízí: „Sklízet!“
 
 Teď stanul před vozíkem Pohorákovým.
 
@@ -310,24 +310,24 @@ Pohorák zastavil. „Jakých šest zlatých?“
 
 „Mně šest zlatých? – Josífku, Josífku – mně se zdá, že zkoušíte staré lidi – staré lidi zkoušet, to je hřích!“ a vyzdvihl kárně prst pravé ruky.
 
-[106](#footnote-27518-106-backlink) Žák prvního ročníku gymnázia (primán). _Pozn. red._
+[^106]: Žák prvního ročníku gymnázia (primán). _Pozn. red._
 
-[107](#footnote-27518-107-backlink) Vážících libru, tedy asi 0,5 kg. Pozn. red.
+[^107]: Vážících libru, tedy asi 0,5 kg. Pozn. red.
 
-[108](#footnote-27518-108-backlink) Sousto žvýkacího tabáku. Pozn. red.
+[^108]: Sousto žvýkacího tabáku. Pozn. red.
 
-[109](#footnote-27518-109-backlink) Rebelie, vzpoura. Pozn. red.
+[^109]: Rebelie, vzpoura. Pozn. red.
 
-[110](#footnote-27518-110-backlink) Trojník, troník – drobná mince v hodnotě tří haléřů. Pozn. red.
+[^110]: Trojník, troník – drobná mince v hodnotě tří haléřů. Pozn. red.
 
-[111](#footnote-27518-111-backlink) Bílý kůň, bělouš. Pozn. red.
+[^111]: Bílý kůň, bělouš. Pozn. red.
 
-[112](#footnote-27518-112-backlink) Drobný peníz, krejcar. _Pozn. red._
+[^112]: Drobný peníz, krejcar. _Pozn. red._
 
-[113](#footnote-27518-113-backlink) Pekař pečící pecny (chleba). Pozn. red.
+[^113]: Pekař pečící pecny (chleba). Pozn. red.
 
-[114](#footnote-27518-114-backlink) Dlouhé pánské kalhoty. Pozn. red.
+[^114]: Dlouhé pánské kalhoty. Pozn. red.
 
-[115](#footnote-27518-115-backlink) Úřední potvrzení o zaplacení daně z dovozu potravin. Pozn. red.
+[^115]: Úřední potvrzení o zaplacení daně z dovozu potravin. Pozn. red.
 
-[116](#footnote-27518-116-backlink) Každodenní. Pozn. red.
+[^116]: Každodenní. Pozn. red.

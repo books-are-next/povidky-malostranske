@@ -14,7 +14,7 @@ Pan Vojtíšek vzal tenkrát modrou svou čepici pod levé rameno a vjel pravic
 
 Pozorlivý čtenář zajisté se diví, že směl žebrák pan Vojtíšek mluvit s panem policajtem jen tak po sousedsku, a tento že mu ani nevykal, jakž by nějakému venkovanu nebo jinému zcela mu podřízenému člověku arci najisto byl učinil. A k tomu ještě třeba si pomyslit, čím tenkráte policajt byl! To nebylo ledabylo které číslo od jedné do šesti set, to byl pan Novák, pan Šimr, pan Kedlický a pan Weisse, kteří v střežení naší ulice za den se vystřídali. To byl malý pan Novák ze Slabec, který nejraděj postál si před kupeckými krámy, kvůli slivovici; tlustý pan Šimr ze Šluknova; pak pan Kedlický z Vyšehradu, zamračený, ale dobrosrdečný; a konečně pan Weisse z Rožmitálu, velký, s neobyčejně dlouhými, žlutými zuby. O každém se vědělo, odkud je, jak dlouho ve vojště sloužil a kolik má dětí; na každého jsme se my „sousedské“ děti věšely; on znal každého, muže i ženy, a matkám dovedl říci vždy, kamže se dítě jejich zaběhlo. A když r. 1844 pan Weisse následkem požáru v Renthauze vypuklého zemřel, šla mu na pohřeb celá Ostruhová ulice.
 
-On ale nebyl pan Vojtíšek arci také obyčejným žebrákem. On si ani vlastního žebráckého zevnějšku nehleděl tak přísně, vypadal dosti čistě, alespoň na počátku téhodne; šátek na krku byl vždy pořádně uvázán, na kabátě byla sice někde záplatka, ale ne jako kus přibitého plechu a také ne z příliš různobarvé látky. Za týden prožebral se vždy celou Malou Stranou. Měl všude přístup, a jakmile zaslechla hospodyně venku jeho měkký hlas, nesla mu hned ochotně svůj trojník. Trojník, půl dobráku, to bylo tenkráte dosti mnoho. Od rána žebral až k polednímu, pak si zašel k sv. Mikuláši na půl dvanáctou. Zde u kostela nežebral nikdy, ba on dřepících zde žebraček ani si nevšimnul. A pak si zašel někam se najíst, věděl, kde po řadě mu nechají plný hrnek od oběda. Bylo cos volného a klidného v celém jeho bytí a konání, něco takového, co as Storma přimělo k jeho dojemně komickému výroku: „Ach könnt’ ich betteln geh’n über die braune Haid’!“[55](#footnote-27518-55)
+On ale nebyl pan Vojtíšek arci také obyčejným žebrákem. On si ani vlastního žebráckého zevnějšku nehleděl tak přísně, vypadal dosti čistě, alespoň na počátku téhodne; šátek na krku byl vždy pořádně uvázán, na kabátě byla sice někde záplatka, ale ne jako kus přibitého plechu a také ne z příliš různobarvé látky. Za týden prožebral se vždy celou Malou Stranou. Měl všude přístup, a jakmile zaslechla hospodyně venku jeho měkký hlas, nesla mu hned ochotně svůj trojník. Trojník, půl dobráku, to bylo tenkráte dosti mnoho. Od rána žebral až k polednímu, pak si zašel k sv. Mikuláši na půl dvanáctou. Zde u kostela nežebral nikdy, ba on dřepících zde žebraček ani si nevšimnul. A pak si zašel někam se najíst, věděl, kde po řadě mu nechají plný hrnek od oběda. Bylo cos volného a klidného v celém jeho bytí a konání, něco takového, co as Storma přimělo k jeho dojemně komickému výroku: „Ach könnt’ ich betteln geh’n über die braune Haid’!“[^55]
 
 Jen hostinský v našem domě, pan Herzl, mu nedal nikdy trojníku. Pan Herzl byl muž trochu dlouhý, trochu skoupý, ale takto ušel. Místo penízu přesypal mu z piksly své vždy trochu tabáku. Tu pak – bylo to vždy v sobotu – měli po každé stejný rozhovor.
 
@@ -22,7 +22,7 @@ Jen hostinský v našem domě, pan Herzl, mu nedal nikdy trojníku. Pan Herzl b
 
 „Baže máme, a nebudou lepší, dokud si zámecký lev nesedne na vyšehradskou houpačku.“
 
-Mínil lva na svatovítské věži. Přiznám se, že mně to tvrzení páně Vojtíškovo vrtávalo mozkem. O tom jsem slušným způsobem a co rozumný mladý muž – byl jsem tenkráte již osm let stár – ovšem nemohl pochybovat ani na okamžik, že zmíněný lev může právě tak jako já o pouti jít přes Kamenný most[56](#footnote-27518-56) až na Vyšehrad a zde si také sednout na známou krouživou houpačku. Ale jak že z toho mají vzejít lepší časy, to jsem nechápal. –
+Mínil lva na svatovítské věži. Přiznám se, že mně to tvrzení páně Vojtíškovo vrtávalo mozkem. O tom jsem slušným způsobem a co rozumný mladý muž – byl jsem tenkráte již osm let stár – ovšem nemohl pochybovat ani na okamžik, že zmíněný lev může právě tak jako já o pouti jít přes Kamenný most[^56] až na Vyšehrad a zde si také sednout na známou krouživou houpačku. Ale jak že z toho mají vzejít lepší časy, to jsem nechápal. –
 
 * * *
 
@@ -62,7 +62,7 @@ Něco jako úsměv, jako radost přelítlo obličejem žebraččiným, ale bylo 
 
 „Pane Vojtíšku, my dva bychom mohli být ještě šťastni. – Tadyhle se mně pořád o vás zdálo, já myslím, že pánbůh tomu tak chce. – Vy jste tak samoten, pane Vojtíšku, nikdo vám neposlouží. – Vy máte všude přízeň, máte tuze moc dobrých lidí. – Vidíte, já bych se k vám přistěhovala. Kus peřin mám –“
 
-Pan Vojtíšek mezitím pomalu vstával. Už tu stál rovně a pravicí si narovnával kožené stínidlo své čepice. „Radš utrejch!“[57](#footnote-27518-57) vyhrknul konečně a obrátil se bez pozdravu.
+Pan Vojtíšek mezitím pomalu vstával. Už tu stál rovně a pravicí si narovnával kožené stínidlo své čepice. „Radš utrejch!“[^57] vyhrknul konečně a obrátil se bez pozdravu.
 
 Kráčel pomalu k Ostruhové ulici. Dvě zelené koule svítily za ním, až zmizel za rohem.
 
@@ -90,7 +90,7 @@ To rozhodlo i u ženských.
 
 Takřka ve dvakráte čtyřiadvaceti hodinách byl osud páně Voj­tíškův zjinačen. Všude ho ode dveří odbývali, že jsou „zlé časy“. Kde míval obědy, slyšel, že „dnes nic nezbylo“, nebo: „Jsme chudi, měli jsme jen hrách, to není pro vás.“ Uličníci kolem něho poskakovali a pokřikovali: „Domácí pán! Domácí pán!“
 
-Byl jsem v sobotu před domem a viděl blížícího se pana Vojtíška. Pan Herzl stál jako obyčejně v bílé své zástěře mezi domem, opřen o kamennou veřej. Mimovolně, v nevysvětlitelném strachu jakéms jsem veběhl do domu a skryl se za silná vrata. Kolem stěžejí[58](#footnote-27518-58) viděl jsem blížícího se pana Vojtíška dobře.
+Byl jsem v sobotu před domem a viděl blížícího se pana Vojtíška. Pan Herzl stál jako obyčejně v bílé své zástěře mezi domem, opřen o kamennou veřej. Mimovolně, v nevysvětlitelném strachu jakéms jsem veběhl do domu a skryl se za silná vrata. Kolem stěžejí[^58] viděl jsem blížícího se pana Vojtíška dobře.
 
 Čepice se mu v rukou třásla. Nepřicházel s jasným úsměvem jako jindy. Hlava byla sklopena, nažloutlé vlasy zcuchány. „Pochválen buď pán Ježíš Kristus,“ pozdravoval obyčejným hlasem. Přitom se mu hlava povznesla. Tváře jeho byly bledy, oko jakoby dřímotou potaženo.
 
@@ -126,10 +126,10 @@ Venku stála mlíkařka na vozíku a za vozíkem stál policajt pan Kedlický. 
 
 „Ano,“ odpověděl, „našli jsme ho po půlnoci na Oujezdě vedle kanonýrských kasáren. Byl nadobro zmrzlý a dali jsme ho do umrlčí komory ke Karmelitánům. Měl jen rozedraný kabát a kalhoty, ani košile neměl.“
 
-[55](#footnote-27518-55-backlink) Kéž bych mohl jít žebrat hnědou stepí. (Theodor Storm, 1817–1888, něm. básník 19. stol.) Pozn. red.
+[^55]: Kéž bych mohl jít žebrat hnědou stepí. (Theodor Storm, 1817–1888, něm. básník 19. stol.) Pozn. red.
 
-[56](#footnote-27518-56-backlink) Karlův most. Pozn. red.
+[^56]: Karlův most. Pozn. red.
 
-[57](#footnote-27518-57-backlink) Raději se otrávit (než se oženit)! Pozn. red.
+[^57]: Raději se otrávit (než se oženit)! Pozn. red.
 
-[58](#footnote-27518-58-backlink) Součást dveřního závěsu připevněná k zárubni, k rámu nebo do zdiva. Pozn. red.
+[^58]: Součást dveřního závěsu připevněná k zárubni, k rámu nebo do zdiva. Pozn. red.

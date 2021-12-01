@@ -10,7 +10,7 @@ Včera mně bylo třicet let. Cítím, že jsem jiný člověk. Teprv od včerej
 
 Jsem pojednou tak jiným člověkem, že předvčerejšek zdá se mně být už šedou minulostí. Ani pochopit nedovedu minulost svou. Psal jsem sice skoro denně zápisky své, ale teď čtu ty zanesené myšlenky a nerozumím jim více. Kroutím hlavou: pročpak jsem to tak napsal? – „Nač ideály? Nač se učíme ideálům?“ – „Vychládání slunce – oceány ledové.“ – „Mně je tak smutno, ne k smrti, ale k samovraždě.“ – „Mračno hrozícího velkého neštěstí nebo pocit, že svět se zřítil.“ – „Možno, že jsem se zmýlil.“ – „Před úkolem životním a po něm; ale ne radostný pocit, smutná otázka.“ – Ukrutné hlouposti! Nezdravý cit. To vyplynulo, že jsem neměl jasného cíle a pevné vůle, že jsem zapadl do klusu nejobyčejnějšího života a uspávajících návyků. Jak vysoko stojím pojednou teď!
 
-Předně: teď si odbudu advokátní zkoušku; úžasně rychle ji odbudu. Za druhé: oddám se těm studiím zcela. Do kanceláře nevkročím, pokud zkouška nebude odbyta; můj šéf mne nevymaže z kancelářského seznamu, ztratilť bych tím kus předepsané sedmileté praxe. Za třetí: obmezím se zcela na svůj byt, do hostince nevkročím, ani navečer ne, je to hříšné, co jsem prohrál peněz v každodenním hloupém ramšlu[118](#footnote-27518-118). Ani v neděli na Příkopy nepůjdu, do divadla také ne, vůbec nikam, ať si slečna Františka vykroutí krk! Řekla u Loukotů, že prý vypadám tak zpustle – počkej!
+Předně: teď si odbudu advokátní zkoušku; úžasně rychle ji odbudu. Za druhé: oddám se těm studiím zcela. Do kanceláře nevkročím, pokud zkouška nebude odbyta; můj šéf mne nevymaže z kancelářského seznamu, ztratilť bych tím kus předepsané sedmileté praxe. Za třetí: obmezím se zcela na svůj byt, do hostince nevkročím, ani navečer ne, je to hříšné, co jsem prohrál peněz v každodenním hloupém ramšlu[^118]. Ani v neděli na Příkopy nepůjdu, do divadla také ne, vůbec nikam, ať si slečna Františka vykroutí krk! Řekla u Loukotů, že prý vypadám tak zpustle – počkej!
 
 – _Výtečná myšlenka!_ – Líbal bych se za ni! – Ano, na _Malou Stranu se přestěhuju_. Na tu poetickou klidnou Malou Stranu, mezi tiché, milé sousedy, někam do zákoutí odlehlé ulice. Ba, pro můj povznesený nynější duševní stav je naprosto nutno okolí poetického. To bude rozkoš! Tichý dům, vzdušný byt, vyhlídka na dumavý Petřín, vyhlídka do tichounké domácí zahrádky – zahrádka musí při domě být – práce a mír. Zrovna cítím, jak se mi prsa šíří.
 
@@ -22,11 +22,11 @@ Nemýlím-li se, jsou na Petříně slavíci?
 
 Mám štěstí. Byt, že bych si nemohl lepšího ani přát, v tiché Oujezdské ulici. Tam se schoulím jako dítě do svého tajuplného koutečka, nikdo se o mně nedoví, nikdo!
 
-Už zevnějšek dvoupatrového domku se mi líbí. Jenže nebudu samostatným nájemníkem, jen podnájemníkem, ale co na tom! Moje nastávající „paní“ je konduktérkou[119](#footnote-27518-119), pana konduktéra – je někde u dráhy – jsem ještě neviděl, jezdí skoro pořád. Mají v prvním patře byt tak velký, jakého nepotřebují. Velký pokoj do ulice, pak kuchyň, pak dva pokojíky v křídle nazad, ty jsem najal. Tři okna jdou do svislého dvora, jedno, z pokojíku zadního, do zahrádky a na Petřín. Pěkná zahrádka – konduktérka pravila, že tam může každý nájemník; no, já tam nepůjdu, budu studovat. Ale příjemná je mně zahrádka ta. Že je dům přistaven zrovna k úpatí Petřína, je dvůr svislý a zahrádka as ve výši prvního patra, takže moje okno jest tam tedy skoro přízemní. Když jsem přistoupil k oknu, slyšel jsem s Petřína skřivánčí zpěv. Rozkoš! Ptal jsem se, jsou-li tam také slavíci? Jsou!
+Už zevnějšek dvoupatrového domku se mi líbí. Jenže nebudu samostatným nájemníkem, jen podnájemníkem, ale co na tom! Moje nastávající „paní“ je konduktérkou[^119], pana konduktéra – je někde u dráhy – jsem ještě neviděl, jezdí skoro pořád. Mají v prvním patře byt tak velký, jakého nepotřebují. Velký pokoj do ulice, pak kuchyň, pak dva pokojíky v křídle nazad, ty jsem najal. Tři okna jdou do svislého dvora, jedno, z pokojíku zadního, do zahrádky a na Petřín. Pěkná zahrádka – konduktérka pravila, že tam může každý nájemník; no, já tam nepůjdu, budu studovat. Ale příjemná je mně zahrádka ta. Že je dům přistaven zrovna k úpatí Petřína, je dvůr svislý a zahrádka as ve výši prvního patra, takže moje okno jest tam tedy skoro přízemní. Když jsem přistoupil k oknu, slyšel jsem s Petřína skřivánčí zpěv. Rozkoš! Ptal jsem se, jsou-li tam také slavíci? Jsou!
 
 Konduktérka je mladá, as dvaadvacetiletá žínka. Je hezká, tak zdravě hezká. Obličej není sice klasicky pravidelný, brada je trochu široká, ale tváře jsou jak růžový aksamit a oči, trochu vypoulené, jsou jako chrpa modry. Chová dítě – sedmiměsíční holčičku, Kačenku, – od těch lidí člověk slyší hned celou biografii. Kačenka dojímá komicky. Hlava je jako koule, vypoulené oči, po matce, jako by seděly na šťopce a hledí neskonale blbě. Ale když se člověk na to přívětivě zahledí, začne se koule smát a v tupých očích je najednou plno jisker, a ty oči mají náhle tak příjemný výraz, že – (napíšu to až později, teď mně to dobře nenapadá). Pohladil jsem Kačenku po tváři a řekl: „To je hezké dítě, tohleto.“ Matky si získat chválou dětí je vždycky dobře. „A tichá je, skoro ani nezapláče,“ libovala si matka. To je mně velmi příjemno, kvůli studiím.
 
-Když jsem řekl, že jsem doktorem práv, byla konduktérka patrně potěšena. A když jsem řekl, že se jmenuju Krumlovský, zvolala: „I jeje, to je hezké jméno!“ Ti lidé řeknou všechno hned tak upřímně. Smluvili jsme nájemné a posluhu a snídani, konduktérka mně bude prát a posluhovat a vařit snídani. Vpravo dole u vchodu je hostinec, čistý, jak jsem viděl, odtamtud budu brát obědy a večeře. „My, když je muž doma, berem taky odtamtud; mají tam stravu domácí!“ To je výborné, já miluju stravu domácí. Já pranic nestojím o tu kořeněnou kuchyň restaurační, mně jsou škubánky a jahelník a maštěné nudle stokrát milejší než všechny karbonády[120](#footnote-27518-120). A vlevo dole u vchodu má švec svůj krám a zrovna nade mnou, v druhém patře, bydlí krejčí, co chci ještě víc? Musím podotknout, že o kousek dál stojí dům, kde se narodil Mácha. Ale já pranic nedbám poesie psané, mně je ta poesie, kterou tvoří život sám, stokrát milejší, a proto to o Máchovi podotýkám jen tak. Já sám jsem nepsal nikdy žádných básní – totiž – co studentík jsem arci také začal. Možno, že jsem měl talent. Alespoň se pamatuji na zcela pěknou jednu báseň svou, baladu, se vzornou aliterací[121](#footnote-27518-121). Už vím z ní ale málo víc než tu aliteraci –
+Když jsem řekl, že jsem doktorem práv, byla konduktérka patrně potěšena. A když jsem řekl, že se jmenuju Krumlovský, zvolala: „I jeje, to je hezké jméno!“ Ti lidé řeknou všechno hned tak upřímně. Smluvili jsme nájemné a posluhu a snídani, konduktérka mně bude prát a posluhovat a vařit snídani. Vpravo dole u vchodu je hostinec, čistý, jak jsem viděl, odtamtud budu brát obědy a večeře. „My, když je muž doma, berem taky odtamtud; mají tam stravu domácí!“ To je výborné, já miluju stravu domácí. Já pranic nestojím o tu kořeněnou kuchyň restaurační, mně jsou škubánky a jahelník a maštěné nudle stokrát milejší než všechny karbonády[^120]. A vlevo dole u vchodu má švec svůj krám a zrovna nade mnou, v druhém patře, bydlí krejčí, co chci ještě víc? Musím podotknout, že o kousek dál stojí dům, kde se narodil Mácha. Ale já pranic nedbám poesie psané, mně je ta poesie, kterou tvoří život sám, stokrát milejší, a proto to o Máchovi podotýkám jen tak. Já sám jsem nepsal nikdy žádných básní – totiž – co studentík jsem arci také začal. Možno, že jsem měl talent. Alespoň se pamatuji na zcela pěknou jednu báseň svou, baladu, se vzornou aliterací[^121]. Už vím z ní ale málo víc než tu aliteraci –
 
   
 
@@ -78,7 +78,7 @@ Myslím, že jsem učinil na všechny dojem dobrý.
 
 Byl to perný den! Stěhování a rovnání a přendavání, že šla hlava kolem. Nestěhoval jsem se ještě často a stěhování je mně nemilé; jsou prý lidé, kteří mají docela zálibu v něm – zvláštní choroba, musí to být lidé povahy nestálé. Ale upřít se nedá, že i ve stěhování je poesie. Když starý byt začne se prázdnit a pustnout, zmocní se nás náhle jakás lítostná tesknota, je nám, jako bychom opouštěli ochranný přístav a vydávali se na zvratké vlny. A nový byt se dívá na nás cize, nevypravuje nám ničeho, je chladný. Bylo mně, jako bych co malé dítě v nenavyklé místnosti chytati se měl matčiny sukně a volat: „Bojím!“ Ale zítra ráno vstanu a zajisté už řeknu: „Dobře se to spí.“ – Kolikpak máme už hodin? Půl jedenácté. – A po domě už ticho jako v studni. To je dobrý obraz: jako v studni, mnohem lepší než „jako v kostele“, alespoň ne tak otřelý.
 
-Moc jsem se nasmál konduktérce. Všemu se divila, všechno ohmatávala, prohlížela; taková naivní zvědavost neuráží. Pomáhala pilně, ihned sestavovala a stlala mou postel, nejvíc obdivovala se velké srnčí poslámce[122](#footnote-27518-122) a srnčí koží potaženému polštáři. Když to byla uložila, nemohla odolat a položila se na postel, jak prý se to leží; smála se na posteli samou radostí jako veverka – totiž jestli se veverka směje. Pak položila na postel Kačenku a smála se zas. Má zvláštní smích, jako když drobným zvonkem zvoní. A když rozestřela na podlaze k posteli huňatou lišku, ovroubenou červeným suknem, měla novou radost, že Kačenka se liščí hlavy s těma skleněnýma očima bojí. „Budu ji tím strašit, když nebude hodná!“ Ti lidé jsou z maličkosti hned šťastni.
+Moc jsem se nasmál konduktérce. Všemu se divila, všechno ohmatávala, prohlížela; taková naivní zvědavost neuráží. Pomáhala pilně, ihned sestavovala a stlala mou postel, nejvíc obdivovala se velké srnčí poslámce[^122] a srnčí koží potaženému polštáři. Když to byla uložila, nemohla odolat a položila se na postel, jak prý se to leží; smála se na posteli samou radostí jako veverka – totiž jestli se veverka směje. Pak položila na postel Kačenku a smála se zas. Má zvláštní smích, jako když drobným zvonkem zvoní. A když rozestřela na podlaze k posteli huňatou lišku, ovroubenou červeným suknem, měla novou radost, že Kačenka se liščí hlavy s těma skleněnýma očima bojí. „Budu ji tím strašit, když nebude hodná!“ Ti lidé jsou z maličkosti hned šťastni.
 
 Ale pak bych se byl brzy zlobil. Když jsem přibyl s druhou forkou nářadí, viděl jsem otevřenými dveřmi, že v druhém pokojíku klečí Pepík na sesli u akvária a má na dlani vylovenou zlatou rybku. Přiskočil jsem rychle. „Ježíš Maria!“ slyším za sebou neznámý hlas ženský, a když jsem se ohlídl, utíkala nějaká ženská ze dveří. Konduktérka stála u postele a smála se, až se za boky brala. „To byla paní malířka. Lehla si, aby viděla, jak se to leží. Domácí slečna taky si libovala, že se leží dobře.“ Myslím, že konduktérka přivede celý dům sem, aby si lehnul – na čempak ti lidé líhají? Ale Pepík mně nesmí bez dohledu do bytu, ještě by mi jednou akvárium převrhl. Ostatně pěkný kluk, kadeře jako len a oči jako trnky – ty oči nemá po otci, snad po matce.
 
@@ -94,7 +94,7 @@ Tak! Každé ráno si ten seznam přehlídnu, abych viděl, jak je toho mnoho, c
 
   
 
-Dobrá snídaně. Káva bez cikorie[123](#footnote-27518-123), kyprý rohlík. Konduktérka v bílé ranní kazajce. Září, je vidět na ní šťastné manželství. „Dobrá káva, výborná,“ pravím, abych si ji zcela naklonil. – „Nu to mne těší, pane doktore, jen když vám chutná. – Neporoučíte nic?“ Teď si vzpomínám na konduktéra. „Váš pán je doma? Musím se s ním přec honem seznámit.“ – „Šel na nádraží s raportem, přijde až k obědu.“ Zas se směje, ona se směje pořád. „Já bych teď ustlala a trochu poklidila, Kačenku jsem zrovna vykoupala a ona usnula,“ dodává; „překáží-li to panu doktorovi, mohl by pan doktor zatím do druhého pokoje.“
+Dobrá snídaně. Káva bez cikorie[^123], kyprý rohlík. Konduktérka v bílé ranní kazajce. Září, je vidět na ní šťastné manželství. „Dobrá káva, výborná,“ pravím, abych si ji zcela naklonil. – „Nu to mne těší, pane doktore, jen když vám chutná. – Neporoučíte nic?“ Teď si vzpomínám na konduktéra. „Váš pán je doma? Musím se s ním přec honem seznámit.“ – „Šel na nádraží s raportem, přijde až k obědu.“ Zas se směje, ona se směje pořád. „Já bych teď ustlala a trochu poklidila, Kačenku jsem zrovna vykoupala a ona usnula,“ dodává; „překáží-li to panu doktorovi, mohl by pan doktor zatím do druhého pokoje.“
 
 Jdu do druhého pokoje a dívám se z okna na dvůr. V obou patrech naproti kytky v oknech. Ty obyčejné u nás kytky, to se rozumí. Mohla by se sepsat zvláštní okenní Flora česká. Vonná bazalka s tím velkým, šťavnatým listem: ale když se list trochu rozžmolí, zvadne –„pomilovaná dívka“. Balzamína, bez vůně, ale s četným květem; každý si ji ročně pěstuje z loňského semene. Protivná pelargonie s koženým smutným listem a křiklavě červeným květem. Růžovec s vystříhaným listím; snese už trochu mnutí. Muškát, rozmarýna, to se rozumí. Rozmarýna, květina svatební, květina pohřební. Vůně: láska; stálá zeleň: věrnost. Rozmarýna sílí prý paměť, musím si jí koupit několik hrnků. Rozmarýnu pouštějí po vodě –
 
@@ -107,7 +107,7 @@ snad ji, Jene, chytneš v roce –_
 
 i ne, nechytnu, to tak, brzy se oženit!
 
-Zahrádka už je pěkně urovnána. Moc besídek v ní, snad pro každou rodinu v domě jedna. Po besídkách se nejspíš budou pnout malvy, aby Pepík mohl trhat syrečky[124](#footnote-27518-124). A na záhonech bude kopr, na omáčku ke knedlíkům.
+Zahrádka už je pěkně urovnána. Moc besídek v ní, snad pro každou rodinu v domě jedna. Po besídkách se nejspíš budou pnout malvy, aby Pepík mohl trhat syrečky[^124]. A na záhonech bude kopr, na omáčku ke knedlíkům.
 
 „Už je uklizeno, pane doktore,“ směje se konduktérka ve dveřích. Okna v prvním pokoji otevřela dokořán. Musím je zas zavřít, ale raději až odejde. „Neporoučíte nic?“ Pravý vzor úslužnosti, musím s ní alespoň přívětivě porozprávět. Od malířů sem zalehá křik malého dítěte a několikačárkovaný dorostlý soprán ženský. „Mají tam nemluvně, ne?“ – „Ročáčka, vřeští celý den. (Okna do dvora se budou otvírat málokdy.) A malířka taky pořád křičí. Ta má ty panty u své chlebárny dobře namazány!“ (Okna do dvora se neotevřou nikdy, okno do zahrady může být celý den dokořán.)
 
@@ -137,7 +137,7 @@ Už zase mňouká. – Pootevřel jsem dveře, kočka vyběhla. Konduktérka: j
 
 Úvod –
 
-Klepání. Malíř. Že prý nechce vytrhovat, že ale, když byla prve moje okna otevřena, viděl na stěně obrazy viset, a to prý mu nedá. Mám dvě kvaše od Navrátila, jednu: Moře v bouři, ráz temný, druhou: Moře v slunečním jasu, ráz veselý. Malíř se před ně postavil. Je oblečen k vycházce, má šosatý, sousedský černý kabát, hůl a šišatý klobouk. Kdyby z toho klobouku vyrůstala kalina, byl by to kozácký kurhan[125](#footnote-27518-125). To prý musí být Navrátil. „Ano.“ Takových Navrátilů že ještě neviděl. Kdy prý si uděláme šístku? „No však se stane, stane.“ S panem domácím prý můžem hrát ve třech, a kdybych si pozval nějakého svého známého, mohli bychom hrát ve čtyřech. Že mně ale musí říci, jeho žena že se přede mnou stydí. Překvapil jsem ji včera zde, jak ležela na mé posteli, paní Vilhelmová že ji ale byla vyzvala. Usmívám se zdvořile – „no, však já vaši ctěnou paničku uchlácholím, není tak zle“. – „Ty ženské!“ Potřásáme si ruce, on jde.
+Klepání. Malíř. Že prý nechce vytrhovat, že ale, když byla prve moje okna otevřena, viděl na stěně obrazy viset, a to prý mu nedá. Mám dvě kvaše od Navrátila, jednu: Moře v bouři, ráz temný, druhou: Moře v slunečním jasu, ráz veselý. Malíř se před ně postavil. Je oblečen k vycházce, má šosatý, sousedský černý kabát, hůl a šišatý klobouk. Kdyby z toho klobouku vyrůstala kalina, byl by to kozácký kurhan[^125]. To prý musí být Navrátil. „Ano.“ Takových Navrátilů že ještě neviděl. Kdy prý si uděláme šístku? „No však se stane, stane.“ S panem domácím prý můžem hrát ve třech, a kdybych si pozval nějakého svého známého, mohli bychom hrát ve čtyřech. Že mně ale musí říci, jeho žena že se přede mnou stydí. Překvapil jsem ji včera zde, jak ležela na mé posteli, paní Vilhelmová že ji ale byla vyzvala. Usmívám se zdvořile – „no, však já vaši ctěnou paničku uchlácholím, není tak zle“. – „Ty ženské!“ Potřásáme si ruce, on jde.
 
 Konduktérka ve dveřích. Že prý je hned deset, nepřeju-li si zdola snídani na vidličku. „Děkuju, nesnídám nikdy na vidličku.“ –
 
@@ -227,7 +227,7 @@ Zaklepal jsem. Naslouchám. Nic. Klepu zas. Opět nic. Vzal jsem opatrně za kli
 
 „Ah, pan soused – odpusťte, já myslil, že to služka. Ženo, pan doktor odnaproti! Máme dnes bramborovou polívku – já bych jedl bramborovou polívku třikrát za den – a přemýšlíme tady, máme-li dát do ní také krupky. Račte sednout.“
 
-Musím začít co možná feš[126](#footnote-27518-126). „Prosím, vždyť nejsem cizí, pána už znám a tady synka už taky znám a jemnostpaní už jsem taky spatřil. Představuju se, jemnostpaní, doktor Krumlovský.“ Fádní, suchá blondýnka se nemotorně ukloní. Vypadá to, jako když se dřevěná, kloubová loutka náhle z polovice nahne. Chce něco říci. „Prosím, prosím, pan Augusta mně řekl, že ráčíte se na mne trochu hněvat – hehe! Mezi sousedy to přec nic nedělá!“ Zas tak, jako by se někde v půli přelomila.
+Musím začít co možná feš[^126]. „Prosím, vždyť nejsem cizí, pána už znám a tady synka už taky znám a jemnostpaní už jsem taky spatřil. Představuju se, jemnostpaní, doktor Krumlovský.“ Fádní, suchá blondýnka se nemotorně ukloní. Vypadá to, jako když se dřevěná, kloubová loutka náhle z polovice nahne. Chce něco říci. „Prosím, prosím, pan Augusta mně řekl, že ráčíte se na mne trochu hněvat – hehe! Mezi sousedy to přec nic nedělá!“ Zas tak, jako by se někde v půli přelomila.
 
 Abych si sedl a jak prý se mně v novém bytu líbí. Že výborně, ale dnes v noci – a vypravuju o slavíku.
 
@@ -243,7 +243,7 @@ Abych si sedl a jak prý se mně v novém bytu líbí. Že výborně, ale dnes
 
 „Někdy to neškodí, občas je to i zdravé, Luther praví –“, ale leknul jsem se náhle své řeči a nedomluvil jsem. Teď mně bylo, jako by užuž měl hadr mně letět na hlavu. „Ten slavík mne včera přivedl k zoufalství,“ obracím opatrně. Pes mně ožírá dole kalhotu. Nechci ho kopnout, ale nemohu pohodlně sedět.
 
-„To byste měl slyšet teprv mne – to je jux[127](#footnote-27518-127), viď, Anno?“ Anna nic. „Já umím tlouci jako slavík. Někdy jich svolám pět šest, to je pak koncert. Přesvědčíte se.“
+„To byste měl slyšet teprv mne – to je jux[^127], viď, Anno?“ Anna nic. „Já umím tlouci jako slavík. Někdy jich svolám pět šest, to je pak koncert. Přesvědčíte se.“
 
 Začne-li jednou svolávat, zastřelím ho.
 
@@ -399,7 +399,7 @@ Vtom vešel nový host. Dle odmlčky a zraků vidím, že nahodilý cizinec. Ho
 
 Dopil jsem. Hospodský jakoby nic. Sklepník Ignác také jakoby nic. Klepám a Ignác přiletí jako bláznivý. Mne Ignác zajímá, sleduju ho stále zrakem. Je už asi čtyřicátník, nosí knoflíčkové stříbrné náušnice v uších a v pravém uchu má bavlnku. Vypadá tak trochu jako Napoleon I., ale jako ukrutně hloupý Napoleon I. Velké klapky oční zavírají se vždy teprv po delších časových mezerách; vypadá to jako vážná interpunkce myšlenek, ale vsázím se, že Ignác nemyslí nic. Postaví se sem tam a stojí zadumán; když někdo klepe, Ignác sebou náhle škubne a letí.
 
-U stolu naproti mluví se teď o polštině. Tam pozoruju napořád divný způsob řeči ve „vtipném“ vzájemném se oslovování. Samé „nose!“, „ucho!“ a před tím nějaké zvířecí epiteton[128](#footnote-27518-128) – je to divné. Tvrdí tam teď kdosi, že kdo umí česky a německy, umí také polsky. Polština je prý jen smíšeninou obou těch jazyků. Např.: „Co se fraguje[129](#footnote-27518-129) pan?“
+U stolu naproti mluví se teď o polštině. Tam pozoruju napořád divný způsob řeči ve „vtipném“ vzájemném se oslovování. Samé „nose!“, „ucho!“ a před tím nějaké zvířecí epiteton[^128] – je to divné. Tvrdí tam teď kdosi, že kdo umí česky a německy, umí také polsky. Polština je prý jen smíšeninou obou těch jazyků. Např.: „Co se fraguje[^129] pan?“
 
 Zas někdo vchází. Postava zavalitá, jako kořenatý pařez. Patrně každodenní host, usmívá se a přisedá k našemu stolu. „Také pan soused,“ míní přistupující zas hostinský, „pan doktor Krumlovský, pan Klikeš, obuvník.“ Pan Klikeš mně podává ruku. „Hezký chlapík, jak náleží hezký! Po vás se musí děvčata bláznit, pane doktore!“ Jsem v rozpacích, myslím docela, že se trochu červenám. Rád bych se tvářil nenuceně a s úsměvem se rozhlídl, např. na tu mladší, ale nejde to. „Hezčí je než ty,“ směje se hostinský, „ty s tou doličkovanou tváří jako formička na pokroutky!“ – „Safra, safra,“ míní Klikeš a šoupe nohama po písku, „copak jsi dostal od obce rozkaz, abys také jednou umyl podlahu?“ Smích. „Ano, pane doktore, tady se dřív nemyje. A jednou za rok přijdou dva policajti a odvedou ho do koupele. Někdy musí přijít tři, jak se brání.“ Všeobecný, hlučný smích. Patrně je Klikeš humorista společnosti. Kousat umí, musím se sám smát s sebou. Ale jeho hrbolovitá, drsná tvář není zlá, oko je chytré, avšak upřímné. „Má pravdu, že šetří,“ dodává teď, „potřebuje mnoho, nestačím na něho pít.“ A už je sklenici na dně. „Teď bych také něco večeřel.“ Mluví s živými posuňky, ruce jsou skoro pořád nad hlavou a pan Klikeš vypadá pak jako pařez s kořeny vzhůru.
 
@@ -421,7 +421,7 @@ Brzy je zas dřívější ruch. Pojednou u protějšího stolu potlesk. „Brav
 
 „Ale vy hrajete hloupě!“ zní to pojednou od kulečníku a hlavy se tam rázem obrátily. Nešťastný Ignác! Menší hráč, kterého protežoval, nezachoval se mu nějak a Ignác nemohl svou nelibost spolknout. Všeobecné vzbouření. Hráč praštil tágem na kulečník. Nadporučík křičí: „To je přílišné – ven s ním!“ Hostinský zuří, že vyžene Ignáce hned zítra ráno po účtu. Klikeš se mu směje do očí a ptá se: „Po kolikáté?“
 
-Zas se vlny utišily. Vešel podomní obchodník. Suchá, špinavá, neoholená postava v svítivě umouněném šatu. Nic neříká, jen staví krabici svou na stůl a podává hřeben – portmoné[130](#footnote-27518-130) – špičku – každý zavrtne jen záporně hlavou. Obchodník obejde němě všechny stoly, zavře krabici, zavěsí ji do řemenu a jde. Potlesk – „Pst, pst, ticho!“ a Löfler teď dělá jitrnici, jak se peče a syčí. Potlesk a smích. Jen Ignác zdrcen stojí opodál a mžourá očima bázlivě po místnosti.
+Zas se vlny utišily. Vešel podomní obchodník. Suchá, špinavá, neoholená postava v svítivě umouněném šatu. Nic neříká, jen staví krabici svou na stůl a podává hřeben – portmoné[^130] – špičku – každý zavrtne jen záporně hlavou. Obchodník obejde němě všechny stoly, zavře krabici, zavěsí ji do řemenu a jde. Potlesk – „Pst, pst, ticho!“ a Löfler teď dělá jitrnici, jak se peče a syčí. Potlesk a smích. Jen Ignác zdrcen stojí opodál a mžourá očima bázlivě po místnosti.
 
 Ještě dělá Löfler zpívajícího volatého Tyroláka. Protivné, ale tleskám. A nadporučík se právě u stolu rozpovídal do hlasita a mluví tak, že já být otcem a mít vedle sebe ženu a dcery – vyhodil bych ho! Dá se vysvětlit leda tím, že už je s nimi dávno znám – ale pak ho měli už dávno vyhodit.
 
@@ -475,7 +475,7 @@ Teď přistoupl k nám Provazník. Usmívá se na mne, ale jeho úsměv je něj
 
 „Jmenuju se Krumlovský.“
 
-„To je divné – já myslel, že každý doktor se jmenuje Kratochvíl[131](#footnote-27518-131) – hehehe!“ A jeho smích je sípavě ostrý.
+„To je divné – já myslel, že každý doktor se jmenuje Kratochvíl[^131] – hehehe!“ A jeho smích je sípavě ostrý.
 
 Vytřešťuju na něho zrak.
 
@@ -493,9 +493,9 @@ Rád bych se smál, kousavá satira Provazníkova je neodolatelná, ale vidím, 
 
 „Já byl původně historik,“ koktá malíř, „nic to neneslo, lidé nerozumějí historii. Jednou si objednal u mne jistý farář kapucínské kázání z Valdštýnova tábora, a udělal jsem mu obraz výtečný, to musím sám říci; ale když jsem byl hotov, nechtěl jej farář vzít a nevzal – chtěl mít kapucínské kázání bez kapucína – nu ano, farář! – A pak jsem měl pro radnici v Kuckově namalovat obraz Žižky. Ukrutný kříž! Poslal jsem jim nákres. Nelíbily se jim boty, abych prý se zeptal pana Palackého, jsou-li historické. Pan Palacký dal mi arci vysvědčení dobré. Ale v Kuckově měli znalce, jmenoval se Malina, a znalec Malina rozhodnul, že prý můj Žižka nevyhovuje požadavkům vojenským. Tahal jsem se s nimi dlouho a nakonec mně psali, že prý mému Blahorodí vynadají veřejně v novinách. Je nebezpečno být historikem.“
 
-„Malujte tedy žánry. Na příklad, jak dráteník spravuje opilému flautistovi[132](#footnote-27518-132) flautu. Nebo ‚myš v dívčí škole‘. Myš nemusí být vidět, ale děvčata i s učitelkou jsou všechny nahoře po škamnách[133](#footnote-27518-133) – ta různost zděšených tváří!“
+„Malujte tedy žánry. Na příklad, jak dráteník spravuje opilému flautistovi[^132] flautu. Nebo ‚myš v dívčí škole‘. Myš nemusí být vidět, ale děvčata i s učitelkou jsou všechny nahoře po škamnách[^133] – ta různost zděšených tváří!“
 
-„Hehe – i já žánry maloval taky. Já měl jeden i ve výstavě, pěkný. Tenkrát bylo ještě všecko německé a můj žánr se jmenoval Häusliche Arzenei[134](#footnote-27518-134). Muž leží v posteli, žena mu nese horkou pokličku –“
+„Hehe – i já žánry maloval taky. Já měl jeden i ve výstavě, pěkný. Tenkrát bylo ještě všecko německé a můj žánr se jmenoval Häusliche Arzenei[^134]. Muž leží v posteli, žena mu nese horkou pokličku –“
 
 „E fuj!“
 
@@ -507,11 +507,11 @@ Rád bych pomohl malíři z nesnází, ale nevím hned jak. „Jakýpak máme d
 
 Impertinentní chlap! „Chudák – to je zcela zvláštní neštěstí, odpůldne ztrácí prý vždy paměť?“
 
-„Ano, nejspíš že kdysi prodával slaměné klobouky. Kteří prodávají slaměné klobouky, jsou konečně celí pitomí tou sírou – zvlášť Tyroláci – nedovedou pak už ani adici[135](#footnote-27518-135).“
+„Ano, nejspíš že kdysi prodával slaměné klobouky. Kteří prodávají slaměné klobouky, jsou konečně celí pitomí tou sírou – zvlášť Tyroláci – nedovedou pak už ani adici[^135].“
 
 „Ale zdá se, že je dobrý člověk, ctihodný člověk.“
 
-„Ctihodný, ale hloupý, má tak as pět korců[136](#footnote-27518-136) horizontu. Znám ho už přes dvacet let.“
+„Ctihodný, ale hloupý, má tak as pět korců[^136] horizontu. Znám ho už přes dvacet let.“
 
 „Jeho dcera chudáka as ošetřuje dobře. Je to příjemná ženština, arci ne už zcela mladá.“
 
@@ -525,7 +525,7 @@ Vystoupil jsem do zahrádky k ostatním. Domácí se na mne usmívá, jako že 
 
 Domácí se mne ptá, jsem-li muzikální, a šlápnul mně přitom na nohu. „Ne,“ pravím omrzele, ale hned nato je mně ho líto a dodám: „Ráčíte nejspíš často chodit do opery?“
 
-„Nechodím, není to pro mne. Já slyším na pravé ucho o půl tónu výš a to nejde.“ Podivný člověk, odpůldne ztrácí paměť a slyší na pravé ucho o půl tónu výš! „Já sedím raděj při pianě doma a pracuju.“ – „Komponujete?“ – „Teď ne, teď už několika let opravuju pořád Mozarta. Až budu hotov, uvidíte, jak bude Mozart vypadat!“ A plivnul Provazníkovi na botu. Provazník otírá botu o trávník a míní: „Já nechodím taky už od let do opery. Kdybych šel, šel bych jen do Marty[137](#footnote-27518-137).“
+„Nechodím, není to pro mne. Já slyším na pravé ucho o půl tónu výš a to nejde.“ Podivný člověk, odpůldne ztrácí paměť a slyší na pravé ucho o půl tónu výš! „Já sedím raděj při pianě doma a pracuju.“ – „Komponujete?“ – „Teď ne, teď už několika let opravuju pořád Mozarta. Až budu hotov, uvidíte, jak bude Mozart vypadat!“ A plivnul Provazníkovi na botu. Provazník otírá botu o trávník a míní: „Já nechodím taky už od let do opery. Kdybych šel, šel bych jen do Marty[^137].“
 
 Domácí mne vzal za ruku a odvedl od ostatních. Chce mně něco sdělit, ale nemůže s tím nějak ven; pořád slyším jen „sss“, jako když se vypouští pára z kotle. Třikrát koktal „s“ kolem zahrady, pak z něho vyšlo, že „v kapustě není fosfor“. On tedy také někdy koktá, a sice na „s“. Dal mně pak zase cedulku.
 
@@ -537,7 +537,7 @@ A hned po něm mne odvedl zas Provazník stranou. Co prý ří­kám myšlence,
 
 Pěkná hra! Domácí se ptá po každé ještě při posledním štychu, jaké jsou trumfy. Nikdy neví, jakou barvu jsem nadhodil, a nepřinese mně jí. Vsázím se, že má figury, ale nehlásí ani jedné. Když se na něco ptám, podá mně cedulku přes stůl. Provazník a Augusta, to se rozumí, vyhrávají a řehtají radostí jako koňové. Vidím, že nezbývá než prostě odhazovat karty a platit krejcary. Otylie platí za otce, sic bychom nebyli hotovi ani s jedinou hrou, on pořád tvrdí, že už platil, a přitom mně šlape pod stolem na nohy. Stáhnul jsem nohy zpět a bavím se pozorováním, jak zimničně pracuje pod stolem jeho noha, hledajíc, na co by šlápla.
 
-Náhle se do mne domácí pouští, že hraju špatně, na špádské[138](#footnote-27518-138) eso že prý jsem mu nepřidal krále. Zatím ale se špády ani ještě nehrály a eso mám já sám. Domácí křičí dál, hlas jeho zní jako pozoun – a já mám v kapse patnáct cedulek! Otylie na mne hledí prosebně a bolestně – nu, rozumím a mlčím.
+Náhle se do mne domácí pouští, že hraju špatně, na špádské[^138] eso že prý jsem mu nepřidal krále. Zatím ale se špády ani ještě nehrály a eso mám já sám. Domácí křičí dál, hlas jeho zní jako pozoun – a já mám v kapse patnáct cedulek! Otylie na mne hledí prosebně a bolestně – nu, rozumím a mlčím.
 
 Hráli jsme malou hodinku a prohrál jsem přes šedesát krejcarů.
 
@@ -752,7 +752,7 @@ Studuju, ale divně. Raděj bych seděl hned teď ráno dole v zahradě, sám n
 
 Aj aj – dnes si malíř odbývá svůj rámus časně! Pozoroval-li jsem dobře, byla bita a) žena, b) Pepík, c) pes. Pes ještě kňučí.
 
-Malíř přišel teď ke mně. Mám-li prý nějaký pěkný kus papíru na dopis. Že musí psát bratru faráři a nemá takových věcí doma. Nerad prý píše, tuze nerad, někomu psát podobá se mu smrti. Ale když jednou psát má, musí mít ticho, sic prý jeho myšlenky nestojí za nic – „u mne ale ticho, pane doktore, v tom pekle u mne! Napřed si musím udělat pořádek – ztlouk jsem to všechno, nebude-li to ticho, ztluču to ještě jednou – – a děvečku jsem vyhnal, má hubu jako šlejfírnu[139](#footnote-27518-139).“ – To už je čtvrtá, co jsem zde.
+Malíř přišel teď ke mně. Mám-li prý nějaký pěkný kus papíru na dopis. Že musí psát bratru faráři a nemá takových věcí doma. Nerad prý píše, tuze nerad, někomu psát podobá se mu smrti. Ale když jednou psát má, musí mít ticho, sic prý jeho myšlenky nestojí za nic – „u mne ale ticho, pane doktore, v tom pekle u mne! Napřed si musím udělat pořádek – ztlouk jsem to všechno, nebude-li to ticho, ztluču to ještě jednou – – a děvečku jsem vyhnal, má hubu jako šlejfírnu[^139].“ – To už je čtvrtá, co jsem zde.
 
 Dal jsem mu papír a odešel. Za chvilku přišel ubrečený Pepík, že otec dává prosit o nějaké dobré péro. Dal jsem mu péro.
 
@@ -996,7 +996,7 @@ To bude děsné!
 
   
 
-Bavíme se v zahrádce, ale jak! Vyznání dnes neučiním, nač také! Vezmi svůj šáteček, Otylie, a připrav šarpii[140](#footnote-27518-140)! Budu-li mrtev, je konec; budu-li raněn, Otylka mne bude ošetřovat – myslím si aspoň – a tu se vypřede vyznání samo od sebe. Jako v románech.
+Bavíme se v zahrádce, ale jak! Vyznání dnes neučiním, nač také! Vezmi svůj šáteček, Otylie, a připrav šarpii[^140]! Budu-li mrtev, je konec; budu-li raněn, Otylka mne bude ošetřovat – myslím si aspoň – a tu se vypřede vyznání samo od sebe. Jako v románech.
 
 Ale nutká mne to, abych začal přec nějakou pořádnou rozpravu. Nevím o čem. Konečně se ptám, půjde-li zítra do českého divadla. Co prý se dává? Dává se Tylův Jan Hus; je 6. červenec, pamětní den upálení Husa. „Ráda bych šla – ale nepůjdu na ‚Husa‘.“ – „Proč? Snad ne proto, že byl kacířem?“ – „No – ale zítra je pátek – půst – a to přec nejde!“ – Hanebný Provazník by v tom viděl „horizont“. Já vidím naivnost – a naivnost má vždy své půvaby – zajisté!
 
@@ -1052,7 +1052,7 @@ Jsem návštěvou u přítele Morouska na Smíchově. Za prvé: doma bych to ne
 
 Morousek je nepříjemný člověk. Svěřil jsem se mu a – on se mi směje. Někteří lidé nedovedou o ničem na světě přemýšlet opravdově! Žádám ho, aby mně ledacos ukázal, co by mně prospět mohlo. Tvrdí, že za tak krátkou dobu se nenaučím ničemu. „Oho!“ pravím pohněván. – „No tak uvidíš!“
 
-Vzal špadóny[141](#footnote-27518-141), dal na mne škrabošku a přikrývku a postavil mne. Takhle! – teď takhle! – ne takhle! – pozor na konec špadónu! – tak – a můj špadón leží na zemi. „Musíš zbraň pevněj držet,“ a směje se. – „Když je špadón těžký.“ – „Šavle nebude mnohem lehčí – no, znovu!“ – Za chvilku jsem zemdlen, jako bych byl kovadlinu jednou rukou zdvihal. Kostnatému, vysokému Morouskovi je arci hej! „Odpočiň si trochu,“ a směje se zas. Pamatuju se, že býval Morousek mnohem příjemnější, než je, a sděluju mu to. „Mluví z tebe tréma,“ míní. – „Oho, já nemám pražádného strachu – na mou čest ne!“ – „No tak začněm znovu!“ Za chvilku jsem už ale zase zemdlen. „Nesmíme to přehnat,“ míní Morousek, „nemohl bys zítra ráno ani rukou hnout. Zůstaneš u mne na oběd a na svačinu, a budem se občas ještě cvičit, ale zcela málo.“ Byl bych beztoho neodešel. Jeho žena se na nás dívá, myslí, že si hrajeme, a směje se. U těch lidí je smích za grešli!
+Vzal špadóny[^141], dal na mne škrabošku a přikrývku a postavil mne. Takhle! – teď takhle! – ne takhle! – pozor na konec špadónu! – tak – a můj špadón leží na zemi. „Musíš zbraň pevněj držet,“ a směje se. – „Když je špadón těžký.“ – „Šavle nebude mnohem lehčí – no, znovu!“ – Za chvilku jsem zemdlen, jako bych byl kovadlinu jednou rukou zdvihal. Kostnatému, vysokému Morouskovi je arci hej! „Odpočiň si trochu,“ a směje se zas. Pamatuju se, že býval Morousek mnohem příjemnější, než je, a sděluju mu to. „Mluví z tebe tréma,“ míní. – „Oho, já nemám pražádného strachu – na mou čest ne!“ – „No tak začněm znovu!“ Za chvilku jsem už ale zase zemdlen. „Nesmíme to přehnat,“ míní Morousek, „nemohl bys zítra ráno ani rukou hnout. Zůstaneš u mne na oběd a na svačinu, a budem se občas ještě cvičit, ale zcela málo.“ Byl bych beztoho neodešel. Jeho žena se na nás dívá, myslí, že si hrajeme, a směje se. U těch lidí je smích za grešli!
 
 Krátce před obědem se mne Morousek ptá, je-li Rubacký dobrý šermíř. Nevím. „Není nic platno, musíš se naučit rychlému, překvapujícímu útoku – buď, anebo!“ Strká mne zas do přikrývky, lezu do ní jaksi nerad.
 
@@ -1178,7 +1178,7 @@ Vzbudil jsem se velmi časně – reminiscence po včerejšku! Ale bylo mně vo
 
   
 
-A doktor Jensen je zde. Le pourquoi?[142](#footnote-27518-142) – No ty se podivíš, a to ještě dnes!
+A doktor Jensen je zde. Le pourquoi?[^142] – No ty se podivíš, a to ještě dnes!
 
 Tiskne mně nápadně vřele ruku, zapaluje si několikrát doutník. Že prý mně musí přec říci, proč vlastně sem chodí, aby mně to nebylo nápadno – a jde zas ke stolku pro sirky. Mně říci, proč sem chodí? On myslí, že to nevím! A už zas stojí u zrcadla – pravá mužská koketa!
 
@@ -1232,52 +1232,52 @@ Ať mně přijde Neruda ještě jednou s nějakou „Povídkou malostranskou“
 
   
 
-[118](#footnote-27518-118-backlink) Druh hazardní karetní hry. Pozn. red.
+[^118]: Druh hazardní karetní hry. Pozn. red.
 
-[119](#footnote-27518-119-backlink) Průvodčí. Pozn. red.
+[^119]: Průvodčí. Pozn. red.
 
-[120](#footnote-27518-120-backlink) Guláše. _Pozn. red._
+[^120]: Guláše. _Pozn. red._
 
-[121](#footnote-27518-121-backlink) Opakování shodných hlásek na začátku po sobě následujících slov nebo veršů. Pozn. red.
+[^121]: Opakování shodných hlásek na začátku po sobě následujících slov nebo veršů. Pozn. red.
 
-[122](#footnote-27518-122-backlink) Prostěradlo. Pozn. red.
+[^122]: Prostěradlo. Pozn. red.
 
-[123](#footnote-27518-123-backlink) Přísada do kávy (dříve také kávová náhražka) ze sušeného kořene čekanky. Pozn. red.
+[^123]: Přísada do kávy (dříve také kávová náhražka) ze sušeného kořene čekanky. Pozn. red.
 
-[124](#footnote-27518-124-backlink) Plody malvy (slézu). _Pozn. red._
+[^124]: Plody malvy (slézu). _Pozn. red._
 
-[125](#footnote-27518-125-backlink) Mohyla typická pro jižní Rusko. Pozn. red.
+[^125]: Mohyla typická pro jižní Rusko. Pozn. red.
 
-[126](#footnote-27518-126-backlink) Elegantně. Pozn. red.
+[^126]: Elegantně. Pozn. red.
 
-[127](#footnote-27518-127-backlink) Legrace. _Pozn. red._
+[^127]: Legrace. _Pozn. red._
 
-[128](#footnote-27518-128-backlink) Obrazné pojmenování. Pozn. red.
+[^128]: Obrazné pojmenování. Pozn. red.
 
-[129](#footnote-27518-129-backlink) Ptá se (z německého fragen). _Pozn. red._
+[^129]: Ptá se (z německého fragen). _Pozn. red._
 
-[130](#footnote-27518-130-backlink) Peněženka. Pozn. red.
+[^130]: Peněženka. Pozn. red.
 
-[131](#footnote-27518-131-backlink) Doktor Kratochvíl byl ředitelem pražského blázince. _Pozn. red._
+[^131]: Doktor Kratochvíl byl ředitelem pražského blázince. _Pozn. red._
 
-[132](#footnote-27518-132-backlink) Flétnista. Pozn. red.
+[^132]: Flétnista. Pozn. red.
 
-[133](#footnote-27518-133-backlink) Lavice. Pozn. red.
+[^133]: Lavice. Pozn. red.
 
-[134](#footnote-27518-134-backlink) Domácí léčení. _Pozn. red._
+[^134]: Domácí léčení. _Pozn. red._
 
-[135](#footnote-27518-135-backlink) Sčítání. Pozn. red.
+[^135]: Sčítání. Pozn. red.
 
-[136](#footnote-27518-136-backlink) Stará plošná míra (2877 m2). Pozn. red.
+[^136]: Stará plošná míra (2877 m2). Pozn. red.
 
-[137](#footnote-27518-137-backlink) Opera německého operního skladatele Friedricha von Flotowa (1812–1883). Pozn. red.
+[^137]: Opera německého operního skladatele Friedricha von Flotowa (1812–1883). Pozn. red.
 
-[138](#footnote-27518-138-backlink) Barva karet v italské karetní hře (špády). Pozn. red.
+[^138]: Barva karet v italské karetní hře (špády). Pozn. red.
 
-[139](#footnote-27518-139-backlink) Je hubatá, drzá. Pozn. red.
+[^139]: Je hubatá, drzá. Pozn. red.
 
-[140](#footnote-27518-140-backlink) Rozcupované plátno používané dříve na krytí ran a na obvazy. Pozn. red.
+[^140]: Rozcupované plátno používané dříve na krytí ran a na obvazy. Pozn. red.
 
-[141](#footnote-27518-141-backlink) Šermířské zbraně. _Pozn. red._
+[^141]: Šermířské zbraně. _Pozn. red._
 
-[142](#footnote-27518-142-backlink) Proč? _Pozn. red._
+[^142]: Proč? _Pozn. red._

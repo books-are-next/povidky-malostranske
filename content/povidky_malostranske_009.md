@@ -12,7 +12,7 @@ Na čtvrtou hodinu určen byl funus. Umrlčí vůz, tak zvaný „třapcový“,
 
 Parádní pokoj byl skoro plný, samé malostranské honorace. To se vědělo, že mikulášský pan farář s asistencí přijde trochu později, jakož bylo obyčejem u každého váženějšího souseda, aby se neřeklo, že se s ním pospíchá z brány ven. V pokoji bylo dusno. Odpolední slunce sem pralo a lámalo se ve velkých zrcadlech, velké voskové svíce kolem katafalku plály žlutě a čadily, horký vzduch byl nasycen čadem, zápachem čerstvě lakované černé truhly a tříštěk pod mrtvolou, snad také již zápachem z mrtvoly. Panovalo ticho, lidé jen šeptali. Plačících nebylo, nezůstavilť pan Velš bližších příbuzných a vzdálenější říkají vždy: „Jen kdybych se moh vyplakat – ale nemám slz, kdyby mně to srdce utrhlo.“ – „Ano, ano, to je ale tím horší.“
 
-Teď vstoupila do pokoje paní Ruska. Vdova po nebožtíku Rusovi, hostinském v zahradě Gráfovské, kde bývaly nejkrásnější kanonýrské bály. Poněvadž do toho vlastně nikomu nic není, podotknu zde jen mimochodem, co se vyprávělo o ovdovění paní Rusky. Tenkráte byla u každého dělostřeleckého pluku zvláštní setnina bombardérů, mladí, buclatí hoši, krev a mlíko. Tu setninu prý pan Rus naprosto nenáviděl, prý nějak kvůli své ženušce, a jednou ho strašně proto zbili. Ale, jak praveno, nikomu do toho nic není. Paní Ruska jedla vdoví chléb svůj již na pětmecítma[59](#footnote-27518-59) let, žila bezdětná v domě svém na Selském trhu[60](#footnote-27518-60), a kdyby se byl někdo zeptal, co pořád dělá, bylo by se odpovědělo: Chodí na funusy.
+Teď vstoupila do pokoje paní Ruska. Vdova po nebožtíku Rusovi, hostinském v zahradě Gráfovské, kde bývaly nejkrásnější kanonýrské bály. Poněvadž do toho vlastně nikomu nic není, podotknu zde jen mimochodem, co se vyprávělo o ovdovění paní Rusky. Tenkráte byla u každého dělostřeleckého pluku zvláštní setnina bombardérů, mladí, buclatí hoši, krev a mlíko. Tu setninu prý pan Rus naprosto nenáviděl, prý nějak kvůli své ženušce, a jednou ho strašně proto zbili. Ale, jak praveno, nikomu do toho nic není. Paní Ruska jedla vdoví chléb svůj již na pětmecítma[^59] let, žila bezdětná v domě svém na Selském trhu[^60], a kdyby se byl někdo zeptal, co pořád dělá, bylo by se odpovědělo: Chodí na funusy.
 
 Paní Ruska se protlačila až ku katafalku. Padesátnice, ale statná paní nadprostřední výšky. S ramenou jí splývala hedvábná černá mantila, černý, světle zelenými stuhami ozdobený čepec vroubil její kulatou a upřímnou tvář.
 
@@ -28,7 +28,7 @@ Neznámá paní neodpovídala.
 
 „Já pana Velše za živa neznala,“ mínila cizí panička.
 
-„Ne? O jé, já tuze dobře. Ještě co svobodného, a také ženu jeho ještě co svobodnou, dej jí pánbůh nebe! Vidím ji jako dnes, když měli svatbu – plakala od božího rána – prosím, plakat celý den, když má člověk devět let už s mužským známost! Hloupé, ne? Ten si na ní vyčekal, devět let, moh radš čekat ještě devětkrát devět. Ta byla! Povídám, protivná byla. Ze všech byla nejrozumnější a nejkrásnější a hospodářství nerozuměla žádná jako ona; na trhu se smlouvala hodinu o grešli, při prádle upřela chudé podělkyni[61](#footnote-27518-61) vždycky nějakou putnu vody a děvečky se u ní nikdy nenajedly. A Velš, ten měl lázně! Měla jsem dvě děvečky po sobě od nich a vím všecko. Minutu neměl pokoje. Že prý je jenom proto pořádný, že se jí bojí, a že prý jí jen proto neodmlouvá, aby se zlobila tím více. Víte, ona byla, jak říkáme, romantická, a chtěla, aby ji celý svět litoval. Pořád si naříkala, jak ji muž trýzní. Kdyby ji byl muž ze zlosti otrávil, byla by bývala ráda, a kdyby se byl muž sám oběsil, taky, alespoň by ji byl svět litoval.“
+„Ne? O jé, já tuze dobře. Ještě co svobodného, a také ženu jeho ještě co svobodnou, dej jí pánbůh nebe! Vidím ji jako dnes, když měli svatbu – plakala od božího rána – prosím, plakat celý den, když má člověk devět let už s mužským známost! Hloupé, ne? Ten si na ní vyčekal, devět let, moh radš čekat ještě devětkrát devět. Ta byla! Povídám, protivná byla. Ze všech byla nejrozumnější a nejkrásnější a hospodářství nerozuměla žádná jako ona; na trhu se smlouvala hodinu o grešli, při prádle upřela chudé podělkyni[^61] vždycky nějakou putnu vody a děvečky se u ní nikdy nenajedly. A Velš, ten měl lázně! Měla jsem dvě děvečky po sobě od nich a vím všecko. Minutu neměl pokoje. Že prý je jenom proto pořádný, že se jí bojí, a že prý jí jen proto neodmlouvá, aby se zlobila tím více. Víte, ona byla, jak říkáme, romantická, a chtěla, aby ji celý svět litoval. Pořád si naříkala, jak ji muž trýzní. Kdyby ji byl muž ze zlosti otrávil, byla by bývala ráda, a kdyby se byl muž sám oběsil, taky, alespoň by ji byl svět litoval.“
 
 Paní Ruska pohlédla zas k neznámé své sousedce. Ale neznámá tu víc nestála. V ohni svém nebyla paní Ruska ani zpozorovala, že sousedka její zapaluje se v tváři vždy víc a víc a že uprostřed její řeči odstoupla od ní. Nyní rozmlouvala neznámá v pozadí pokoje se suchým panem Uhmühlem, oficiálem u zemské účtárny, příbuzným pana Velše.
 
@@ -80,8 +80,8 @@ Ale paní Ruska dlouho se nemohla dodělat bývalé dobré míry své. Konečně
 
 As po půl roce vystěhovala se ze svého domu a najala sobě byt zrovna vedle Oujezdské brány. Tady musel každý funus kolem. A když šel jakýkoli, vyšla dobrá paní Ruska vždycky před dům a srdečně plakala.
 
-[59](#footnote-27518-59-backlink) Pětadvacet. _Pozn. red._
+[^59]: Pětadvacet. _Pozn. red._
 
-[60](#footnote-27518-60-backlink) Dnešní Tržiště. _Pozn. red._
+[^60]: Dnešní Tržiště. _Pozn. red._
 
-[61](#footnote-27518-61-backlink) Příležitostná pracovnice za denní mzdu. Pozn. red.
+[^61]: Příležitostná pracovnice za denní mzdu. Pozn. red.
