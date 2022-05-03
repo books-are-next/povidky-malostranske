@@ -1,5 +1,6 @@
 ---
 title: Přivedla žebráka na mizinu
+contentType: prose
 ---
 
 1875

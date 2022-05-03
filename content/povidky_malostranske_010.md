@@ -1,5 +1,6 @@
 ---
 title: Večerní šplechty
+contentType: prose
 ---
 
 1875

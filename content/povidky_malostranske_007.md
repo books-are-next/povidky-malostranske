@@ -1,5 +1,6 @@
 ---
 title: "Pan Ryšánek a\_pan Schlegl"
+contentType: prose
 ---
 
 1875

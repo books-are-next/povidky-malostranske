@@ -1,6 +1,7 @@
 ---
 outputs: meta
 slug: book
+contentType: prose
 languageCode: cs
 meta:
   title: Povídky malostranské
@@ -13,6 +14,7 @@ meta:
   edition: beletrie
 readingOrder:
   - povidky_malostranske_002.html
+  - povidky_malostranske_005.html
   - povidky_malostranske_006.html
   - povidky_malostranske_007.html
   - povidky_malostranske_008.html
@@ -30,6 +32,9 @@ readingOrder:
 tocBase:
   - id: section-1
     children:
+      - link: povidky_malostranske_005.html
+        title: Věnování
+        hiddenTitle: true
       - link: povidky_malostranske_006.html
         title: "Týden v\_tichém domě"
       - link: povidky_malostranske_007.html
@@ -57,6 +62,7 @@ tocBase:
       - link: povidky_malostranske_018.html
         title: Figurky
     isSection: true
+    listType: plain
 static:
   - style
   - scripts

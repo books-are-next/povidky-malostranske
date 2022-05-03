@@ -1,5 +1,6 @@
 ---
 title: "Týden v\_tichém domě"
+contentType: prose
 ---
 
 1867

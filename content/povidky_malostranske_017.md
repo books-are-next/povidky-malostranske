@@ -1,5 +1,6 @@
 ---
 title: "Psáno o\_letošních Dušičkách"
+contentType: prose
 ---
 
 1876

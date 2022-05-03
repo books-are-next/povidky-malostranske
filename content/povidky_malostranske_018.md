@@ -1,5 +1,6 @@
 ---
 title: Figurky
+contentType: prose
 ---
 
 _Idylický úryvek ze zápisek advokátního koncipienta_
