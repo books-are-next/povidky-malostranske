@@ -1,5 +1,6 @@
 ---
 title: Jak si nakouřilpan Vorel pěnovku
+contentType: prose
 ---
 
 1876

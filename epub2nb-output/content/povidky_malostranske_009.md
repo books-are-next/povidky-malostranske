@@ -1,5 +1,6 @@
 ---
 title: "O\_měkkém srdci paní Rusky"
+contentType: prose
 ---
 
 1875

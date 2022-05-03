@@ -1,16 +1,16 @@
 {
   "author": "Jan Neruda",
   "edition": "beletrie",
-  "identifier": "neruda-povidky-malostranske-62092cf",
+  "identifier": "neruda-povidky-malostranske-e7a5608",
   "languagecode": "cs",
   "modified": "2021-10-22T10:08:13.764Z",
   "publisher": "Městská knihovna v Praze",
   "publishershort": "mkp",
   "title": "Povídky malostranské",
-  "revision": "62092cf",
+  "revision": "e7a5608",
   "generatedAt": {
-    "date": "Wed Dec 01 2021 22:02:56 GMT+0000 (Coordinated Universal Time)",
-    "unix": 1638396176233
+    "date": "Tue May 03 2022 09:54:08 GMT+0000 (Coordinated Universal Time)",
+    "unix": 1651571648397
   },
   "documents": [
     {
@@ -22,6 +22,26 @@
       "role": "chapter",
       "order": 0,
       "prev": null,
+      "next": "povidky_malostranske_005.html",
+      "toc": [
+        {
+          "index": 0,
+          "level": 1,
+          "name": null,
+          "id": null,
+          "children": []
+        }
+      ]
+    },
+    {
+      "title": "Povídky malostranské",
+      "file": "povidky_malostranske_005.html",
+      "words": 0,
+      "chars": 0,
+      "ideas": 0,
+      "role": "chapter",
+      "order": 1,
+      "prev": "povidky_malostranske_002.html",
       "next": "povidky_malostranske_006.html",
       "toc": [
         {
@@ -40,8 +60,8 @@
       "chars": 130460,
       "ideas": 804,
       "role": "chapter",
-      "order": 1,
-      "prev": "povidky_malostranske_002.html",
+      "order": 2,
+      "prev": "povidky_malostranske_005.html",
       "next": "povidky_malostranske_007.html",
       "toc": [
         {
@@ -166,7 +186,7 @@
       "chars": 18413,
       "ideas": 64,
       "role": "chapter",
-      "order": 2,
+      "order": 3,
       "prev": "povidky_malostranske_006.html",
       "next": "povidky_malostranske_008.html",
       "toc": [
@@ -201,7 +221,7 @@
       "chars": 13325,
       "ideas": 63,
       "role": "chapter",
-      "order": 3,
+      "order": 4,
       "prev": "povidky_malostranske_007.html",
       "next": "povidky_malostranske_009.html",
       "toc": [
@@ -221,7 +241,7 @@
       "chars": 9680,
       "ideas": 43,
       "role": "chapter",
-      "order": 4,
+      "order": 5,
       "prev": "povidky_malostranske_008.html",
       "next": "povidky_malostranske_010.html",
       "toc": [
@@ -241,7 +261,7 @@
       "chars": 19590,
       "ideas": 129,
       "role": "chapter",
-      "order": 5,
+      "order": 6,
       "prev": "povidky_malostranske_009.html",
       "next": "povidky_malostranske_011.html",
       "toc": [
@@ -261,7 +281,7 @@
       "chars": 12008,
       "ideas": 45,
       "role": "chapter",
-      "order": 6,
+      "order": 7,
       "prev": "povidky_malostranske_010.html",
       "next": "povidky_malostranske_012.html",
       "toc": [
@@ -281,7 +301,7 @@
       "chars": 10594,
       "ideas": 55,
       "role": "chapter",
-      "order": 7,
+      "order": 8,
       "prev": "povidky_malostranske_011.html",
       "next": "povidky_malostranske_013.html",
       "toc": [
@@ -301,7 +321,7 @@
       "chars": 8988,
       "ideas": 30,
       "role": "chapter",
-      "order": 8,
+      "order": 9,
       "prev": "povidky_malostranske_012.html",
       "next": "povidky_malostranske_014.html",
       "toc": [
@@ -321,7 +341,7 @@
       "chars": 3787,
       "ideas": 18,
       "role": "chapter",
-      "order": 9,
+      "order": 10,
       "prev": "povidky_malostranske_013.html",
       "next": "povidky_malostranske_015.html",
       "toc": [
@@ -341,7 +361,7 @@
       "chars": 22755,
       "ideas": 48,
       "role": "chapter",
-      "order": 10,
+      "order": 11,
       "prev": "povidky_malostranske_014.html",
       "next": "povidky_malostranske_016.html",
       "toc": [
@@ -361,7 +381,7 @@
       "chars": 29750,
       "ideas": 163,
       "role": "chapter",
-      "order": 11,
+      "order": 12,
       "prev": "povidky_malostranske_015.html",
       "next": "povidky_malostranske_017.html",
       "toc": [
@@ -381,7 +401,7 @@
       "chars": 19228,
       "ideas": 78,
       "role": "chapter",
-      "order": 12,
+      "order": 13,
       "prev": "povidky_malostranske_016.html",
       "next": "povidky_malostranske_018.html",
       "toc": [
@@ -401,7 +421,7 @@
       "chars": 118922,
       "ideas": 532,
       "role": "chapter",
-      "order": 13,
+      "order": 14,
       "prev": "povidky_malostranske_017.html",
       "next": "colophon.html",
       "toc": [
@@ -417,9 +437,9 @@
     {
       "title": "Tiráž • Povídky malostranské",
       "file": "colophon.html",
-      "words": 142,
-      "chars": 959,
-      "ideas": 26,
+      "words": 132,
+      "chars": 885,
+      "ideas": 21,
       "role": "colophon",
       "order": null,
       "prev": "povidky_malostranske_018.html",
@@ -437,9 +457,9 @@
   ],
   "totals": {
     "all": {
-      "words": 72092,
-      "chars": 418500,
-      "ideas": 2102
+      "words": 72082,
+      "chars": 418426,
+      "ideas": 2097
     },
     "chapters": {
       "words": 71944,

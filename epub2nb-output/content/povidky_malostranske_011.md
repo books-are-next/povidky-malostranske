@@ -1,5 +1,6 @@
 ---
 title: Doktor Kazisvět
+contentType: prose
 ---
 
 1876

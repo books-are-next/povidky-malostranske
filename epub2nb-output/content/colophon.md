@@ -32,15 +32,6 @@ Verze 1.0 z 18. 12. 2020.
 
 ***
 
-_Velectěné paní  
-RŮŽENĚ FRIČOVÉ,  
-rozené Švagrovské,  
-věnuju  
-v přátelství upřímném_
-
-
-***
-
 **Jan Neruda  
 Povídky malostranské**
 

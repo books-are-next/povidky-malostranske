@@ -1,5 +1,6 @@
 ---
 title: Svatováclavská mše
+contentType: prose
 ---
 
 1876

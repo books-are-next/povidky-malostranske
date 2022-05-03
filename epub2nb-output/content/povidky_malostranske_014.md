@@ -1,5 +1,6 @@
 ---
 title: "U\_Tří lilií"
+contentType: prose
 ---
 
 1876

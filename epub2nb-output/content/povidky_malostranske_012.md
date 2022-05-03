@@ -1,5 +1,6 @@
 ---
 title: Hastrman
+contentType: prose
 ---
 
 1876
