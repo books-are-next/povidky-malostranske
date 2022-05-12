@@ -1,5 +1,5 @@
 ---
-title: "Jak to přišlo,že dne 20.\_srpna roku 1849, o\_půl jedné s\_poledne,Rakousko nebylo rozbořeno"
+title: "Jak to přišlo,že dne 20\\.\_srpna roku 1849, o\_půl jedné s\_poledne,Rakousko nebylo rozbořeno"
 contentType: prose
 ---
 

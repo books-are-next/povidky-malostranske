@@ -48,7 +48,7 @@
             "filename": "povidky_malostranske_002.md",
             "xhtml": "povidky_malostranske_002.xhtml",
             "id": 1,
-            "role": "break",
+            "role": "promo",
             "inToc": false,
             "listType": "plain",
             "children": []
@@ -325,7 +325,7 @@
         "xhtml": "povidky_malostranske_015.xhtml"
       },
       {
-        "titleSuggest": "Jak to přišlo,že dne 20. srpna roku 1849, o půl jedné s poledne,Rakousko nebylo rozbořeno",
+        "titleSuggest": "Jak to přišlo,že dne 20\\. srpna roku 1849, o půl jedné s poledne,Rakousko nebylo rozbořeno",
         "subtitleSuggest": "",
         "filename": "povidky_malostranske_016.md",
         "xhtml": "povidky_malostranske_016.xhtml"
@@ -447,6 +447,6 @@
       "user": "books-are-next",
       "repo": "povidky-malostranske"
     },
-    "generatedAt": 1651571598138
+    "generatedAt": 1652351678036
   }
 }

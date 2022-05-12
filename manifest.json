@@ -1,21 +1,41 @@
 {
-  "author": "Jan Neruda",
-  "edition": "beletrie",
-  "identifier": "neruda-povidky-malostranske-e7a5608",
-  "languagecode": "cs",
-  "modified": "2021-10-22T10:08:13.764Z",
-  "publisher": "Městská knihovna v Praze",
-  "publishershort": "mkp",
+  "preview": {
+    "isPreview": false
+  },
   "title": "Povídky malostranské",
-  "revision": "e7a5608",
+  "author": "Jan Neruda",
+  "publisher": "Městská knihovna v Praze",
+  "edition": "beletrie",
+  "languageCode": "cs",
+  "root": "main",
+  "identifier": "neruda-povidky-malostranske-9c515e6",
+  "revision": "9c515e6",
+  "readingOrder": [
+    "promo.html",
+    "povidky_malostranske_005.html",
+    "povidky_malostranske_006.html",
+    "povidky_malostranske_007.html",
+    "povidky_malostranske_008.html",
+    "povidky_malostranske_009.html",
+    "povidky_malostranske_010.html",
+    "povidky_malostranske_011.html",
+    "povidky_malostranske_012.html",
+    "povidky_malostranske_013.html",
+    "povidky_malostranske_014.html",
+    "povidky_malostranske_015.html",
+    "povidky_malostranske_016.html",
+    "povidky_malostranske_017.html",
+    "povidky_malostranske_018.html",
+    "colophon.html"
+  ],
   "generatedAt": {
-    "date": "Tue May 03 2022 09:54:08 GMT+0000 (Coordinated Universal Time)",
-    "unix": 1651571648397
+    "date": "Thu May 12 2022 10:44:06 GMT+0000 (Coordinated Universal Time)",
+    "unix": 1652352246826
   },
   "documents": [
     {
-      "title": "Povídky malostranské",
-      "file": "povidky_malostranske_002.html",
+      "title": "Městská knihovna v Praze",
+      "file": "promo.html",
       "words": 0,
       "chars": 0,
       "ideas": 0,
@@ -23,15 +43,7 @@
       "order": 0,
       "prev": null,
       "next": "povidky_malostranske_005.html",
-      "toc": [
-        {
-          "index": 0,
-          "level": 1,
-          "name": null,
-          "id": null,
-          "children": []
-        }
-      ]
+      "toc": []
     },
     {
       "title": "Povídky malostranské",
@@ -41,7 +53,7 @@
       "ideas": 0,
       "role": "chapter",
       "order": 1,
-      "prev": "povidky_malostranske_002.html",
+      "prev": "promo.html",
       "next": "povidky_malostranske_006.html",
       "toc": [
         {
@@ -54,7 +66,7 @@
       ]
     },
     {
-      "title": "Týden v tichém domě • Povídky malostranské",
+      "title": "Týden v tichém domě",
       "file": "povidky_malostranske_006.html",
       "words": 22405,
       "chars": 130460,
@@ -180,7 +192,7 @@
       ]
     },
     {
-      "title": "Pan Ryšánek a pan Schlegl • Povídky malostranské",
+      "title": "Pan Ryšánek a pan Schlegl",
       "file": "povidky_malostranske_007.html",
       "words": 3119,
       "chars": 18413,
@@ -215,7 +227,7 @@
       ]
     },
     {
-      "title": "Přivedla žebráka na mizinu • Povídky malostranské",
+      "title": "Přivedla žebráka na mizinu",
       "file": "povidky_malostranske_008.html",
       "words": 2291,
       "chars": 13325,
@@ -235,7 +247,7 @@
       ]
     },
     {
-      "title": "O měkkém srdci paní Rusky • Povídky malostranské",
+      "title": "O měkkém srdci paní Rusky",
       "file": "povidky_malostranske_009.html",
       "words": 1672,
       "chars": 9680,
@@ -255,7 +267,7 @@
       ]
     },
     {
-      "title": "Večerní šplechty • Povídky malostranské",
+      "title": "Večerní šplechty",
       "file": "povidky_malostranske_010.html",
       "words": 3411,
       "chars": 19590,
@@ -275,7 +287,7 @@
       ]
     },
     {
-      "title": "Doktor Kazisvět • Povídky malostranské",
+      "title": "Doktor Kazisvět",
       "file": "povidky_malostranske_011.html",
       "words": 2003,
       "chars": 12008,
@@ -295,7 +307,7 @@
       ]
     },
     {
-      "title": "Hastrman • Povídky malostranské",
+      "title": "Hastrman",
       "file": "povidky_malostranske_012.html",
       "words": 1797,
       "chars": 10594,
@@ -315,7 +327,7 @@
       ]
     },
     {
-      "title": "Jak si nakouřilpan Vorel pěnovku • Povídky malostranské",
+      "title": "Jak si nakouřilpan Vorel pěnovku",
       "file": "povidky_malostranske_013.html",
       "words": 1542,
       "chars": 8988,
@@ -335,7 +347,7 @@
       ]
     },
     {
-      "title": "U Tří lilií • Povídky malostranské",
+      "title": "U Tří lilií",
       "file": "povidky_malostranske_014.html",
       "words": 653,
       "chars": 3787,
@@ -355,7 +367,7 @@
       ]
     },
     {
-      "title": "Svatováclavská mše • Povídky malostranské",
+      "title": "Svatováclavská mše",
       "file": "povidky_malostranske_015.html",
       "words": 3870,
       "chars": 22755,
@@ -375,7 +387,7 @@
       ]
     },
     {
-      "title": "Jak to přišlo,že dne 20. srpna roku 1849, o půl jedné s poledne,Rakousko nebylo rozbořeno • Povídky malostranské",
+      "title": "Jak to přišlo,že dne 20. srpna roku 1849, o půl jedné s poledne,Rakousko nebylo rozbořeno",
       "file": "povidky_malostranske_016.html",
       "words": 5052,
       "chars": 29750,
@@ -395,7 +407,7 @@
       ]
     },
     {
-      "title": "Psáno o letošních Dušičkách • Povídky malostranské",
+      "title": "Psáno o letošních Dušičkách",
       "file": "povidky_malostranske_017.html",
       "words": 3291,
       "chars": 19228,
@@ -415,7 +427,7 @@
       ]
     },
     {
-      "title": "Figurky • Povídky malostranské",
+      "title": "Figurky",
       "file": "povidky_malostranske_018.html",
       "words": 20838,
       "chars": 118922,
@@ -435,11 +447,11 @@
       ]
     },
     {
-      "title": "Tiráž • Povídky malostranské",
+      "title": "Tiráž",
       "file": "colophon.html",
-      "words": 132,
-      "chars": 885,
-      "ideas": 21,
+      "words": 114,
+      "chars": 743,
+      "ideas": 16,
       "role": "colophon",
       "order": null,
       "prev": "povidky_malostranske_018.html",
@@ -457,9 +469,9 @@
   ],
   "totals": {
     "all": {
-      "words": 72082,
-      "chars": 418426,
-      "ideas": 2097
+      "words": 72064,
+      "chars": 418284,
+      "ideas": 2092
     },
     "chapters": {
       "words": 71944,
