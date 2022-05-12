@@ -13,7 +13,7 @@ meta:
   publisherShort: mkp
   edition: beletrie
 readingOrder:
-  - povidky_malostranske_002.html
+  - promo.html
   - povidky_malostranske_005.html
   - povidky_malostranske_006.html
   - povidky_malostranske_007.html
