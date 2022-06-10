@@ -3,6 +3,8 @@ title: "Týden v\_tichém domě"
 contentType: prose
 ---
 
+<section>
+
 1867
 
 ## I. V košili
@@ -303,7 +305,9 @@ Matka vyzdvihla hlavu, pohlédla k dceři a zavrtěla hlavou.
 
 Bylo patrno, že by slečně také za to nestálo, aby se zlobila. Rovnodušně položila sešit s verši před sebe, namočila ještě jednou péro a začala na bílý lístek klást písmenku vedle písmenky. Kladla je pomalu a s patrnou obtíží. Konečně byla první řádka dovršena, po slušné časové mezeře pak řádka druhá, třetí, až po půlhodinném namáhání skvěla se již celá sloha na papíru. Zněla věrně takto:
 
-  
+</section>
+
+<section>
 
 _Roszen verwelken Mirthe bricht  
 Aber wahrer Freundschaft nicht;  
@@ -378,19 +382,25 @@ Slečna Marie prozrazovala nevinným zachechtnutím, že sdílí náhled o vtip
 
 Na lístku stálo:
 
-  
+</section>
+
+<section>
 
 _Dein treues Herz und Tugend Pracht  
 Hat mich in dich verlibt gemacht,  
 Mein Herz ist dir von mir gegeben  
 Vergissmeinnicht in Todt und Leben.[^21]_
 
-  
+</section>
+
+<section>
 
 _W. Korzineck,  
 Oberlieutenant._
 
-  
+</section>
+
+<section>
 
 „Pročpak ale nevypsal celé jméno, jmenuje se Wolfgang nebo Viktor nebo jak?“
 
@@ -482,7 +492,9 @@ Vzal z psacího stolku silný sešit papíru i začal se v něm probírat. M�
 
 I četl ze sešitu:
 
-  
+</section>
+
+<section>
 
 _Tys jako horská krajina,  
 jak její mladý, jarní čas!  
@@ -496,59 +508,77 @@ hned mračna a hned jasna,
 jsi jako horská krajina  
 jen pro poetu krásna!_
 
-  
+</section>
+
+<section>
 
 _O rci mně, zdaž pro píseň mou  
 máš ozvěnu ty vděčnou,  
 či zdaž jak horská krajina  
 máš v prsou skálu věčnou!?_
 
-  
+</section>
+
+<section>
 
 „To je kluk! Zcela tak jako u nás v horách, a já vím, že jaktěživ ani horskou krajinu neviděl, kdepak taky! ‚Les – ples‘, dobrá! ‚Rozsetý slavíků hlas‘ – to je přec jen trochu mnoho! Já vím co, podškrtnu hodně tlustě ‚jen pro poetu krásna‘, – pro mne jako jenom, pro jednu osobu. Děvčatům pletou básně příliš hlavu! – A za týden druhou pumu, snad už s podpisem, dle potřeby! Tahle bude tedy ta druhá!“
 
 A četl dále:
 
-  
+</section>
+
+<section>
 
 _Tvá tmavá pleť, Tvůj tmavý vlas  
 rozsily v dny mé dumný sen,  
 Tvůj žárný zrak, Tvůj mladý hlas  
 z mých nocí činí palný den!_
 
-  
+</section>
+
+<section>
 
 _O moje slunko tmavé!  
 Rci, zda chceš býti v nočních tmách  
 mně světlo jasně žhavé?_
 
-  
+</section>
+
+<section>
 
 _O měsíčku můj černý!  
 Rci, zda chceš býti v žárných dnech  
 můj klidný soudruh věrný?_
 
-  
+</section>
+
+<section>
 
 „Ten to umí, hehe! Ten by spletl holek! Ale snad to psal na nějakou Židovku, Josefinka není tak černa! – Nic neškodí, ona si toho nevšimne, jen když je jako sluncem a když to klinká! Ta báseň jí dodá! Samý žár a plamen! – Kdyby ale byla neslušně tvrdá, tedy ještě pak třetí, pak už nemilosrdně do toho!“
 
 Obrátil několik listů a četl:
 
-  
+</section>
+
+<section>
 
 _Což střelná rána do srdce,  
 což na tom, hned-li zajdu!  
 leč – vím, že v srdci zhynulém  
 též Tebe mrtvu najdu._
 
-  
+</section>
+
+<section>
 
 _Což o bolestný okamžik  
 a o tu cestu temnou!  
 leč – ze srdce mně nemůžeš  
 a musila bys se mnou!_
 
-  
+</section>
+
+<section>
 
 „To má něco omamujícího, tak zastřelujícího do sebe! Děvče neodolá, když milenec hrozí zastřelením se. Ať je tak nebo tak, dáme Josefince na všechen způsob také tu pilulku třetí. Utuží se v lásce – ale, jako kdyby to na mne hodil – musím už do postele – musím!“
 
@@ -800,7 +830,9 @@ Pan president přišel do našeho oddělení pro nějaký akt. Vy­stoupil jedno
 
 Pan president se mne ráčil zeptat, nemám-li žádné sestry. Poro­zuměl jsem tomu starému mládenci – ale počkej, ta otázka ti bude drahá! Vždyť já vím, pane presidente, kde ráčíte holdovat lásce; nejkrásnější ze všech akcesistů mně to řekl! Je prý opravdu hezká ta vaše milenka; snad bude o to pro mne hezčí, oč já jsem mladší vás. Až ji uvidíme! Nebude-li pro nás, snad bude pro pana akcesistu, který se má za samého Narcisa. Něco se stane!
 
-  
+</section>
+
+<section>
 
 * * *
 
@@ -1619,3 +1651,5 @@ Panu doktorovi zakmitly oči v rozpacích. Otevřel ústa jakoby k odpovědi, 
 [^51]: Rvát se (za něco). Pozn. red.
 
 [^52]: Loterijní stvrzenka. Pozn. red.
+
+</section>

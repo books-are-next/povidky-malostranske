@@ -3,6 +3,8 @@ title: Přivedla žebráka na mizinu
 contentType: prose
 ---
 
+<section>
+
 1875
 
 Chci psát událost smutnou, ale hledí mně do ní co veselá iniciálka obličej páně Vojtíškův. Obličej tak zdravě svítivý a do červena lesklý jako nedělní pečínka, politá čerstvým máslem. A takhle k sobotě – pan Vojtíšek holil se jen v neděli –, když už mu bílé vousy po kulaté bradě zas řádně vyrazily a jako hustá smetana se skvěly, zdál se mně být ještě hezčí. Také vlasy jeho se mi líbily. Neměl jich mnoho, začaly pod okrouhlou pleší na skráních a byly už přesedly, ne více stříbrny, nýbrž již až lehýnce zas do žluta, ale byly jako hedváb a vlály tak hebce kolem hlavy. Pan Vojtíšek nosil totiž čepici vždy jen v ruce a pokryl se leda, když měl přejít prostorou sluncem příliš praženou. Vůbec se mně pan Vojtíšek líbil velmi, jeho modré oči zářily tak upřímně, celá jeho tvář byla jakoby kulatým, upřímným okem.
@@ -134,3 +136,5 @@ Venku stála mlíkařka na vozíku a za vozíkem stál policajt pan Kedlický. 
 [^57]: Raději se otrávit (než se oženit)! Pozn. red.
 
 [^58]: Součást dveřního závěsu připevněná k zárubni, k rámu nebo do zdiva. Pozn. red.
+
+</section>

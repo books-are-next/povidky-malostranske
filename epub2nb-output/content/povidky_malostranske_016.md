@@ -3,6 +3,8 @@ title: "Jak to přišlo,že dne 20\\.\_srpna roku 1849, o\_půl jedné s\_poledn
 contentType: prose
 ---
 
+<section>
+
 1877
 
 Dne 20. srpna roku 1849, o půl jedné s poledne, mělo být Rakousko rozbořeno, takž bylo usneseno v „spolku pistolovém“. Nevím už ani, čím se tenkráte Rakousko provinilo, ale nepochybuju ani dost málo, že rozhodnuto tak po úvaze hluboké. Nebylo více pomoci, věc usnesena, odpřisáhnuta a provedení svěřeno osvědčeným rukám Jana Žižky z Trocnova, Prokopa Holého, Prokůpka a Mikuláše z Husi, totiž mně, pak Rumpálovic Josefovi, synu to uzenářovu, Frantíku Mastnému, synu ševcovu, a Antonínu Hochmannovi, tomu, jenž byl odněkud od Rakovníka a studoval za peníze svého bratra sedláka. Uvedená příjmena historická nebyla udělena snad hříčkou náhody, nýbrž zcela po zásluze. Já byl Žižkou, neboť jsem byl ze všech nejčernější, mluvil jsem nejrázněji a hned do první schůze našeho spolku (odbývala se na půdě u Rumpálů) byl jsem se dostavil s černou páskou přes levé oko, což vzbudilo všeobecnou sensaci. Tu černou pásku musil jsem pak ve všech schůzích mít; nebylo to příliš příjemno, ale nedalo se ovšem nic dělat. Ostatní měli na svá příjmena nároky rovněž rozhodné.
@@ -332,3 +334,5 @@ Pohorák zastavil. „Jakých šest zlatých?“
 [^115]: Úřední potvrzení o zaplacení daně z dovozu potravin. Pozn. red.
 
 [^116]: Každodenní. Pozn. red.
+
+</section>

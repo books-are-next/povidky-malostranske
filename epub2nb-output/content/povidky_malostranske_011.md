@@ -3,6 +3,8 @@ title: Doktor Kazisvět
 contentType: prose
 ---
 
+<section>
+
 1876
 
 Neříkali mu vždycky tak, až po jisté příhodě, ale ta byla tak divná, že přišla i do novin. Vlastně se jmenoval pan Heribert a křestním jménem svým nějak zcela neobyčejně, jenže už nevím jak. Pan Heribert byl lékařem, totiž abych pravdu mluvil, on byl skutečně promovován na doktora medicinae, ale neléčil pranikoho a praničeho. Sám by se byl musil přiznat, že od doby, kdy co student navštěvoval kliniky, neměl ani jediného nemocného pod rukama. A byl by se snad i ochotně k tomu přiznal, jen kdyby byl vůbec s někým mluvil. Ale byl to člověk prazvláštní.
@@ -90,3 +92,5 @@ Již jsem ho neviděl přes deset let; ani nevím, žije-li. Jeho malý domek na
 [^79]: Napodobenina jemné černé jehněčí kožešiny. Pozn. red.
 
 [^80]: Závěť, poslední vůle. Pozn. red.
+
+</section>

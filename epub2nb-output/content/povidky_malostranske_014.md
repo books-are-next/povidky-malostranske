@@ -3,6 +3,8 @@ title: "U\_Tří lilií"
 contentType: prose
 ---
 
+<section>
+
 1876
 
 Myslím, že jsem tenkráte šílil. Každá žilka hrála, krev byla rozvařena.
@@ -36,3 +38,5 @@ Mlčky jsem táhl děvče dál a dále do arkád, děvče následovalo volně.
 Bouř dostoupila teď svého vrchole. Vítr hnal se jako příval vodní, nebe i země ječely, nad hlavami se nám válely hromy, kolem nás jak by mrtví řvali z hrobů.
 
 Přitiskla se ke mně. Cítil jsem, jak se mi k prsům lepí vlhký její šat, cítil měkké tělo, teplý, sálající dech – bylo mně, jako bych musil vypít tu zlotřilou duši z ní!
+
+</section>

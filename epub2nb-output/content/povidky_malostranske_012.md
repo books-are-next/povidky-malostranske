@@ -3,6 +3,8 @@ title: Hastrman
 contentType: prose
 ---
 
+<section>
+
 1876
 
 Chodil vždy s kloboukem v ruce. Ať byl sebevětší úpal mrazový, nebo sluneční, nanejvýš že držel svůj nízký, ale baňatý cylindr se širokou střechou nad hlavou jako parasol[^81]. Šedivé vlasy byly hladce přičísnuty k lebce a spojovaly se vzadu v cůpek tak pevně stlačený a svázaný, že se ani nekýval – jeden to z nejposlednějších cůpků v Praze, už tenkráte byly tu jen dva nebo tři. Zelený fráček jeho, se zlatými knoflíky, měl živůtek jen krátký, zato byly ale šosy dlouhé a tloukly hubenou, malou postavičku páně Rybářovu do vychrtlých lýtek. Bílá vesta kryla nahnutá prsa, černé spodky šly jen po kolena, kde se svítily dvě stříbrné přezky, pak dál byly sněhobílé punčochy zas až k jiným dvěma stříbrným přezkám a pod těmi šouraly se velké střevíce. Byly-li ty střevíce někdy obnovovány, nevím, ale vždycky vypadaly tak, jako by se k nim byla brala rozpraskaná kůže se střechy nejstaršího fiakru.
@@ -116,3 +118,5 @@ Dál už povídat nebudu, dál už neumím.
 [^86]: Vatou podšitá sukně, případně samotná vata. Pozn. red.
 
 [^87]: Francie. Pozn. red.
+
+</section>

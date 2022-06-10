@@ -3,6 +3,8 @@ title: Svatováclavská mše
 contentType: prose
 ---
 
+<section>
+
 1876
 
 Seděl jsem dole na schodech, vedoucích na kostelní kůr, a sotva že jsem dýchal. Přivřenými mřížovými dveřmi viděl jsem dobře po chrámě, vpravo k stříbrnému náhrobku svatojanskému a přespříč chrámu k sakristii na druhé straně. Již bylo dávno po odpoledním požehnání, svatovítský chrám prázdný. Jen u hrobu svatého Jana klečela ještě zbožná má matka, pohřížena v modlitbě, a od svatováclavské kaple přicházel starý kostelník, vykonávaje poslední svou obchůzku. Šel na tři kroky kolem mne, zabočil ku východu pod královským oratoriem[^91], zaharašil klíčem, otočil zámkem a cvaknul ještě na zkoušku klikou. Pak šel dále a teď vstala také má matka, požehnala se a kráčela vedle kostelníka. Náhrobek mně oba zakryl, slyšel jsem jen dunící kroky jejich, jednotlivé zvuky rozmluvy, pak se objevili na druhé straně u sakristie. Kostelník bouchnul tu dveřmi, zas harašil zámek, cvakla klika, a teď šli k pravému východu. Ještě zaznělo as dvoje zapadnutí železa a já byl v kostele sám a zavřen. Podivný cit mnou zachvěl, přes záda mně přeběhl horký proud – ale pocit ten nebyl nepříjemný.
@@ -96,3 +98,5 @@ Ještě bylo tma a s nebe padal drobný, studený déšť, když lidé vycház
 [^104]: Kněžská čtyřhranná pokrývka hlavy. Pozn. red.
 
 [^105]: Část mše, při které kněz pozdvihuje hostii a víno. Pozn. red.
+
+</section>

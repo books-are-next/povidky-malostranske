@@ -3,6 +3,8 @@ title: Figurky
 contentType: prose
 ---
 
+<section>
+
 _Idylický úryvek ze zápisek advokátního koncipienta_
 
 1877
@@ -29,13 +31,17 @@ Konduktérka je mladá, as dvaadvacetiletá žínka. Je hezká, tak zdravě hezk
 
 Když jsem řekl, že jsem doktorem práv, byla konduktérka patrně potěšena. A když jsem řekl, že se jmenuju Krumlovský, zvolala: „I jeje, to je hezké jméno!“ Ti lidé řeknou všechno hned tak upřímně. Smluvili jsme nájemné a posluhu a snídani, konduktérka mně bude prát a posluhovat a vařit snídani. Vpravo dole u vchodu je hostinec, čistý, jak jsem viděl, odtamtud budu brát obědy a večeře. „My, když je muž doma, berem taky odtamtud; mají tam stravu domácí!“ To je výborné, já miluju stravu domácí. Já pranic nestojím o tu kořeněnou kuchyň restaurační, mně jsou škubánky a jahelník a maštěné nudle stokrát milejší než všechny karbonády[^120]. A vlevo dole u vchodu má švec svůj krám a zrovna nade mnou, v druhém patře, bydlí krejčí, co chci ještě víc? Musím podotknout, že o kousek dál stojí dům, kde se narodil Mácha. Ale já pranic nedbám poesie psané, mně je ta poesie, kterou tvoří život sám, stokrát milejší, a proto to o Máchovi podotýkám jen tak. Já sám jsem nepsal nikdy žádných básní – totiž – co studentík jsem arci také začal. Možno, že jsem měl talent. Alespoň se pamatuji na zcela pěknou jednu báseň svou, baladu, se vzornou aliterací[^121]. Už vím z ní ale málo víc než tu aliteraci –
 
-  
+</section>
+
+<section>
 
             _podle stráně  
 štěkotem svým přizvukuje  
 _p_ískotu _p_es _p_áně._
 
-  
+</section>
+
+<section>
 
 Smáli se mně, když jsem baladu ve škole předčítal. Bránil jsem se a poukazoval na tu aliteraci. Ale smáli se ještě víc, a od té doby místo „aliterace“ říkali vždycky „pískotupespáně“. Oslové!
 
@@ -93,18 +99,24 @@ Zákon občanský. Řád směneční. Zákon obchodní. Řízení soudní. Paten
 
 Tak! Každé ráno si ten seznam přehlídnu, abych viděl, jak je toho mnoho, co ještě mně schází, a v píli neustál. Však píle potrvá, jsem teď zcela jiný člověk. Ale kdykoliv a jakékoliv budu mít dobré předsevzetí, po každé si je napíšu, a každý den číst, každý den! Člověk zapomíná mimovolně.
 
-  
+</section>
+
+<section>
 
 Dobrá snídaně. Káva bez cikorie[^123], kyprý rohlík. Konduktérka v bílé ranní kazajce. Září, je vidět na ní šťastné manželství. „Dobrá káva, výborná,“ pravím, abych si ji zcela naklonil. – „Nu to mne těší, pane doktore, jen když vám chutná. – Neporoučíte nic?“ Teď si vzpomínám na konduktéra. „Váš pán je doma? Musím se s ním přec honem seznámit.“ – „Šel na nádraží s raportem, přijde až k obědu.“ Zas se směje, ona se směje pořád. „Já bych teď ustlala a trochu poklidila, Kačenku jsem zrovna vykoupala a ona usnula,“ dodává; „překáží-li to panu doktorovi, mohl by pan doktor zatím do druhého pokoje.“
 
 Jdu do druhého pokoje a dívám se z okna na dvůr. V obou patrech naproti kytky v oknech. Ty obyčejné u nás kytky, to se rozumí. Mohla by se sepsat zvláštní okenní Flora česká. Vonná bazalka s tím velkým, šťavnatým listem: ale když se list trochu rozžmolí, zvadne –„pomilovaná dívka“. Balzamína, bez vůně, ale s četným květem; každý si ji ročně pěstuje z loňského semene. Protivná pelargonie s koženým smutným listem a křiklavě červeným květem. Růžovec s vystříhaným listím; snese už trochu mnutí. Muškát, rozmarýna, to se rozumí. Rozmarýna, květina svatební, květina pohřební. Vůně: láska; stálá zeleň: věrnost. Rozmarýna sílí prý paměť, musím si jí koupit několik hrnků. Rozmarýnu pouštějí po vodě –
 
-  
+</section>
+
+<section>
 
 _Kytka jede po potoce,  
 snad ji, Jene, chytneš v roce –_
 
-  
+</section>
+
+<section>
 
 i ne, nechytnu, to tak, brzy se oženit!
 
@@ -144,11 +156,15 @@ Konduktérka ve dveřích. Že prý je hned deset, nepřeju-li si zdola snídani
 
 Úvod. O zákonech občanských vůbec. Pojem práva občanského.
 
-  
+</section>
+
+<section>
 
 Dostal jsem se do příjemné zimnice. Tak jsem se zabral do paragrafů, že mně bylo líto, když přišel oběd. Dosti slušný, ale neobjemný – nu, beztoho není zdrávo se nacpat, když člověk pořád teď sedí. – Černou kávu? – „Ne, paní konduktérko, až do večera, takhle do osmi hodin, nepotřebuju praničeho.“ Zdali ani doutníků ne? „Nekouřím nikdy doma.“
 
-  
+</section>
+
+<section>
 
 Výborně! Jako když bystřina unáší člun v závratném spěchu a předměty na břehu se jen míhají. Paragraf za paragrafem, jako když růženec běží skrz prsty. Ani bych si byl nepomyslil, že tolik znám a že to tak lehýnce půjde. Zabral jsem se tak do studia, že jsem nic neviděl a neslyšel. Myslím, že tu byla v pokoji konduktérka as šest- nebo desetkrát. Je mně taky, jako by byla Kačenku as dvakrát strašila srnkou. Mluvila-li na mne, nedal jsem jí zajisté odpovědi. Aspoň vidí, že nemám být vytrhován.
 
@@ -156,7 +172,9 @@ Jsem náramně spokojen. 135 paragrafů! Teď večeři a pak dál. Ať mně ně
 
 Roštěná trochu tvrdá. – To jsem to vyvedl! Zapomněl jsem zcela na konduktéra. „Ano, ještě půl litru, paničko. Mohu teď s vaším pánem mluvit? – Abychom se přec trochu poznali!“ – „Už je pryč na nádraží, jede v devět hodin. Jsem zase vdovou.“ A směje se. Snad konduktéra ani jaktěživ nepoznám.
 
-  
+</section>
+
+<section>
 
 Půl jedenácté. Jsem unaven; chuti neubylo, ale čivy popouštějí. – Občanský zákon má 1502 §§ – za osm dní jsem s ním hotov. Počkejme, hrajme si trochu! –
 
@@ -174,7 +192,9 @@ Střevíc! Netrefil jsem ji, ale už je dole a u dveří. Pootevřel jsem –
 
 Za dveřmi hlas, poroučím-li něco. – Ne. – Že jsem ale otevřel dveře. – „Vyháněl jsem jen kočku!“ – Jen abych řekl, chci-li něco. Že prý, když je sama, nemůže dobře spát a má beztoho dlouhou chvíli. – Neodpovídám. – Tajený smích venku.
 
-  
+</section>
+
+<section>
 
 Ježíši, to je rozkoš! – Tyun tyun tyun tyun, spe tyu ckva – slavík! –
 
@@ -270,15 +290,21 @@ Na chodbě jsem pozdravil nějakou ženskou, nejspíš slečna domácí. Už hez
 
 „Šišlala?“ ptá se konduktérka. – „Šišlá.“ – „To mají tedy dnes peníze. Když nemají groše, mluví zcela dobře.“ Patrně má konduktérka hrozně pomlouvačnou hubu. „Když šel pan doktor po chodbě sem, vyhnul se Provazník z okna a díval se za ním.“ Hledím nahoru. Zdá se mně, že tam vidím voskově žlutou, tenkou tvář; víc nevidím. Zdali prý ničeho neporoučím. Trochu mrzutě: Ne. Zdali prý by si nemohla dát Kačenku trochu sem do mého pokoje. Musí ke kupci, hned je ale zas zde; a Kačenka se rozpláče, když je sama. „Vždyť ji přec neumím chovat!“ – „Položím ji jen na postel.“ – „A jakpak, když se rozpláče?“ – „Ó ne, dokud někoho vidí.“ – „Nebo když mně tu vyvede něco…?“ – „Taková chudinka!“ – Ano, taková chudinka! – Jsem náramně mrzut.
 
-  
+</section>
+
+<section>
 
 Předsevzetí: působit na Pepíka mravně.
 
-  
+</section>
+
+<section>
 
 Četl jsem jednou Burnandovy Dobré myšlenky. Moje „předsevzetí“ jsou ale něco naprosto jiného, já ho neimituju.
 
-  
+</section>
+
+<section>
 
 Ani bych si byl nepomyslil, že se dnes přec zase tak do studií vpravím, jsem spokojen, ale strašně unaven – půjdu spát.
 
@@ -296,7 +322,9 @@ Ale rýmu mám zcela pořádnou. Lehýnká zimnice běhá po těle, mozek je zab
 
 Do práce!
 
-  
+</section>
+
+<section>
 
 Pan domácí byl u mne. Zvláštní člověk, tak šedesátník. Tenká figurka, která se zdá být menší, než je, pro zapadlá prsa a tak silně spadající ramena, jako by v každé ruce nesl konev s vodou. Oholená suchá tvář, pysky zapadlé, protože zuby už vypadaly, bradička jako krejcárek, malý ušňupaný nos, šedivé vlasy. Ale černé oči planou jako v zimnici. Také suché, vráskovité ruce hmatají nepokojně po vzduchu a někdy to škubne celou postavou. A když mluví, skoro šeptá. Člověku není zcela volno při něm, jako by se pořád mělo něco stát.
 
@@ -304,7 +332,9 @@ Pan domácí byl u mne. Zvláštní člověk, tak šedesátník. Tenká figurka
 
 Naivní výklad – ale vlastně pravdivý. Ti lidé mají své mudrosloví v pořekadlech, člověk by neměl nevrle podceňovat pořekadla ta, je do nich složen vždy celý, třebaže nevelký názor jednotlivcův. Byla by zcela zajímavá sbírka: „Pořekadla osobní“.
 
-  
+</section>
+
+<section>
 
 Vcelku se dnem spokojen. Jdu spát.
 
@@ -326,7 +356,9 @@ Vzpomínám si, že jsem konduktéra posud nespatřil. Byl mezitím doma?
 
 Cikorie v kávě! – Já se nemýlím, cikorie – to je děsné! _Musí se něco stát._
 
-  
+</section>
+
+<section>
 
 Letím ku konci občanského zákona se spěchem zvýšeným, jako závodní kůň poblíž cíle.
 
@@ -334,7 +366,9 @@ Letím ku konci občanského zákona se spěchem zvýšeným, jako závodní ků
 
 Opět cikorie, a myslím že víc než včera, a konduktérka se už neptá ani jednou. Mám alespoň pokoj. – Včera mně přivedla zase jinou ševcovou, vdovu, matku. Že prý jsem tak nadmíru dobrý člověk. Opět zlatka.
 
-  
+</section>
+
+<section>
 
 Pepík byl nesmírně bit, řval, že se domem rozléhalo. Ptám se konduktérky, co udělal. Vlastně nic, koupil si ořechy, otec mu je snědl – „nikdo by neuvěřil, jak ten muž je mlsný!“ – Pepík se bránil, otec mu natloukl. Lituju Pepíka. „I co takový kluk,“ beztoho prý za nic nestojí. O minulý Velký pátek kradl prý v kajetánském kostele u božího hrobu Kristu pánu z talíře krejcary.
 
@@ -342,11 +376,15 @@ Ano, _musím_ na Pepíka mravně působit! Jen až bude trochu času. Škoda by 
 
 George Washington nestál co kluk také za mnoho, ale George Washington měl moudrého otce. Bůh by byl měl děti obmyslit darem, aby záhy poznaly, je-li jejich otec podoben otci George Washingtona; a v případu opačném aby se dlouho netahaly s nezdárným otcem a obrátily se jinam. (Pokyn pro Marka Twaina, který si také chováním se à la G. W. chtěl vychovat otce.)
 
-  
+</section>
+
+<section>
 
 Byl u mne malíř, jen tak na skok. Zdali prý bych mu nechtěl sedět tedy modelem k svatému Kryšpínu. Odpověděl jsem, že teď musím sedět u knih. – Stávám se ráznější.
 
-  
+</section>
+
+<section>
 
 Jsem s občanským zákonem _hotov!_ – Zítra se dám do řádu směnečného. – To se to bude dnes spát!
 
@@ -364,7 +402,9 @@ Teď ale už jsem klidnější. Vždyť vím dle studování dřívějšího, ž
 
 Nesouviselo to s onehdejším tvrzením, že jsem hloupý? – Ne, to už není naivnost, to je hotová impertinence!
 
-  
+</section>
+
+<section>
 
 Dvě ševcové, vdovy – jedna z nich ale vlastně krejčová. Zdá se, že mně chce konduktérka přivést všechny vdovy, mnoho-li jich pláče po levém břehu vltavském!
 
@@ -376,11 +416,15 @@ Za prvé: Vlažné, usměvavě krásné dny a při nastalém teple prchla rýma
 
 Předsevzetí: vstávat každého rána časně, _hodně časně._
 
-  
+</section>
+
+<section>
 
 Právě jsem vyhodil novou ševcovou, vdovu.
 
-  
+</section>
+
+<section>
 
 Takový hostinec se mně líbí! Nevzrušuje, a přec se člověk dobře baví, to se hodí zcela pro mou nynější potřebu. Nemusíš se namáhat, abys mluvil duchaplně, jen pozoruješ a posloucháš. Prostí lidé, ale přec samé individuality, přirozeně rozumní, nehledaně vtipní, spokojení i s vtipem nejmenším. Smějí se srdečně všemu. Ale člověk musí, aby se zároveň i vznešeněji mezi nimi bavil, být psychologem, rozumět individualitám. Mám talent pro to.
 
@@ -440,11 +484,15 @@ Vploužil se ke mně Pepík. To si nesmí navykat, ale mírně se mu to naznač�
 
 Studuju teď řád směnečný a míchám to příjemně se zákonem obchodním.
 
-  
+</section>
+
+<section>
 
 Strašný rámus u malířů. Veliká výplata Pepíka. Chci zavřít okno, malíř to pozoruje a volá přes dvůr: „Prokletý takový kluk! Nedá a nedá pokoje!“ – „Copak udělal Pepíček?“ – „Šibeničník mně sežral psaní od bratra faráře, a já teď nevím, co odpovědít!“ Zavřel jsem okno, beztoho také tovaryš nade mnou pořád ještě „nemá žádnou manýru-u“.
 
-  
+</section>
+
+<section>
 
 Obědval se Semprem a hostinským dole. Pozoroval Ignáce, jux! Chvilku rovnali spolu u vedlejšího stolku účet po včerejšku. Ignác pohlíží stranou s hloupým výrazem neskonalého strachu na pána, patrně očekává každou chvíli výpovědi včera slíbené; roztřepená kontura pánova kýve se sem tam, oči líně mžourají, patrně neví pán o včerejšku už ani muk. Ukončili účet a Ignác si poskočil.
 
@@ -452,7 +500,9 @@ Hostinský přisedl. „Dobrá polívka,“ povídám. – „Jakpak ne!“ mí
 
 Takto oběd bez oživující zábavy. Hostinský není k ničemu. „Co je dnes v novinách?“ ptám se. – „Já je nečtu. Já si zajdu někdy naproti ke kupci a zeptám se, jak to stojí.“ – Pozoruju, že stěna kolkolem hostince je dole jakoby nepravidelně pokopána. „Co je to?“ – „I to zde bývala přede mnou tančírna a vykopali to při tanci.“ – „A jak jste vy zde už dlouho?“ – „Já? Na dvanáctý rok.“ A Sempr nemluví skorem nic. „Eh“ a „m“ jsou jeho hlavní slova.
 
-  
+</section>
+
+<section>
 
 Byl jsem k večeru v zahrádce. Půl domu tam bylo; teď znám už, mimo mladý párek z druhého patra a svého konduktéra, obyvatele všechny, a když si na ně vzpomenu, jde mně trochu hlava kolem. Panu Provazníkovi, který bydlí nad malířem, nerozumím nadobro. Spatřil jsem ho dřív několikrát u okna, zdálo se mně, že má žlutý, tenounký obličej jako nudličku. Teď vidím proč. Kolem tváře má kratičký černý vous, vyholený na rtech a na bradě, odtud zdaleka ta čára. Vlasy má už skoro šedivé, je tak as padesátník a chodí silně shrblý.
 
@@ -546,7 +596,9 @@ Domácí šel s Otylií domů, večerní chlad prý „neslouží jeho krku“.
 
 Pojedl jsem a malíř mne baví. Vypravuje, že prý nikdy nebyl náležitě uznán. Přinutili prý ho už v akademii, aby vystoupl před koncem studií; umělť víc než profesoři.
 
-  
+</section>
+
+<section>
 
 Sedím zas doma a hlava mně jde kolem.
 
@@ -556,7 +608,9 @@ Nenechám nikdy okno víc v noci otevřené, ani při největším parnu! Po dr
 
 Při té příležitosti se mně vysvětlilo, proč už neslyším slavíka. Spouští teprv pozdě po půlnoci; snad přichází také teprv z hospody.
 
-  
+</section>
+
+<section>
 
 Spatřil jsem domácího a slečnu v zahradě. Chtěl jsem jednou domácího zas vidět, když je při dobré paměti, a sešel jsem tam. Bohužel nalezl jsem tam také Provazníka, kterého jsem oknem nebyl spatřil.
 
@@ -576,17 +630,23 @@ Za mnou zněl hlasitý, ostrý chechtot.
 
 Měl mne za blázna? –
 
-  
+</section>
+
+<section>
 
 Konduktérka poklízí u mne teď, když sejdu dolů k obědu. Vidím ji jen někdy, když jdu kuchyní. Dobře tak!
 
-  
+</section>
+
+<section>
 
 Odpůldne rámus u malířů. Velká výplata Pepíka a způsobil ji včerejší můj dvoušesták. Pepíka přivedl veřejný posluha za ruku domů. Bylť si ho Pepík najímal, aby ho vzal na krk a dělal mu po ulici koníčka, zrovna před naším domem.
 
 Vyšlo najevo, že Pepík si byl pozval Semprovu malou Márinku, aby se na něho dívala. Tedy parádní jízda. Snad první láska? Možná; já byl po prvé zamilován, když jsem byl tři leta stár, a byl jsem také pro to bit. – Pepík je ale rozhodně příliš mnoho bit.
 
-  
+</section>
+
+<section>
 
 Navečer hospůdka. Titéž lidé a na těchže místech. Z počátku vzájemný hovor všech o českém divadle. Tlustý nadporučík sděluje, že byl také jednou v českém divadle a že se mu hra líbila, jak náleží. Dávali tenkráte „Die Tochter des Bösewichts“, ale on neví, jak to znělo po česku. Ptá se. Nikdo to neví. Nakonec tvrdí nadporučík zcela určitě, že se kus nazýval po česku „Huncvutova dcera“. Tajtrlík! A pak se mluvilo o divadle ještě dál, o rozdílu mezi hrou veselou a opravdovou. Zcela určitě zas tvrdil nadporučík, že opravdové drama musí mít pět aktů. Je prý to jako při regmentu, čtyři bataillony polní a jeden depot.
 
@@ -600,7 +660,9 @@ Pak chytá Karlíček za všeobecné napnutosti blechu. A pak aplaus Löflerovi
 
 Přec něco nového. Karlíček najednou vyzval Löflera: „Dělejme čuňata!“ Aplaus. A dělají čuňata. Oba vstrčí proti sobě pěstě pod stolní ubrus, pohybují jimi, jako když čuňata hýbou se v pytli, a kvičí k tomu tak přirozeně, že obraz je úplný. Vidím jen Karlíčkovi do tváře, oči se mu radostí nad děláním čuňat jenjen jiskří.
 
-  
+</section>
+
+<section>
 
 Dnes jsem, myslím, studoval až příliš málo.
 
@@ -610,7 +672,9 @@ Strašná bouře v noci, teď ráno balzámový vzduch. Seběhnu s knihou do z
 
 Přec tu někdo, ale jen Pepík. Pepíka nějak vyhodím a bude dobře. „Vidíš, Pepíčku, tedy jsi o ty dva šestáky přišel,“ a hladím ho po vlasech. Kluk se na mne podívá a pak se chytře usměje. „I ne – já je tatínkovi zase vzal!“ – „Tak – a co teď s nimi uděláš?“ – „Já vím – – ale neřekneš to nikomu?“ – „To přec víš, že neřeknu.“ – „Bedříšek mně slíbil, že mně řekne numera.“ – „Kdopak je ten Bedříšek?“ – „No, tady od lutristky kluk. – On dlouho nechtěl, ale slíbil jsem mu šesták a on mně teď řekne numera, jaká vyjdou.“ Půvabná naivnost dítěte! „A co uděláš se všemi penězi, až vyhraješ?“ – „Ó, moc udělám – tatínkovi koupím pivo, mamince koupím zlatohlávkové šaty, a tobě koupím také něco.“ Pepík je kluk dobrého srdce.
 
-  
+</section>
+
+<section>
 
 Pepík je holomek! – Celý se třesu zlostí.
 
@@ -620,32 +684,44 @@ Vzal jsem obraz a šel k malíři žalovat. Malíř se rozzlobil, Pepík nemil
 
 Že prý mně malíř obraz spraví.
 
-  
+</section>
+
+<section>
 
 Jen žádnou lenost! – Z pouhé lenosti jsem si objednal černou kávu hned při obědě dole, abych si ji sám pak nemusil vařit. A teď si musím sám kávu uvařit ještě jednu, abych tu první strávil.
 
-  
+</section>
+
+<section>
 
 Dnes se studuje zase špatně. – Slyším pojednou v kuchyni řinčet šavli. Copak nosí konduktéři teď šavle?
 
-  
+</section>
+
+<section>
 
 Volají na mne, nepřijdu-li dnes dolů do zahrádky, že prý si zase zahrajeme šístku.
 
 Neodpovídám. – Nepůjdu. Dole se hádají, jsem-li doma. Malíř tvrdí, že jsem. „Počkejte, já ho vyzpívám,“ slibuje Provazník. Postavil se pod mé zahradní okno a spustil skuhravým hlasem:
 
-  
+</section>
+
+<section>
 
 _„Tážete se, proč já knedle  
 nejraději s mlíkem jím,  
 počkejte, to já vám hnedle,  
 ale hnedle vypovím –“_
 
-  
+</section>
+
+<section>
 
 zakuckal se smíchy a naslouchá. „Není tam,“ rozhodnul, „můj hlas by ho vytáh jako z láhve zátku.“
 
-  
+</section>
+
+<section>
 
 Přec mně nedalo a sešel jsem tam o něco později.
 
@@ -663,7 +739,9 @@ Zase šístka. Že prý zůstaneme, jak jsme se rozhodili včera, kvůli zvyku. 
 
 Domácí se slečnou odejdou. Malíř a malířka se zadumají. „Zítra je neděle,“ praví konečně malíř, „víš co, kup husu!“
 
-  
+</section>
+
+<section>
 
 Klikeš nesmírně dopálen. Je u městské kavalerie, dnes jim umřel rytmistr a měli kvůli pohřbu schůzi. Klikeš navrhnul, aby telegrafovali do Vídně a vyprosili sobě milost, aby zemřelý byl teď ještě po smrti jmenován majorem, pohřeb že pak může být mnohem slavnější. Byl ve schůzi přec někdo rozumnější, zradil jim to a Klikeš zlostí ani nemluví.
 
@@ -675,19 +753,27 @@ Handlíř. – Ten chlap musil učinit slib!
 
 Takhle by to věru nešlo! To je studování? Pokračuju jako hlemýžď, myšlenky jsou pořád jinde nežli v knize. Nejsem vzrušen, lhal bych, ale jsem roztržit. Po mozku mně lezou figurky, moji sousedé; cítím, jak se tam hemží všechny najednou, a hned vynikne ta, hned ona, učiní před mým zrakem kotrmelec a vypravuje pak a šklebí se dle svého způsobu. Nic platno, změna se musí stát! Pro tyhlety lidi jsem se nestěhoval na Malou Stranu.
 
-  
+</section>
+
+<section>
 
 Jedenáct hodin. Slyším v kuchyni řinčení šavle; nejspíš je ten voják náš příbuzný. Kavalerista?
 
-  
+</section>
+
+<section>
 
 Pláč, pronikavý nářek malířčin; bolestný křik, kňučení a vytí malířova psa. Vyrozumím, že pes spáchal něco strašného: sežral malířčino portmoné i s obsaženými v něm rodinnými památkami, vlasy nebožtíka otce, cedulkou od svatební zpovědi a bůhvíčím.
 
-  
+</section>
+
+<section>
 
 Půl hodiny poměrného ticha, nato nový rámus u malířů. Malíř přišel domů, nejspíš z vinárny. Slyším ho hlasitě mluvit, pak nějak nadávat, konečně se rvavým hlasem rozléhají slova: „Tak! Já ti povídám, zkrnělý lunte, že husí játra patří hlavě rodiny! Celý svět ti to řekne, mizerná ošklebo!“ Malíř se celý rozkacený objevil u okna. Rychle jsem se sehnul pod okenní zídku. Po okamžiku slyším: „Pane Sempře, mám pravdu, nebo nemám, že husí játra patří hlavě rodiny!?“ Sempra neslyším, ale malíř křičí pak zas: „No tak vidíš, ty –.“ Nejspíš sobě malířka upekla játra z bolesti nad ztrátou rodinných památek. Naproti hlučí a zápasí hlasy dál, pojednou vynikne zas hlas malířův: „A ty dvě desítky taky sežral? – Copak budem teď jíst?“
 
-  
+</section>
+
+<section>
 
 Krásné, tichounké odpoledne. Nedělní klid, při jakémž je člověku tak volno. Nedalo mně a musil jsem dolů do zahrádky; je prázdna, posvátné ticho v ní.
 
@@ -739,7 +825,9 @@ Oddělili jsme se se slečnou od ostatních. Sedíme v besídce pospolu a pov�
 
 Příjemná ženská!
 
-  
+</section>
+
+<section>
 
 Klikeš navečer mluvil nápadně pilně do Sempra a bylo patrno, že Sempr naslouchá s pozorlivostí u něho neobyčejnou. Vyrozuměl jsem, že Klikeš mu domlouvá, aby se znovu oženil, a že má také už nevěstu pro něho. „Šestadvacet let“ – „tři tisíce“ – „má velké známosti mezi pány“ – „mají ji rádi“. – Abych se zde takhle nějaké svatby dočkal!
 
@@ -749,7 +837,9 @@ Nadporučík se dnes po mně nápadně ohlížel. Alespoň dvacetkrát se ohlíd
 
 Studuju, ale divně. Raděj bych seděl hned teď ráno dole v zahradě, sám nebo s ostatními, to by mně bylo jedno. Myšlenky se rozbíhají jako… (už zase nevím jako co).
 
-  
+</section>
+
+<section>
 
 Aj aj – dnes si malíř odbývá svůj rámus časně! Pozoroval-li jsem dobře, byla bita a) žena, b) Pepík, c) pes. Pes ještě kňučí.
 
@@ -759,7 +849,9 @@ Dal jsem mu papír a odešel. Za chvilku přišel ubrečený Pepík, že otec d
 
 Malíř chodí po pokoji, nejspíš přemýšlí.
 
-  
+</section>
+
+<section>
 
 Byl jsem u kupce vedle. Když teď něčeho potřebuju, jdu si pro to prostě sám. Vracím se a tu potkám náhodou zrovna u domu dobrého svého známého, doktora Jensena, primáře v blázinci. Landá se pomalu a dívá po ulici.
 
@@ -781,29 +873,41 @@ Aha! Tedy žádná nahodilá procházka! Jen já mu náhodou přišel vhod! Cít
 
 Po chvíli se teď poroučí a slibuje, že přijde zas, až půjde náhodou kolem. Nemusí přijít! Myslím, že jsem mu na to ani slušně neodpověděl.
 
-  
+</section>
+
+<section>
 
 On je mládencem zrovna tak jako já! – Ne – vskutku ne – nemyslím si pranic, to tak – ale pravda je, že když mladý advokát začne s nějakým kapitálem – hehe! – hehehe! Nač takové hloupé myšlenky, a teď!
 
-  
+</section>
+
+<section>
 
 Myslím, že Neruda má pravdu, když tvrdí, že my mužští jsme na každou ženskou žárlivi, i když nemáme pražádného interesu.
 
-  
+</section>
+
+<section>
 
 Malíř chodí naproti pořád sem tam po pokoji. Ještě přemýšlí.
 
-  
+</section>
+
+<section>
 
 Neštěstí při obědě. V polívce plovala nějaká muší rodina. Otce a matku jsem v roztržitosti spolkl; pak tam ale plavalo ještě muší embryo a to jsem už nemohl. Já mouchy, Pepík dopisy, pes rodinné památky – bůh ví, co se v tom domě zde všechno sní!
 
-  
+</section>
+
+<section>
 
 Už vím kdo! – Stál jsem náhodou právě u okna, když na schodech zařinčela šavle. Vyhnu se ven – tlustý nadporučík zdola! Tentýž, který má v mých zápiskách zaznamenaný vyhazov.
 
 Příbuzný konduktérčin?
 
-  
+</section>
+
+<section>
 
 Podvečerní táčky v zahrádce. Provazník mně šeptá s velkým gustem, že prý dnes na té mladé paničce vedle něho po prvé pozoroval červené oči. Provazník je mně už protivný. Pak se ptá domácího, byl-li dnes na pohřbu rytmistra od městské kavalerie. „Nebyl! – Já nechodím na pohřby – už od pohřbu svého otce jsem na žádném nebyl. Tenkrát zpívali u rakve – zpívali falešně – strašný tón! – ten děsný, falešný jeden tón pronásleduje mne po celé další živobytí!“ – Není to poetické?
 
@@ -823,11 +927,15 @@ Abych nelhal: studií se myšlenky ty dotýkají jen co nejvšeobecněji. Jsem p
 
 Pozoruju, že jsem napsal „Otylka“. Pozor – pozor!
 
-  
+</section>
+
+<section>
 
 U malířů neobyčejné ticho. Malíř sedí u stolu, hlavu má opřenu o dlaň, hledí do výše a přemýšlí.
 
-  
+</section>
+
+<section>
 
 Odpůldne – doktor Jensen! Ten to žene!
 
@@ -837,7 +945,9 @@ Už stojí zase před zrcadlem u okna. Není smutnějšího podívání nad �
 
 Vidí domácího a slečnu, jak jdou dvorem do zahrady. Mluví na ně z okna. Zcela familiárně s nimi mluví. Jsou lidé, kteří ze staré známosti sobě osobují skutečně všelijaká práva. – Zvou ho do zahrádky – on mne vybízí – no pojďme – uvidíme, kdo s koho – – ne, neuvidíme, vždyť já přec ničeho nechci! – Cítím skutečně, že nechci praničeho.
 
-  
+</section>
+
+<section>
 
 Zahrádka má dnes zcela jinou tvářnost, připadá mně cizí. Jiný vzduch, myslím, jiní lidé. – Když ale myslím hloub, vidím, že mně vlastně vadí jen doktor Jensen. Mluví zajímavě, jak se tomu říká: mnozí lidé jsou dost povrchní, aby mluvili o všem zajímavě. Znenáhla jsou tu všichni mimo Provazníka, a naslouchají Jensenovi, jako by mluvil bůhvíco. Nedělám si věru pranic z toho, že já nemluvím „zajímavě“.
 
@@ -849,7 +959,9 @@ Provazník dnes mezi námi vůbec ani nebyl.
 
 O Jensenovi mluvilo se ještě dlouho, když odešel, až příliš dlouho. Otylie mně šeptala: „Já se ho bojím!“ Odpovídám: „Přirozený takt je někdy znamenitá věc!“
 
-  
+</section>
+
+<section>
 
 Klikeš mluví napořád do Sempra. Hostinský přistrkuje co možná blízko hlavu. Pořád si odkašlává a na Klikeše hledí, jako by ho chtěl spolknout.
 
@@ -857,15 +969,21 @@ Klikeš mluví napořád do Sempra. Hostinský přistrkuje co možná blízko hl
 
 Devět hodin a Jensen je zde. Vykukuje do zahrádky, na chodbu, a mezitím se zahledí vždy alespoň třikrát do zrcadla, a to na hezky dlouho. Zdali prý nikdo nechodí časně do zahrádky? Odpovídám jednoslabičně: „Ne!“ Konečně zdali prý mně nepřekáží? Pravím, že skutečně je nejvyšší čas, abych pilně studoval. Jensen jde, nějak mrzut. Aťsi!
 
-  
+</section>
+
+<section>
 
 K polednímu poslal ke mně malíř, abych mu půjčil obálku na list. Teď hledím k němu oknem. Žena, kluk stojí vedle stolu a dívají se na něho, jak píše adresu.
 
-  
+</section>
+
+<section>
 
 Malíř chodí po pokoji, dopis v obálce drží v ruce a vždy po chvilkách zůstává stát a pohlíží zamyšleně na svůj duševní výrobek. Snad cítí jakous pýchu.
 
-  
+</section>
+
+<section>
 
 Jsem odpůldne v zahrádce první. Celou věčností se mně zdá, než se dostavují ostatní.
 
@@ -877,7 +995,9 @@ Pak jsme hráli šístku ve třech. Co nejtrpělivěji snášel jsem při hře v
 
 Provazník dnes zase nepřišel.
 
-  
+</section>
+
+<section>
 
 Něco podobně hloupého nepřihodilo se mně jaktěživo!
 
@@ -885,13 +1005,17 @@ Něco podobně hloupého nepřihodilo se mně jaktěživo!
 
 Není pochyby – jsem zamilován!
 
-  
+</section>
+
+<section>
 
 Aby takhle stálo najednou mezi inserty v novinách: „Panu doktoru Krumlovskému a jeho spanilomyslné nevěstě, slečně Otylii – –“! U těch chlapů je každá „spanilomyslná“! – Nikdo na světě nesmí mít ani zdání – ač –
 
 _Musí být jasno mezi námi!_
 
-  
+</section>
+
+<section>
 
 Pěkný výjev – ještě se zlostí třesu! Žaludek by mohl člověk vypliv­nout!
 
@@ -941,11 +1065,15 @@ Celý se zlostí třesu! Souboj – neumím šavli vzít do ruky! To tak, já d
 
 Blázni, z blázince uteklí!
 
-  
+</section>
+
+<section>
 
 Teď jsem si vyšel ke konduktérce, slyšel jsem ji po kuchyni chodit. Rád bych jí věc nějak vylíčil a něco jí řekl. „Jdou domů tloustnout!“ praví vzpurně, obrátí se ke mně zády a jde do svého pokoje. Dobrá, půjdu „domů tloustnout“! Divná pořekadla!
 
-  
+</section>
+
+<section>
 
 Zahrádka dnes zcela zvláštní. Jsem rozhodně rozčilen, nemohu za to.
 
@@ -963,11 +1091,15 @@ Proklatý chlap! –
 
 Zábava dnes skoro pořád vázla. O své vojenské návštěvě jsem ani nemuknul.
 
-  
+</section>
+
+<section>
 
 Tu máš! Čert mne nesl na Malou Stranu!
 
-  
+</section>
+
+<section>
 
 No – co naplat! Vyvedl jsem to! Mohl jsem zcela dobře říkat „ne!“ – však on by byl svou hrozbu asi nesplnil – když se ale krev i v jehněti rozkypí! – Že mne poraní, je jisto – já mu neudělám zajisté nic! Budu raněn ležet, studie zaváznou pro čas, snad pro tak dlouho, že promeškám lhůtu. Snad by bylo líp, kdyby mne zabil!
 
@@ -975,11 +1107,15 @@ Zas řinčela šavle, klepalo se a vešel včerejší poručík v plné parád
 
 Tak, teď to mám! Ono je možno, že věc přec nějak propukne – snad poslouchala naši až příliš hlasitou rozpravu konduktérka – ba vsázím se, že poslouchala – já vím, že beztoho ona je příčinou všeho. Jak věci se mají, vidím ovšem teď, že jsem původně urazil její ženskou samolibost. Ale „hloupý“ jsem proto nebyl! Teď jsem! A prozradí-li nás – sbohem, advokaturo! Do smrti být koncipientem! – No, nějaký kapitálek mám, a Otylie má – – vždyť ale nevím ani, zda by si mne vzala!?
 
-  
+</section>
+
+<section>
 
 Rozumí se samo sebou, že nestuduju pranic. Jen se tak dívám do knihy a v myšlenkách si nadávám.
 
-  
+</section>
+
+<section>
 
 Pošta mně přinesla list. Poštovní známka je malostranská – list je anonymní – proklatý Provazník!
 
@@ -989,13 +1125,17 @@ Myslím, že jste víc kandidátem manželství než advokatury. Vaše touha po 
 
 No počkej, tobě dám! Na tobě se pomstím místo na nadporučíkovi. Beztoho vjela do mne řvavost, že bych se s celým světem pral.
 
-  
+</section>
+
+<section>
 
 Nemohu říci, že bych se bál o život. Ani poranění se nebojím; myslím nějak zcela chladně na to. Ale to vím, že strach přijde, a toho _strachu_ se bojím. Nenavykl jsem soubojům – jakživ jsem na žádný ani nepomyslil – strach musí přijít. A budu nervosně rozechvěn – každá čiva se bude chvít – každý sval třást – nebude okamžiku bez zimnice – a strachy budu zívat.
 
 To bude děsné!
 
-  
+</section>
+
+<section>
 
 Bavíme se v zahrádce, ale jak! Vyznání dnes neučiním, nač také! Vezmi svůj šáteček, Otylie, a připrav šarpii[^140]! Budu-li mrtev, je konec; budu-li raněn, Otylka mne bude ošetřovat – myslím si aspoň – a tu se vypřede vyznání samo od sebe. Jako v románech.
 
@@ -1021,7 +1161,9 @@ Mluvíme, mluvíme, ale nic kalého. Chodím pak s Otylií mezi záhony. Náhle
 
 Má – má sympatii ke mně – je to zcela patrné!
 
-  
+</section>
+
+<section>
 
 Sedím doma a přemýšlím. Jsem ku podivu klidný, strach ještě nepřišel – však on přijde!
 
@@ -1039,7 +1181,9 @@ Nemohu se poručíka ani dočkat.
 
 Mám, nemám už strach? Rozechvěn jsem, zívám, ale připadá mně, jako bych zíval zimničnou nedočkavostí.
 
-  
+</section>
+
+<section>
 
 Byl zde. Zítra tedy v šest hodin ráno v kasárnách na Hradčanech, v jakéms prý zahradním saloně. Myslím si: „Tedy tě odnesou ze salonu!“ a musím se tomu v duchu smát, jakoby nějakému neslýchanému, nevídanému vtipu.
 
@@ -1047,7 +1191,9 @@ Byl vybraně zdvořilý. Něco i řekl, jako že „by sám byl rád, kdyby se 
 
 Eh – co!
 
-  
+</section>
+
+<section>
 
 Jsem návštěvou u přítele Morouska na Smíchově. Za prvé: doma bych to nevydržel. Za druhé: Morousek je výtečný šermíř, prával se jako buldok, může mne honem ještě něčemu naučit.
 
@@ -1065,7 +1211,9 @@ Ještě mne za odpůldne dvakrát donutil k šermu. Sekám do vzduchu a do Mor
 
 Jdu pozdě navečer domů. Strašná bolest v loktech a v kolenou. Cožpak jsem šermoval také nohama?
 
-  
+</section>
+
+<section>
 
 Nalézám doma lístek. Od Otylie!
 
@@ -1085,13 +1233,17 @@ Jdu, hlasitě si hvízdaje – vida, teď mně Traviata napadla –, pomalu dv
 
 Snad je líp, když dnes spolu nemluvíme. Baže je líp! – A zítra?
 
-  
+</section>
+
+<section>
 
 Malíř leží v okně. Rád bych se podíval k chodbě, ale zpozoroval by mne a začal rozmluvu. Zatáhl jsem záclony.
 
 Poslední vůle! – Není nic platno, pořádek musím učinit. – Jen krátký, jasný, několikařádkový, všechno jmění sestře, a basta!
 
-  
+</section>
+
+<section>
 
 Tak, a teď zkusím spát. Jsem klidný, až nápadně – ale zítra se budu třást jako osika, já to vím!
 
@@ -1105,13 +1257,17 @@ Sotva jsem dvě hodiny spal, a přec jsem vyspalý. Je šero – v červenci 
 
 Nevím, co s časem. Dolů do zahrádky nechci jít. Na ulici? Při zimnici své bych se dal do běhu a unavil bych se. Beztoho mne ruce od včerejška bolí. Snad se probírat v papírech a rovnat je trochu?
 
-  
+</section>
+
+<section>
 
 Půl šesté – tak jsem se zabral. Rozhlížím se po pokoji, jako bych byl něco zapomněl. Copak jsem mohl zapomenout! –
 
 Tedy sbohem!
 
-  
+</section>
+
+<section>
 
 Vylítl jsem přes schody do dvora, dvorem do kasárního průjezdu, vraty ven – poskočil jsem si – je mně jako do radostného pláče, a vskutku oči zavlhly – zrovna jako bych byl z tmavého sklepení vyšel náhle do slunečního jasu! Škubnu sebou vpravo, vlevo – nevím, kam chci. –
 
@@ -1129,7 +1285,9 @@ Domov mne přivádí k sobě. „Ale zdalipak víš, žes mně vlastně nepově
 
 Ano, je pravda, já nepověděl posud vlastně pranic. Musím se sebrat trochu do chladnosti.
 
-  
+</section>
+
+<section>
 
 Čekali na mne dva už u vchodu do kasáren. Vedli mne přes dvůr, dolů přes schody a do zahradního salonu. Zde čekal nadporučík a lékař. Druhý z obou důstojníků, kteří mne od vrat byli sprovázeli, představil se mně co můj sekundant. Pravil mně, že je vše v nejspravedlivějším pořádku a zbraně navlas stejné. Myslím, že jsem se uklonil. Tu přistoupil ke mně známý mně poručík, sekundant nadporučíkův, a pravil: „Pánové nemají, pokud vím, žádné zvlášť osobní trpkosti proti sobě – souboj se stane – ale navrhuju: jen do první krve. Chcete tak, pane?“ – „Dobře,“ pravím. „Dobře,“ praví nadporučík a svlíká svrchní šat. Svlíkám se také.
 
@@ -1145,7 +1303,9 @@ Teď mně teprv napadá, jak ušlechtilou starostlivost dokázal Morousek. „Kd
 
 „Zlatý, zlaťounký Morousku!“ a už mu visím na krku. Měl co dělat, aby mne setřásl. Já mám někdy ukrutnou sílu.
 
-  
+</section>
+
+<section>
 
 Maličká vinárna. A dva známí zde: krejčí Sempr, hostinský. Podávám jim ruku. „Cože – náš pan hostinský zachází také jinam?“ – „I už jsem nebyl alespoň deset let nikde, až dnes!“
 
@@ -1153,13 +1313,17 @@ My usedli k jinému stolku. Jíme, popíjíme, a Morousek mně šeptem dokazuj
 
 Hostinský se patrně dostává do ohně, mluví vždy hlasitěji. Domlouvá Semprovi, aby se neženil, ne a ne! Klikeše pomlouvá jako strůjce všeho zlého na světě. O ženských mluví s opovržením. Teď si vyšel Sempr pro doutníky a interpeluju hostinského. „Ale poslouchejte, pane hostinský, pročpak zrazujete Semprovi?“ – „Copak nejsem hostinský? Mám svých stálých několik hostů a musím si je udržet!“ – „Ale on by přec potřeboval dobrou hospodyni a pro dceru potřebuje matku.“ – „Ne – dobrý host! – on u mne obědvá, on dobře večeří, pije svých –“ Sempr je zde.
 
-  
+</section>
+
+<section>
 
 Byt prázdný, a dali mně jej rádi. Hned pozejtří, v pondělí se přestěhuju. Co tomu as Otylie řekne? – Myslím, že vše nahlídne, vždyť s ní promluvím – výklad a vyznání zároveň! Ostatně mohu přicházet ob den, nebo třeba každý den. Je pravda – zvěst o souboji se přece trochu rozšíří, _obdivovali_ by mne, ale – existence předchází.
 
 Morousek mne zavezl k sobě na oběd. Bavíme se při jídle o mém souboji. Morousek je v růžovém rozmaru, ale myslím, že mne dělá směšným. To je, mírně řečeno, nerozumné a zbytečné.
 
-  
+</section>
+
+<section>
 
 K večeru jsem si pospíšil domů a hned do zahrádky.
 
@@ -1167,7 +1331,9 @@ Otylie se skutečně hněvá! Neodpovídá mně, vyhýbá se. – Myslil bych, 
 
 Ženské vrtochy nejsou vždycky příjemny!
 
-  
+</section>
+
+<section>
 
 Byl jsem navečer v bývalém svém hostinci na Starém Městě. Výborná zábava! Sršel jsem vtipem, abych tak řekl. Divili se mému rozmaru a jak prý dobře vypadám. Ano – a před necelým dnem mohl jsem být na márách!
 
@@ -1177,7 +1343,9 @@ Dnes, doufám, bude se to dobře spát!
 
 Vzbudil jsem se velmi časně – reminiscence po včerejšku! Ale bylo mně volno, tak volno jako novorozeněti ve vlažné lázni, a protáhl jsem tělíčko a natáhl ručičky a hajal blaženě dál až do devíti.
 
-  
+</section>
+
+<section>
 
 A doktor Jensen je zde. Le pourquoi?[^142] – No ty se podivíš, a to ještě dnes!
 
@@ -1189,7 +1357,9 @@ Otevřel jsem ústa a vyvalil oči. Jak? – Jen to?
 
 Cítím jakés ulehčení, je pravda. Ale – zároveň také něco jako zklamání.
 
-  
+</section>
+
+<section>
 
 Doktor odešel. Je mně, jako bych měl za ním volat: „Vidíte – kdybyste byl snad tento – já – totiž co se mne týče – já bych vám nebyl –“
 
@@ -1197,19 +1367,25 @@ Vskutku mně pojednou připadá, jako bych byl nikdy ani na soupeřství nepomý
 
 Ba je mně jako – ach, mužský je přec jen divný tvor!
 
-  
+</section>
+
+<section>
 
 Konduktérce jsem teď krátce a suše sdělil, že do zítřka do večera jsem vystěhován. Vyslechla mne se sklopenýma očima a nehlesla. Klopí teď stále přede mnou oči. Tebe jsem zkrotil!
 
 Ale ku podivu – konduktéra jsem po celý pobyt svůj ani nespatřil! Vždycky se to tak nějak – ale je také dobře, myslím, že by mně ho bylo líto.
 
-  
+</section>
+
+<section>
 
 Otylie se hněvá dál; mně je, upřímně řečeno, hněv její skoro lho­stejný. Cítím jen tak jakoby lehýnkou urážku. Sdělil jsem všem v zahrádce, že se stěhuju, ona byla přitom zcela chladna, vskutku chladna, jako bych jí sdělil, že padla vařečka na zem. – Ženská je také divný tvor!
 
 Zaplať pánbůh, že jsem se jí nevyznal z „lásky“.
 
-  
+</section>
+
+<section>
 
 Byl jsem v staroměstském svém hostinci. Mezi těmi lidmi člověk zrovna osvěží a je pak zase schopnější duševní práce. Jen zas do práce, do práce! – po advokátní zkoušce jsem všech zkoušek prost už pro celý život!
 
@@ -1217,21 +1393,29 @@ Byl jsem v staroměstském svém hostinci. Mezi těmi lidmi člověk zrovna osv
 
 Jsem v plném stěhování.
 
-  
+</section>
+
+<section>
 
 U malíře všeobecný výprask, děsný rámus – příprava ku psaní druhého listu. Poslal si ke mně zas pro papír. Vzkázal jsem mu prostě, že už mám vše složeno a ani nevím, kde papír je.
 
-  
+</section>
+
+<section>
 
 Domácí slečna řeže v zahrádce salát.
 
 Pozoruju ji chladně. Ta je už zvadlá!
 
-  
+</section>
+
+<section>
 
 Ať mně přijde Neruda ještě jednou s nějakou „Povídkou malostranskou“!
 
-  
+</section>
+
+<section>
 
 [^118]: Druh hazardní karetní hry. Pozn. red.
 
@@ -1282,3 +1466,5 @@ Ať mně přijde Neruda ještě jednou s nějakou „Povídkou malostranskou“
 [^141]: Šermířské zbraně. _Pozn. red._
 
 [^142]: Proč? _Pozn. red._
+
+</section>

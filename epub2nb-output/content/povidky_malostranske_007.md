@@ -3,6 +3,8 @@ title: "Pan Ryšánek a\_pan Schlegl"
 contentType: prose
 ---
 
+<section>
+
 1875
 
 ## I
@@ -128,3 +130,5 @@ A od té doby mluvili pan Ryšánek a pan Schlegl u třetího stolku spolu.
 [^53]: Dvacet dva. Pozn. red.
 
 [^54]: Třetí neděle po Velikonocích. Pozn. red.
+
+</section>
