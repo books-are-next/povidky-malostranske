@@ -3,6 +3,8 @@ title: Večerní šplechty
 contentType: prose
 ---
 
+<section>
+
 1875
 
 Krásná, teplá noc červnová. Hvězdy se jenjen třepetaly, měsíc svítil tak vesele, vzduch byl samé stříbrné světlo.
@@ -258,3 +260,5 @@ Snad slyšel Jäkl také cosi podobného. Složil alespoň své dlouhé ruce kli
 [^76]: Kouzelně, půvabně. Pozn. red.
 
 [^77]: Abych přišel ve tři hodiny ke sv. Mikuláši. _Pozn. red._
+
+</section>

@@ -3,6 +3,8 @@ title: "Psáno o\_letošních Dušičkách"
 contentType: prose
 ---
 
+<section>
+
 1876
 
 Nevím, kolikrát přijde ještě o Dušičkách na košířský hřbitov, dnes alespoň kráčela již namáhavě, nohy jí už nějak neslouží. Takto se dělo arci vše, jak se děje každoročně. Kolem jedenácté hodiny vylézala mohutná, těžká její postava z drožky, za ní vyndal kočí náhrobní věnce z vozu, obalené v bílém šatu, a pak vyndal pětileté děvčátko, taktéž teple obalené. To děvčátko je už asi po patnácte let pořád pětileté, slečna Máry si je vypůjčuje vždy někde v sousedstvu.
@@ -39,7 +41,9 @@ Tu se stalo pojednou, že slečna Máry obdržela po poslici list, pečlivě, sk
 
 Zněl:
 
-  
+</section>
+
+<section>
 
 „Velevážená slečno!
 
@@ -77,7 +81,9 @@ Slečna Máry se červenala jako purpur. –
 
 Zrovna o týden později našla slečna Máry, navrátivši se z kostela, list jiný. Čtla s rostoucím udivením:
 
-  
+</section>
+
+<section>
 
 „Ctěná slečinko!
 
@@ -97,7 +103,9 @@ Cibulka už byl „Vilémem“ – Rechner byl ztracen. Usneseno, že paní Noc
 
 Ale netrvalo to ani týden a slečna Máry přišla ku své přítelkyni zas s novým listem v ruce. Tvář její zářila spokojeností. List zněl.
 
-  
+</section>
+
+<section>
 
 „Ctěná slečinko!
 
@@ -115,7 +123,9 @@ Polekaná přítelkyně sotva že vypravila otázku ze sebe. Slečně Máry vyhr
 
 Paní Nocarová tušila něco děsného. List byl vskutku velmi vážný:
 
-  
+</section>
+
+<section>
 
 „Velevážená slečno!
 
@@ -166,3 +176,5 @@ Mimo hroby Cibulků a Rechnerů zakoupila slečna Máry ještě hrob třetí na
 Ale jak praveno, slečně Máry nebylo do té paní pranic. Hrob paní Töpferové leží však tak as uprostřed mezi hroby Cibulkovým a Rechnerovým. Urazil bych ostrovtip čtenářův, kdybych pronesl své zdání, proč jej zakoupila a kdeže as bude jednou odpočívat slečna Máry.
 
 [^117]: Písař. _Pozn. red._
+
+</section>

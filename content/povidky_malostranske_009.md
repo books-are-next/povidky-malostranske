@@ -3,6 +3,8 @@ title: "O\_měkkém srdci paní Rusky"
 contentType: prose
 ---
 
+<section>
+
 1875
 
 Velš Josef, kupec, byl z nejzámožnějších obchodníků malostranských. Myslím, že měl v krámě svém vůbec vše, co plodí Indie i Afrika, od sladkého dřeva a pálené slonové kosti na leštidlo až k zlatému prášku. Také byl jeho krám na náměstí po celý den, jak by nabil. Pan Velš byl v krámě celý den, vyjímaje v neděli čas velkých služeb božích v Chrámě sv. Víta a pak dobu některých velkých parád, jež měly pražské sbory měšťanské, neboť pan Velš byl ostrostřelec, první setnina, první tlupa, třetí muž vždy od pana lajtnanta Nedomy vpravo. V krámě byl by rád obsloužil všechny přicházející sám, ač měl tu dva mládence a dva učedníky, a koho nemohl obsloužit, pozdravil, zakýval, usmál se. Pan Velš usmíval se vlastně pořád, v krámě, na ulici, v kostele, všude, obchodní úsměv byl se mu vryl v lícní svaly a nemohl již z nich ven. Milá figurka, nevelký, tlustý, s hlavičkou stále se potřásající a s tím úsměvem. V krámě v placaté čepici a s koženou kupeckou zástěrou, na ulici v dlouhánském modrém kabátě se zlatými knoflíky a v baňatém cylindru. Měl jsem jistou titěrnou představu o panu Velši. V domácnosti jeho nebyl jsem za jeho živobytí nikdy, ale kdykoli jsem si ho myslil, jak vypadá as doma, byl obraz vždy stejný: pan Velš sedí bez čepice, ale v zástěře u stolu, před ním stojí talíř kouřící se polívky, loket má pan Velš opřený o stůl a ruka drží nabranou lžíci uprostřed mezi talířem a úsměvnými ústy, a tak tu sedí jakoby vytesán a lžíce se nehne ani sem, ani tam. Hloupá představa, to vím.
@@ -86,3 +88,5 @@ As po půl roce vystěhovala se ze svého domu a najala sobě byt zrovna vedle 
 [^60]: Dnešní Tržiště. _Pozn. red._
 
 [^61]: Příležitostná pracovnice za denní mzdu. Pozn. red.
+
+</section>

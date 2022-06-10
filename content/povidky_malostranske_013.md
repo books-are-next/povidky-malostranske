@@ -3,6 +3,8 @@ title: Jak si nakouřilpan Vorel pěnovku
 contentType: prose
 ---
 
+<section>
+
 1876
 
 Dne 16. února roku tisíc osm set čtyřicet a ještě několik otevřel pan Vorel svůj krupařský krám U Zeleného anděla. – „Du Poldi, hörst,“[^88] pravila paní setníková v patře nad námi ku své slečně dceři, která šla právě do trhu a byla již venku na chodbě, „krupici kup tady u toho nového, můžem to zkusit.“
@@ -60,3 +62,5 @@ Sáhnul do kalmuku nebožtíkova a vyndal z něho dýmku. Držel ji k světlu
 [^89]: Papírové peníze vydané roku 1811 při rakouském státním bankrotu. Pozn. red.
 
 [^90]: K 16. říjnu, k stěhovacímu termínu. _Pozn. red._
+
+</section>
