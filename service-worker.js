@@ -764,7 +764,7 @@ Object.defineProperty(exports, "__esModule", { value: true });
 /// <reference lib="WebWorker" />
 require("regenerator-runtime");
 const sw = self;
-const CACHE = 'cache-4070296';
+const CACHE = 'cache-7ee2e74';
 /**
  * IndexedDB singleton wrapper used to store persistent information with an predefined {@link Schema}
  */
@@ -1019,7 +1019,7 @@ async function cache(context) {
         .open(CACHE)
         .then(cache => {
         console.log('[' + context + '] Opened cache');
-        return cache.addAll(["./","./colophon.html","./favicon.png","./index.html","./manifest.json","./povidky_malostranske_005.html","./povidky_malostranske_006.html","./povidky_malostranske_007.html","./povidky_malostranske_008.html","./povidky_malostranske_009.html","./povidky_malostranske_010.html","./povidky_malostranske_011.html","./povidky_malostranske_012.html","./povidky_malostranske_013.html","./povidky_malostranske_014.html","./povidky_malostranske_015.html","./povidky_malostranske_016.html","./povidky_malostranske_017.html","./povidky_malostranske_018.html","./promo.html","./fonts/Literata-Italic-var.woff2","./fonts/Literata-var.woff2","./fonts/LiterataTT-TextItalic.woff2","./fonts/LiterataTT-TextRegular.woff2","./fonts/LiterataTT-TextSemibold.woff2","./fonts/LiterataTT_LICENSE.txt","./fonts/SpaceGroteskVF.woff2","./fonts/SpaceGroteskVF_LICENSE.txt","./resources/image001_fmt.jpeg","./resources/image003_fmt.jpeg","./resources/image004_fmt.jpeg","./resources/obalka_povidky_malostr_fmt.jpeg","./resources/upoutavka_eknihy_fmt.jpeg","./scripts/bundle.js","./style/style.min.css","./template-images/circles.png"]);
+        return cache.addAll(["./","./colophon.html","./favicon.png","./index.html","./manifest.json","./povidky_malostranske_005.html","./povidky_malostranske_006.html","./povidky_malostranske_007.html","./povidky_malostranske_008.html","./povidky_malostranske_009.html","./povidky_malostranske_010.html","./povidky_malostranske_011.html","./povidky_malostranske_012.html","./povidky_malostranske_013.html","./povidky_malostranske_014.html","./povidky_malostranske_015.html","./povidky_malostranske_016.html","./povidky_malostranske_017.html","./povidky_malostranske_018.html","./promo.html","./fonts/Literata-Italic-var.woff2","./fonts/Literata-var.woff2","./fonts/LiterataTT-TextItalic.woff2","./fonts/LiterataTT-TextRegular.woff2","./fonts/LiterataTT-TextSemibold.woff2","./fonts/LiterataTT_LICENSE.txt","./fonts/SpaceGroteskVF.woff2","./fonts/SpaceGroteskVF_LICENSE.txt","./scripts/bundle.js","./style/style.min.css","./resources/image001_fmt.jpeg","./resources/image003_fmt.jpeg","./resources/image004_fmt.jpeg","./resources/obalka_povidky_malostr_fmt.jpeg","./resources/upoutavka_eknihy_fmt.jpeg","./template-images/circles.png"]);
     })
         .then(() => idb.set({ key: 'cacheUpdatedAt', value: new Date().toISOString() }))
         .then(() => {
