@@ -12,6 +12,7 @@ meta:
   languageCode: cs
   publisherShort: mkp
   edition: beletrie
+  isbn: 978-80-274-2460-3
 readingOrder:
   - promo.html
   - povidky_malostranske_005.html
