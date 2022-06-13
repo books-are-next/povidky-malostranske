@@ -8,7 +8,8 @@
       "modified": "2021-10-22T10:08:13.764Z",
       "languageCode": "cs",
       "publisherShort": "mkp",
-      "edition": "beletrie"
+      "edition": "beletrie",
+      "isbn": "978-80-274-2460-3"
     },
     "elements": {
       "title": "MLP-uroven2-kapitola",
@@ -447,6 +448,6 @@
       "user": "books-are-next",
       "repo": "povidky-malostranske"
     },
-    "generatedAt": 1654948761114
+    "generatedAt": 1655155798916
   }
 }

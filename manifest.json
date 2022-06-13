@@ -8,8 +8,8 @@
   "edition": "beletrie",
   "languageCode": "cs",
   "root": "main",
-  "identifier": "neruda-povidky-malostranske-7ee2e74",
-  "revision": "7ee2e74",
+  "identifier": "neruda-povidky-malostranske-3128d64",
+  "revision": "3128d64",
   "readingOrder": [
     "promo.html",
     "povidky_malostranske_005.html",
@@ -29,8 +29,8 @@
     "colophon.html"
   ],
   "generatedAt": {
-    "date": "Sat Jun 11 2022 12:09:22 GMT+0000 (Coordinated Universal Time)",
-    "unix": 1654949362432
+    "date": "Mon Jun 13 2022 21:32:09 GMT+0000 (Coordinated Universal Time)",
+    "unix": 1655155929753
   },
   "documents": [
     {
@@ -449,9 +449,9 @@
     {
       "title": "Tiráž",
       "file": "colophon.html",
-      "words": 76,
-      "chars": 528,
-      "ideas": 7,
+      "words": 107,
+      "chars": 698,
+      "ideas": 15,
       "role": "colophon",
       "order": null,
       "prev": "povidky_malostranske_018.html",
@@ -469,9 +469,9 @@
   ],
   "totals": {
     "all": {
-      "words": 72036,
-      "chars": 418143,
-      "ideas": 2088
+      "words": 72067,
+      "chars": 418313,
+      "ideas": 2096
     },
     "chapters": {
       "words": 71954,
