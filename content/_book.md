@@ -13,6 +13,7 @@ meta:
   publisherShort: mkp
   edition: beletrie
   isbn: 978-80-274-2460-3
+  contentType: prose
 readingOrder:
   - promo.html
   - povidky_malostranske_005.html
