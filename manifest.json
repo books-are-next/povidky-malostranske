@@ -8,8 +8,8 @@
   "edition": "beletrie",
   "languageCode": "cs",
   "root": "main",
-  "identifier": "neruda-povidky-malostranske-2e824a1",
-  "revision": "2e824a1",
+  "identifier": "neruda-povidky-malostranske-2ffa184",
+  "revision": "2ffa184",
   "readingOrder": [
     "promo.html",
     "povidky_malostranske_005.html",
@@ -26,11 +26,11 @@
     "povidky_malostranske_016.html",
     "povidky_malostranske_017.html",
     "povidky_malostranske_018.html",
-    "colophon.html"
+    "about.html"
   ],
   "generatedAt": {
-    "date": "Thu Jun 23 2022 10:21:45 GMT+0000 (Coordinated Universal Time)",
-    "unix": 1655979705053
+    "date": "Thu Jul 07 2022 08:36:50 GMT+0000 (Coordinated Universal Time)",
+    "unix": 1657183010555
   },
   "documents": [
     {
@@ -240,7 +240,7 @@
         {
           "index": 0,
           "level": 1,
-          "name": "Přivedla žebráka na mizinu",
+          "name": "Přivedla žebráka na mizinu",
           "id": null,
           "children": []
         }
@@ -340,7 +340,7 @@
         {
           "index": 0,
           "level": 1,
-          "name": "Jak si nakouřilpan Vorel pěnovku",
+          "name": "Jak si nakouřilpan Vorel pěnovku",
           "id": null,
           "children": []
         }
@@ -400,7 +400,7 @@
         {
           "index": 0,
           "level": 1,
-          "name": "Jak to přišlo,že dne 20. srpna roku 1849, o půl jedné s poledne,Rakousko nebylo rozbořeno",
+          "name": "Jak to přišlo,že dne 20. srpna roku 1849, o půl jedné s poledne,Rakousko nebylo rozbořeno",
           "id": null,
           "children": []
         }
@@ -435,7 +435,7 @@
       "role": "chapter",
       "order": 14,
       "prev": "povidky_malostranske_017.html",
-      "next": "colophon.html",
+      "next": "about.html",
       "toc": [
         {
           "index": 0,
@@ -448,11 +448,11 @@
     },
     {
       "title": "Tiráž",
-      "file": "colophon.html",
+      "file": "about.html",
       "words": 125,
-      "chars": 842,
+      "chars": 841,
       "ideas": 16,
-      "role": "colophon",
+      "role": "about",
       "order": null,
       "prev": "povidky_malostranske_018.html",
       "next": null,
@@ -470,7 +470,7 @@
   "totals": {
     "all": {
       "words": 72085,
-      "chars": 418457,
+      "chars": 418456,
       "ideas": 2097
     },
     "chapters": {

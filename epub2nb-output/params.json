@@ -59,7 +59,7 @@
             "filename": "povidky_malostranske_003.md",
             "xhtml": "povidky_malostranske_003.xhtml",
             "id": 2,
-            "role": "colophon",
+            "role": "about",
             "inToc": false,
             "listType": "plain",
             "children": []
@@ -68,7 +68,7 @@
             "filename": "povidky_malostranske_004.md",
             "xhtml": "povidky_malostranske_004.xhtml",
             "id": 3,
-            "role": "colophon",
+            "role": "about",
             "inToc": false,
             "listType": "plain",
             "children": []
@@ -218,7 +218,7 @@
             "filename": "povidky_malostranske_019.md",
             "xhtml": "povidky_malostranske_019.xhtml",
             "id": 18,
-            "role": "colophon",
+            "role": "about",
             "inToc": false,
             "listType": "plain",
             "children": []
@@ -449,6 +449,6 @@
       "user": "books-are-next",
       "repo": "povidky-malostranske"
     },
-    "generatedAt": 1655979434286
+    "generatedAt": 1657182355513
   }
 }
