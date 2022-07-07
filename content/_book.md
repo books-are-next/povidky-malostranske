@@ -30,7 +30,7 @@ readingOrder:
   - povidky_malostranske_016.html
   - povidky_malostranske_017.html
   - povidky_malostranske_018.html
-  - colophon.html
+  - about.html
 tocBase:
   - id: section-1
     children:
