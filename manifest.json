@@ -8,8 +8,8 @@
   "edition": "beletrie",
   "languageCode": "cs",
   "root": "main",
-  "identifier": "neruda-povidky-malostranske-a7fec26",
-  "revision": "a7fec26",
+  "identifier": "neruda-povidky-malostranske-1533d21",
+  "revision": "1533d21",
   "readingOrder": [
     "promo.html",
     "povidky_malostranske_005.html",
@@ -29,8 +29,8 @@
     "about.html"
   ],
   "generatedAt": {
-    "date": "Tue Oct 04 2022 23:02:09 GMT+0000 (Coordinated Universal Time)",
-    "unix": 1664924529924
+    "date": "Fri Oct 07 2022 14:06:37 GMT+0000 (Coordinated Universal Time)",
+    "unix": 1665151597411
   },
   "documents": [
     {
